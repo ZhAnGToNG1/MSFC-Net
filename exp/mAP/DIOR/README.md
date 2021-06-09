@@ -4,10 +4,6 @@
 
 This code will evaluate the performance of your neural net for object recognition.
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/15831541/37559643-6738bcc8-2a21-11e8-8a07-ed836f19c5d9.gif" width="450" height="300" />
-</p>
-
 In practice, a **higher mAP** value indicates a **better performance** of your neural net, given your ground-truth and set of classes.
 
 ## Table of contents

@@ -17,14 +17,14 @@
 |ResNet-50     |  512x512  |    77.65     |     -    |
 |ResNet-101    |  512x512  |    77.83     |     -    |
 |ResNeXt-101   |  512x512  |    78.07     |     -    | 
-|ResNeSt-101   |  512x512  |    80.26     |     [download]()     |
+|ResNeSt-101   |  512x512  |    80.26     |     [download](https://pan.baidu.com/s/1EbL4yCLBmZy5xszWNkN3Gg)     |
 |ResNeSt-101   |  800x800  |    79.21     |     -    |
 
 ### Object detection on DIOR test
 
 | Backbone     | ImageSize |     mAP      |   Model  |
 |--------------|-----------|--------------|----------|
-|ResNeSt-101   |  512x512  |    70.08     |     [download]()     |
+|ResNeSt-101   |  512x512  |    70.08     |     [download](https://pan.baidu.com/s/1igbcB1Y3mdOQpFG--zU_jA)     |
 |ResNeSt-101   |  800x800  |    70.63     |     -    |
 
 ## Installation

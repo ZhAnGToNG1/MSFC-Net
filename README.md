@@ -56,4 +56,15 @@ For calculating the mAP, run:
 python main.py -na
 ~~~
  
+### Demo
+You can follow the below steps to run a quick demo:
+
+you need to download the network model (DOTA or DIOR), then run:
+~~~
+python ctdet --demo `MSFC-Net_ROOT/exp/demo/images/` --load_model `your model path` --nms --test_scales 1 --dataset DOTA --arch msfc_101
+~~~
+
+
+
+
 

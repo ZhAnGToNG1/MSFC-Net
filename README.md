@@ -1,5 +1,3 @@
 # MSFC-Net
-
-The complete test code is available now, the usage will be showed later.
-
-torch>1.1.0 python>3.6.1
+Multi-Scale Semantic Fusion-Guided Fractal Convolutional Object Detection Network for Optical Remote Sensing Imagery
+![](exp/dmeo/vis_results/00005ctdet.png)

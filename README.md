@@ -47,9 +47,10 @@ python ctdet --exp_id test_dior --test_dir `your data path` --patch_size 512 --p
 
 ### Evaluation
 
-After testing the images, the mAP is calculated by the https://github.com/Cartucho/mAP, for convenience, the code have been download into the project `MSFC-Net_ROOT/exp/mAP/DOTA` and `MSFC-Net_ROOT/exp/mAP/DIOR`. 
+After testing the images, the results would be save in `MSFC-Net_ROOT/exp/mAP/DOTA(DIOR)/input/detection-results/`.
 
-The above test results would be save in `MSFC-Net_ROOT/exp/mAP/DOTA(DIOR)/input/detection-results/`.
+The mAP is calculated by the https://github.com/Cartucho/mAP, for convenience, the code have been downloaded into the project `MSFC-Net_ROOT/exp/mAP/DOTA` and `MSFC-Net_ROOT/exp/mAP/DIOR`. 
+
 
 For calculating the mAP, run:
 ~~~

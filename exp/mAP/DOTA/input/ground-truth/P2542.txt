@@ -1,0 +1,6 @@
+storage-tank 1095.0 2129.0 1121.0 2156.0
+storage-tank 1077.0 2106.0 1103.0 2132.0
+roundabout 1612.0 2111.0 1633.0 2129.0
+roundabout 136.0 622.0 163.0 645.0
+soccer-ball-field 632.0 1005.0 754.0 1142.0 difficult
+ground-track-field 609.0 979.0 783.0 1172.0

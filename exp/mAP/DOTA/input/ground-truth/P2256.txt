@@ -1,0 +1,37 @@
+ship 363.0 520.0 371.0 527.0 difficult
+ship 404.0 435.0 411.0 446.0 difficult
+ship 315.0 438.0 319.0 449.0 difficult
+ship 327.0 496.0 333.0 506.0 difficult
+ship 345.0 494.0 350.0 505.0 difficult
+ship 334.0 495.0 338.0 506.0 difficult
+bridge 960.0 1080.0 1012.0 1099.0
+bridge 957.0 1061.0 1009.0 1080.0
+bridge 4279.0 459.0 4365.0 492.0
+bridge 4274.0 439.0 4361.0 472.0
+bridge 3499.0 604.0 3731.0 668.0
+bridge 3494.0 586.0 3730.0 651.0
+bridge 3036.0 744.0 3123.0 779.0
+bridge 3031.0 725.0 3121.0 759.0
+bridge 2137.0 920.0 2189.0 939.0
+bridge 2135.0 901.0 2186.0 920.0
+bridge 1249.0 960.0 1897.0 1059.0
+ship 410.0 437.0 415.0 445.0 difficult
+ship 400.0 434.0 406.0 443.0 difficult
+ship 373.0 521.0 378.0 529.0 difficult
+ship 395.0 434.0 401.0 443.0 difficult
+ship 380.0 522.0 385.0 528.0 difficult
+ship 384.0 521.0 390.0 529.0 difficult
+ship 323.0 431.0 329.0 437.0 difficult
+ship 326.0 431.0 332.0 438.0 difficult
+ship 330.0 431.0 335.0 438.0 difficult
+ship 335.0 432.0 339.0 437.0 difficult
+ship 351.0 433.0 356.0 439.0 difficult
+ship 355.0 432.0 360.0 438.0 difficult
+ship 361.0 432.0 366.0 438.0 difficult
+ship 365.0 433.0 371.0 439.0 difficult
+ship 374.0 432.0 380.0 439.0 difficult
+ship 378.0 433.0 383.0 439.0 difficult
+ship 382.0 434.0 387.0 440.0 difficult
+ship 385.0 434.0 391.0 441.0 difficult
+ship 391.0 434.0 396.0 442.0 difficult
+bridge 1247.0 941.0 1898.0 1040.0

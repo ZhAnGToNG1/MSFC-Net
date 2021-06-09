@@ -1,0 +1,5 @@
+baseball-diamond 407.0 3434.0 480.0 3514.0
+bridge 711.0 4826.0 748.0 4851.0 difficult
+ground-track-field 56.0 3432.0 169.0 3670.0
+ground-track-field 744.0 3127.0 921.0 3282.0
+ground-track-field 324.0 3268.0 436.0 3320.0

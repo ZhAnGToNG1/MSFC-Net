@@ -1,0 +1,5 @@
+Expressway-Service-area 636.0 219.0 742.0 262.0
+Expressway-Service-area 637.0 246.0 737.0 292.0
+bridge 189.0 25.0 258.0 56.0
+golffield 279.0 346.0 426.0 680.0
+bridge 345.0 563.0 404.0 583.0

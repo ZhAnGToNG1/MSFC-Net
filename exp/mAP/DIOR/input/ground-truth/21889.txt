@@ -1,0 +1,13 @@
+groundtrackfield 260.0 183.0 332.0 279.0
+baseballfield 348.0 144.0 388.0 178.0
+storagetank 51.0 99.0 88.0 126.0
+basketballcourt 262.0 287.0 272.0 302.0
+basketballcourt 276.0 288.0 284.0 303.0
+basketballcourt 289.0 288.0 297.0 302.0
+basketballcourt 262.0 307.0 270.0 321.0
+basketballcourt 276.0 308.0 283.0 322.0
+basketballcourt 288.0 307.0 298.0 322.0
+basketballcourt 302.0 310.0 310.0 321.0
+basketballcourt 317.0 310.0 325.0 321.0
+baseballfield 306.0 106.0 336.0 126.0
+baseballfield 249.0 158.0 278.0 174.0

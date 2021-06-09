@@ -1,0 +1,7 @@
+stadium 174.0 192.0 455.0 635.0
+basketballcourt 452.0 185.0 488.0 248.0
+tenniscourt 469.0 265.0 503.0 333.0
+tenniscourt 468.0 353.0 503.0 422.0
+tenniscourt 471.0 446.0 500.0 509.0
+tenniscourt 471.0 525.0 502.0 596.0
+tenniscourt 513.0 516.0 546.0 582.0

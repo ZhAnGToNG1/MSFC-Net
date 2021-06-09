@@ -1,0 +1,5 @@
+baseballfield 258.0 149.0 349.0 245.0
+baseballfield 338.0 425.0 423.0 513.0
+baseballfield 539.0 340.0 635.0 443.0
+baseballfield 427.0 578.0 512.0 660.0
+vehicle 62.0 793.0 78.0 800.0

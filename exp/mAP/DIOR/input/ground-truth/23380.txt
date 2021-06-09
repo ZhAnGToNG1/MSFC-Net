@@ -1,0 +1,4 @@
+trainstation 142.0 474.0 428.0 675.0
+overpass 691.0 410.0 758.0 439.0
+storagetank 696.0 343.0 718.0 363.0
+storagetank 689.0 365.0 709.0 384.0

@@ -1,0 +1,10 @@
+airport 108.0 220.0 746.0 629.0
+storagetank 202.0 385.0 209.0 393.0
+storagetank 208.0 393.0 215.0 401.0
+storagetank 194.0 390.0 200.0 398.0
+storagetank 199.0 399.0 206.0 407.0
+storagetank 184.0 394.0 192.0 403.0
+storagetank 191.0 403.0 197.0 411.0
+storagetank 176.0 400.0 184.0 409.0
+storagetank 182.0 408.0 188.0 417.0
+airplane 217.0 612.0 228.0 624.0

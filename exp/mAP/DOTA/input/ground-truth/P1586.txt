@@ -1,0 +1,14 @@
+soccer-ball-field 3681.0 1956.0 3822.0 2117.0
+ground-track-field 3538.0 2030.0 3705.0 2184.0
+baseball-diamond 2464.0 2218.0 2508.0 2262.0
+baseball-diamond 2520.0 2218.0 2571.0 2264.0
+roundabout 2812.0 1940.0 2874.0 1999.0
+roundabout 1666.0 1199.0 1724.0 1259.0
+roundabout 796.0 3671.0 823.0 3697.0
+roundabout 435.0 3523.0 479.0 3570.0
+roundabout 141.0 3134.0 196.0 3189.0
+storage-tank 202.0 849.0 232.0 881.0
+storage-tank 190.0 986.0 218.0 1015.0
+storage-tank 228.0 838.0 267.0 879.0
+storage-tank 162.0 979.0 187.0 1005.0
+roundabout 299.0 7.0 358.0 66.0

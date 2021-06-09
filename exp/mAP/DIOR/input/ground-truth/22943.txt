@@ -1,0 +1,8 @@
+chimney 484.0 146.0 634.0 330.0
+chimney 395.0 320.0 545.0 509.0
+storagetank 716.0 161.0 738.0 182.0
+storagetank 699.0 175.0 714.0 191.0
+storagetank 712.0 184.0 728.0 198.0
+storagetank 674.0 228.0 702.0 258.0
+storagetank 699.0 216.0 712.0 229.0
+storagetank 668.0 258.0 689.0 279.0

@@ -1,0 +1,7 @@
+groundtrackfield 101.0 235.0 337.0 761.0
+vehicle 665.0 372.0 675.0 384.0
+vehicle 700.0 378.0 714.0 394.0
+tenniscourt 161.0 21.0 193.0 93.0
+tenniscourt 201.0 130.0 233.0 202.0
+tenniscourt 159.0 130.0 191.0 202.0
+tenniscourt 204.0 21.0 236.0 93.0

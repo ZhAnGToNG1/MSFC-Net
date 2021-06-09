@@ -1,0 +1,8 @@
+baseballfield 451.0 142.0 624.0 294.0
+baseballfield 614.0 219.0 765.0 378.0
+baseballfield 354.0 298.0 507.0 463.0
+baseballfield 495.0 440.0 650.0 591.0
+tenniscourt 183.0 630.0 253.0 728.0
+tenniscourt 130.0 611.0 200.0 709.0
+tenniscourt 79.0 592.0 149.0 690.0
+tenniscourt 27.0 574.0 97.0 672.0

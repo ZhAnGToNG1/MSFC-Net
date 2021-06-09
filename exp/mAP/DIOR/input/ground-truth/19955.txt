@@ -1,0 +1,5 @@
+stadium 139.0 19.0 259.0 129.0
+bridge 56.0 134.0 115.0 166.0
+bridge 348.0 197.0 387.0 220.0
+groundtrackfield 632.0 166.0 670.0 217.0
+groundtrackfield 677.0 556.0 729.0 638.0

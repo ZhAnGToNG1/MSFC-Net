@@ -1,0 +1,5 @@
+groundtrackfield 7.0 428.0 768.0 768.0
+tenniscourt 688.0 78.0 736.0 179.0
+tenniscourt 749.0 232.0 797.0 333.0
+tenniscourt 692.0 232.0 740.0 333.0
+tenniscourt 747.0 77.0 795.0 178.0

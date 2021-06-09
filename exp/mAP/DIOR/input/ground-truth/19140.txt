@@ -1,0 +1,4 @@
+vehicle 471.0 477.0 501.0 487.0
+vehicle 745.0 434.0 768.0 444.0
+Expressway-Service-area 72.0 45.0 724.0 348.0
+Expressway-Service-area 48.0 415.0 775.0 738.0

@@ -1,0 +1,10 @@
+storagetank 307.0 200.0 360.0 259.0
+storagetank 382.0 227.0 437.0 287.0
+storagetank 367.0 294.0 411.0 355.0
+storagetank 416.0 307.0 441.0 337.0
+storagetank 413.0 334.0 441.0 363.0
+storagetank 34.0 372.0 63.0 409.0
+storagetank 29.0 422.0 62.0 460.0
+storagetank 25.0 460.0 59.0 500.0
+chimney 153.0 503.0 185.0 576.0
+bridge 657.0 214.0 713.0 230.0

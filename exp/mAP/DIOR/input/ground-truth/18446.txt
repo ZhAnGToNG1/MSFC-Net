@@ -1,0 +1,7 @@
+storagetank 686.0 747.0 698.0 757.0
+storagetank 701.0 751.0 713.0 761.0
+storagetank 684.0 761.0 695.0 771.0
+storagetank 699.0 763.0 710.0 775.0
+storagetank 680.0 775.0 691.0 785.0
+storagetank 696.0 777.0 709.0 789.0
+Expressway-toll-station 701.0 82.0 722.0 88.0

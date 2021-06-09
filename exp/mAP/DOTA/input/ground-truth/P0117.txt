@@ -1,0 +1,18 @@
+small-vehicle 923.0 968.0 936.0 979.0 difficult
+small-vehicle 991.0 1043.0 999.0 1055.0 difficult
+small-vehicle 926.0 981.0 942.0 991.0 difficult
+small-vehicle 925.0 993.0 937.0 1001.0 difficult
+small-vehicle 1047.0 1012.0 1057.0 1027.0 difficult
+small-vehicle 1026.0 980.0 1036.0 992.0 difficult
+small-vehicle 1019.0 983.0 1029.0 995.0 difficult
+small-vehicle 1009.0 988.0 1020.0 1001.0 difficult
+small-vehicle 999.0 994.0 1009.0 1007.0 difficult
+small-vehicle 988.0 998.0 998.0 1011.0 difficult
+small-vehicle 1025.0 1022.0 1035.0 1036.0 difficult
+small-vehicle 1013.0 1028.0 1022.0 1040.0 difficult
+small-vehicle 1006.0 1033.0 1016.0 1044.0 difficult
+small-vehicle 998.0 1039.0 1008.0 1051.0 difficult
+baseball-diamond 811.0 461.0 896.0 546.0
+baseball-diamond 533.0 601.0 671.0 744.0
+small-vehicle 946.0 860.0 957.0 874.0 difficult
+large-vehicle 942.0 938.0 954.0 953.0 difficult

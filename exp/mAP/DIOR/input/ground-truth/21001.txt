@@ -1,0 +1,6 @@
+tenniscourt 220.0 439.0 274.0 550.0
+tenniscourt 556.0 427.0 610.0 538.0
+tenniscourt 474.0 430.0 528.0 541.0
+tenniscourt 389.0 433.0 443.0 544.0
+tenniscourt 305.0 437.0 359.0 548.0
+bridge 633.0 259.0 800.0 311.0

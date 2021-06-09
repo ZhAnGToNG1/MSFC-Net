@@ -1,0 +1,4 @@
+Expressway-Service-area 258.0 682.0 305.0 762.0
+bridge 259.0 111.0 278.0 118.0
+Expressway-Service-area 297.0 691.0 336.0 768.0
+Expressway-toll-station 607.0 124.0 614.0 131.0

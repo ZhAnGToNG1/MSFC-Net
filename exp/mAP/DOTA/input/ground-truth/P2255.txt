@@ -1,0 +1,7 @@
+baseball-diamond 461.0 532.0 533.0 605.0
+baseball-diamond 533.0 593.0 640.0 695.0
+baseball-diamond 628.0 521.0 703.0 594.0
+baseball-diamond 538.0 441.0 614.0 516.0
+baseball-diamond 140.0 353.0 239.0 449.0
+baseball-diamond 135.0 196.0 233.0 290.0
+baseball-diamond 213.0 272.0 311.0 372.0

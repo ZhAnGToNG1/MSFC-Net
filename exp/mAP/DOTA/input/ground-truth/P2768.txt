@@ -1,0 +1,15 @@
+baseball-diamond 387.0 1851.0 505.0 1986.0
+tennis-court 631.0 1872.0 650.0 1914.0
+tennis-court 633.0 1810.0 648.0 1851.0
+basketball-court 892.0 1753.0 917.0 1799.0 difficult
+basketball-court 859.0 1754.0 886.0 1802.0 difficult
+basketball-court 827.0 1754.0 852.0 1804.0 difficult
+basketball-court 755.0 1756.0 781.0 1805.0
+basketball-court 725.0 1756.0 749.0 1804.0
+basketball-court 693.0 1755.0 719.0 1805.0
+swimming-pool 561.0 2020.0 645.0 2058.0
+tennis-court 896.0 2061.0 912.0 2093.0
+tennis-court 896.0 2002.0 912.0 2034.0
+tennis-court 896.0 1910.0 911.0 1943.0
+tennis-court 896.0 1851.0 912.0 1884.0
+ground-track-field 714.0 1819.0 879.0 2131.0 difficult

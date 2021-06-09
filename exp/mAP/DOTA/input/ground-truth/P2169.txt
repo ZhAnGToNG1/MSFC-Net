@@ -1,0 +1,3 @@
+swimming-pool 572.0 751.0 581.0 765.0 difficult
+swimming-pool 229.0 405.0 243.0 413.0 difficult
+swimming-pool 146.0 49.0 160.0 65.0

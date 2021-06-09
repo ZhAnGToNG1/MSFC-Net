@@ -1,0 +1,4 @@
+groundtrackfield 623.0 336.0 696.0 431.0
+groundtrackfield 95.0 187.0 125.0 236.0
+bridge 562.0 340.0 599.0 359.0
+bridge 494.0 661.0 518.0 674.0

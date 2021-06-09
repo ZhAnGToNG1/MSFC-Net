@@ -1,0 +1,48 @@
+small-vehicle 89.0 958.0 107.0 967.0 difficult
+small-vehicle 113.0 958.0 129.0 967.0 difficult
+large-vehicle 290.0 178.0 301.0 219.0
+large-vehicle 279.0 176.0 289.0 223.0
+large-vehicle 128.0 880.0 159.0 914.0
+large-vehicle 136.0 873.0 175.0 916.0
+large-vehicle 153.0 874.0 192.0 916.0
+large-vehicle 169.0 872.0 209.0 914.0
+large-vehicle 187.0 872.0 224.0 915.0
+large-vehicle 244.0 870.0 289.0 883.0 difficult
+large-vehicle 241.0 858.0 289.0 870.0 difficult
+large-vehicle 239.0 845.0 284.0 856.0 difficult
+large-vehicle 224.0 831.0 272.0 844.0 difficult
+large-vehicle 223.0 817.0 267.0 827.0
+large-vehicle 244.0 703.0 256.0 750.0
+large-vehicle 215.0 657.0 254.0 698.0
+large-vehicle 214.0 641.0 252.0 682.0
+large-vehicle 211.0 623.0 249.0 667.0
+large-vehicle 172.0 624.0 207.0 667.0
+large-vehicle 170.0 642.0 208.0 685.0
+large-vehicle 83.0 663.0 129.0 696.0
+large-vehicle 84.0 647.0 131.0 681.0
+large-vehicle 84.0 630.0 129.0 666.0
+large-vehicle 304.0 179.0 318.0 226.0
+large-vehicle 319.0 179.0 333.0 226.0
+large-vehicle 333.0 180.0 348.0 228.0
+small-vehicle 309.0 737.0 328.0 747.0 difficult
+small-vehicle 111.0 926.0 129.0 935.0 difficult
+small-vehicle 143.0 927.0 157.0 934.0 difficult
+small-vehicle 105.0 891.0 115.0 913.0 difficult
+small-vehicle 96.0 892.0 105.0 910.0 difficult
+small-vehicle 85.0 892.0 95.0 913.0 difficult
+small-vehicle 85.0 869.0 94.0 891.0 difficult
+small-vehicle 33.0 863.0 41.0 882.0 difficult
+small-vehicle 307.0 750.0 324.0 759.0 difficult
+small-vehicle 268.0 746.0 276.0 764.0 difficult
+small-vehicle 350.0 643.0 357.0 659.0 difficult
+large-vehicle 297.0 360.0 308.0 405.0
+small-vehicle 335.0 643.0 349.0 659.0 difficult
+small-vehicle 328.0 625.0 341.0 645.0 difficult
+small-vehicle 93.0 602.0 115.0 612.0 difficult
+small-vehicle 294.0 613.0 313.0 622.0 difficult
+large-vehicle 368.0 353.0 379.0 398.0
+large-vehicle 353.0 353.0 364.0 398.0
+large-vehicle 338.0 354.0 351.0 401.0
+large-vehicle 321.0 354.0 335.0 401.0
+large-vehicle 309.0 359.0 323.0 405.0
+large-vehicle 83.0 615.0 128.0 653.0

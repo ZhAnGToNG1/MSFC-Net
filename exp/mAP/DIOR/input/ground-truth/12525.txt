@@ -1,0 +1,6 @@
+overpass 495.0 293.0 546.0 596.0
+overpass 392.0 262.0 443.0 520.0
+storagetank 29.0 342.0 130.0 414.0
+storagetank 31.0 445.0 123.0 506.0
+storagetank 1.0 348.0 33.0 416.0
+storagetank 1.0 470.0 33.0 508.0

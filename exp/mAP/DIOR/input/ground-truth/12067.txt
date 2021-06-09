@@ -1,0 +1,10 @@
+ship 293.0 482.0 305.0 516.0
+ship 271.0 592.0 299.0 604.0
+tenniscourt 41.0 68.0 83.0 156.0
+tenniscourt 105.0 225.0 147.0 313.0
+tenniscourt 38.0 224.0 80.0 312.0
+tenniscourt 109.0 69.0 151.0 157.0
+tenniscourt 98.0 563.0 140.0 651.0
+tenniscourt 31.0 561.0 73.0 649.0
+tenniscourt 101.0 405.0 143.0 493.0
+tenniscourt 34.0 405.0 76.0 493.0

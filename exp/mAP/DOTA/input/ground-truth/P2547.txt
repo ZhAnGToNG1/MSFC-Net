@@ -1,0 +1,6 @@
+roundabout 3515.0 285.0 3550.0 318.0
+roundabout 699.0 1696.0 717.0 1715.0
+roundabout 1078.0 1439.0 1108.0 1465.0
+roundabout 434.0 911.0 469.0 946.0
+soccer-ball-field 804.0 1936.0 952.0 2045.0 difficult
+soccer-ball-field 822.0 1821.0 940.0 1906.0

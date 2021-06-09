@@ -1,0 +1,2 @@
+golffield 113.0 409.0 598.0 772.0
+groundtrackfield 65.0 601.0 108.0 670.0

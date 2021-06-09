@@ -1,0 +1,11 @@
+baseballfield 212.0 140.0 249.0 167.0
+baseballfield 144.0 131.0 172.0 150.0
+baseballfield 485.0 699.0 513.0 719.0
+groundtrackfield 378.0 684.0 446.0 784.0
+groundtrackfield 278.0 33.0 331.0 124.0
+tenniscourt 267.0 10.0 274.0 20.0
+tenniscourt 278.0 10.0 286.0 20.0
+tenniscourt 291.0 10.0 297.0 20.0
+tenniscourt 302.0 10.0 310.0 20.0
+baseballfield 374.0 38.0 402.0 56.0
+storagetank 471.0 742.0 514.0 771.0

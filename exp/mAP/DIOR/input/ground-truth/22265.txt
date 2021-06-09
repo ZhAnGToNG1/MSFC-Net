@@ -1,0 +1,10 @@
+airport 54.0 52.0 85.0 407.0
+groundtrackfield 757.0 111.0 775.0 136.0
+groundtrackfield 459.0 174.0 478.0 202.0
+groundtrackfield 517.0 439.0 537.0 463.0
+storagetank 19.0 736.0 24.0 742.0
+storagetank 19.0 742.0 25.0 748.0
+storagetank 11.0 737.0 18.0 743.0
+storagetank 11.0 743.0 18.0 749.0
+storagetank 3.0 739.0 6.0 744.0
+storagetank 3.0 746.0 8.0 751.0

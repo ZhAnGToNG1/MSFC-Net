@@ -1,0 +1,6 @@
+airplane 34.0 633.0 118.0 708.0
+airplane 138.0 641.0 202.0 710.0
+airplane 437.0 470.0 482.0 511.0
+airplane 535.0 446.0 584.0 493.0
+airplane 646.0 426.0 689.0 470.0
+Expressway-toll-station 609.0 264.0 633.0 298.0

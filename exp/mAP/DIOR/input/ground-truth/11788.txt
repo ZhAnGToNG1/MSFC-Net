@@ -1,0 +1,5 @@
+baseballfield 138.0 645.0 182.0 679.0
+baseballfield 554.0 240.0 590.0 276.0
+storagetank 589.0 9.0 602.0 21.0
+overpass 389.0 57.0 406.0 63.0
+stadium 135.0 641.0 222.0 715.0

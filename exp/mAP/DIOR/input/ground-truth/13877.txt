@@ -1,0 +1,12 @@
+airplane 576.0 509.0 646.0 580.0
+airplane 585.0 474.0 641.0 514.0
+airplane 708.0 480.0 738.0 507.0
+storagetank 100.0 255.0 119.0 272.0
+storagetank 104.0 380.0 131.0 402.0
+storagetank 130.0 354.0 140.0 361.0
+storagetank 201.0 336.0 220.0 349.0
+storagetank 238.0 341.0 254.0 354.0
+storagetank 200.0 368.0 214.0 380.0
+storagetank 229.0 370.0 252.0 388.0
+storagetank 193.0 399.0 207.0 411.0
+storagetank 225.0 401.0 246.0 420.0

@@ -1,0 +1,4 @@
+Expressway-toll-station 130.0 63.0 178.0 81.0
+overpass 168.0 634.0 191.0 675.0
+overpass 212.0 639.0 239.0 672.0
+overpass 195.0 638.0 225.0 761.0

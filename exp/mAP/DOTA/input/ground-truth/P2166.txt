@@ -1,0 +1,15 @@
+small-vehicle 720.0 90.0 742.0 112.0
+small-vehicle 232.0 5.0 258.0 16.0
+small-vehicle 255.0 7.0 277.0 24.0
+small-vehicle 214.0 14.0 233.0 29.0
+small-vehicle 228.0 24.0 248.0 38.0
+small-vehicle 230.0 33.0 250.0 48.0
+small-vehicle 246.0 37.0 270.0 59.0
+small-vehicle 257.0 52.0 275.0 70.0
+small-vehicle 274.0 59.0 292.0 79.0
+soccer-ball-field 578.0 297.0 983.0 722.0
+basketball-court 196.0 184.0 246.0 298.0
+basketball-court 246.0 185.0 303.0 299.0
+basketball-court 303.0 188.0 360.0 299.0
+basketball-court 360.0 186.0 418.0 300.0
+ground-track-field 452.0 167.0 1092.0 842.0

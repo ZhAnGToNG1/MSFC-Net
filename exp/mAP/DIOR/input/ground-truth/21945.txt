@@ -1,0 +1,14 @@
+baseballfield 361.0 594.0 383.0 612.0
+baseballfield 430.0 575.0 451.0 594.0
+baseballfield 437.0 623.0 469.0 650.0
+baseballfield 699.0 436.0 728.0 461.0
+baseballfield 685.0 474.0 708.0 493.0
+groundtrackfield 671.0 513.0 763.0 578.0
+overpass 72.0 387.0 124.0 406.0
+overpass 104.0 559.0 142.0 738.0
+vehicle 104.0 353.0 106.0 364.0
+vehicle 110.0 417.0 112.0 425.0
+vehicle 114.0 471.0 116.0 480.0
+bridge 408.0 388.0 451.0 402.0
+bridge 177.0 670.0 220.0 688.0
+overpass 652.0 15.0 685.0 30.0

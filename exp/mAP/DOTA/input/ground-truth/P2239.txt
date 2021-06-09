@@ -1,0 +1,32 @@
+small-vehicle 831.0 102.0 852.0 116.0 difficult
+small-vehicle 150.0 426.0 171.0 445.0 difficult
+plane 419.0 197.0 461.0 229.0
+plane 260.0 267.0 300.0 297.0
+plane 311.0 271.0 357.0 306.0
+plane 366.0 273.0 410.0 304.0
+plane 533.0 275.0 577.0 311.0
+plane 589.0 281.0 632.0 311.0
+plane 640.0 282.0 680.0 313.0
+plane 711.0 290.0 754.0 320.0
+plane 755.0 205.0 797.0 239.0
+small-vehicle 758.0 46.0 778.0 55.0 difficult
+small-vehicle 751.0 62.0 777.0 74.0 difficult
+small-vehicle 754.0 86.0 778.0 97.0 difficult
+small-vehicle 803.0 75.0 824.0 84.0 difficult
+small-vehicle 800.0 61.0 822.0 73.0 difficult
+small-vehicle 756.0 123.0 776.0 135.0 difficult
+small-vehicle 785.0 171.0 795.0 188.0 difficult
+small-vehicle 796.0 171.0 806.0 189.0 difficult
+small-vehicle 806.0 171.0 818.0 189.0 difficult
+small-vehicle 845.0 166.0 863.0 189.0 difficult
+small-vehicle 867.0 169.0 878.0 192.0 difficult
+small-vehicle 877.0 171.0 886.0 191.0 difficult
+small-vehicle 906.0 180.0 926.0 190.0 difficult
+small-vehicle 942.0 204.0 964.0 226.0 difficult
+small-vehicle 877.0 89.0 897.0 98.0 difficult
+small-vehicle 878.0 76.0 902.0 86.0 difficult
+small-vehicle 877.0 64.0 899.0 75.0 difficult
+small-vehicle 880.0 54.0 902.0 63.0 difficult
+small-vehicle 831.0 63.0 854.0 74.0 difficult
+small-vehicle 833.0 23.0 853.0 35.0 difficult
+plane 57.0 185.0 206.0 303.0

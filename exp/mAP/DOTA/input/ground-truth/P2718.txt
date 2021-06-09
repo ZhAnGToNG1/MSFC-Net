@@ -1,0 +1,17 @@
+storage-tank 4145.0 873.0 4154.0 884.0 difficult
+ground-track-field 1939.0 2102.0 2020.0 2148.0
+soccer-ball-field 580.0 1216.0 611.0 1263.0 difficult
+storage-tank 1224.0 2087.0 1236.0 2098.0 difficult
+storage-tank 1224.0 2100.0 1236.0 2112.0 difficult
+storage-tank 1249.0 2082.0 1260.0 2093.0 difficult
+ground-track-field 1063.0 1344.0 1102.0 1398.0
+soccer-ball-field 1071.0 1356.0 1093.0 1387.0 difficult
+soccer-ball-field 1953.0 2110.0 2005.0 2138.0 difficult
+storage-tank 4145.0 864.0 4153.0 873.0 difficult
+ground-track-field 1986.0 1636.0 2040.0 1717.0
+soccer-ball-field 1996.0 1651.0 2028.0 1698.0 difficult
+storage-tank 2272.0 655.0 2284.0 667.0 difficult
+storage-tank 2272.0 668.0 2284.0 681.0 difficult
+bridge 2606.0 925.0 2656.0 939.0
+bridge 2478.0 1022.0 2503.0 1051.0
+ground-track-field 574.0 1200.0 615.0 1274.0

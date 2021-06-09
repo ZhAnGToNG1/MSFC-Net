@@ -1,0 +1,2 @@
+baseballfield 238.0 706.0 279.0 744.0
+trainstation 301.0 99.0 380.0 154.0

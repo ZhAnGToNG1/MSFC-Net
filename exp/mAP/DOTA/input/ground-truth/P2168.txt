@@ -1,0 +1,40 @@
+small-vehicle 1042.0 1141.0 1063.0 1151.0 difficult
+small-vehicle 995.0 1140.0 1013.0 1150.0 difficult
+small-vehicle 958.0 1057.0 968.0 1076.0
+small-vehicle 945.0 1055.0 956.0 1077.0
+small-vehicle 867.0 1096.0 889.0 1109.0
+small-vehicle 865.0 1110.0 886.0 1120.0
+small-vehicle 865.0 1127.0 888.0 1139.0
+basketball-court 1819.0 870.0 1882.0 968.0
+basketball-court 1888.0 872.0 1949.0 968.0
+basketball-court 1893.0 767.0 1951.0 862.0
+basketball-court 1823.0 765.0 1883.0 861.0
+tennis-court 1669.0 715.0 1710.0 806.0
+tennis-court 1726.0 718.0 1766.0 806.0
+tennis-court 574.0 803.0 620.0 893.0
+tennis-court 520.0 803.0 565.0 891.0
+tennis-court 465.0 800.0 512.0 891.0
+tennis-court 411.0 799.0 455.0 888.0
+tennis-court 358.0 798.0 400.0 887.0
+tennis-court 302.0 796.0 347.0 886.0
+small-vehicle 970.0 1056.0 979.0 1076.0
+small-vehicle 1002.0 1057.0 1014.0 1077.0
+small-vehicle 1014.0 1055.0 1024.0 1077.0
+small-vehicle 1039.0 1116.0 1061.0 1129.0
+small-vehicle 969.0 1138.0 994.0 1150.0 difficult
+baseball-diamond 675.0 327.0 835.0 481.0
+small-vehicle 1119.0 1103.0 1137.0 1114.0
+small-vehicle 1117.0 1115.0 1138.0 1126.0
+small-vehicle 1066.0 1143.0 1086.0 1152.0
+small-vehicle 1065.0 1130.0 1088.0 1140.0
+small-vehicle 1065.0 1118.0 1085.0 1129.0
+small-vehicle 1040.0 1129.0 1060.0 1139.0
+small-vehicle 1037.0 1057.0 1047.0 1078.0
+small-vehicle 991.0 1116.0 1013.0 1128.0
+small-vehicle 991.0 1130.0 1013.0 1140.0
+small-vehicle 971.0 1128.0 990.0 1138.0
+small-vehicle 969.0 1117.0 991.0 1128.0
+small-vehicle 1070.0 1058.0 1080.0 1077.0
+small-vehicle 1058.0 1057.0 1070.0 1076.0
+small-vehicle 1048.0 1057.0 1059.0 1078.0
+baseball-diamond 431.0 259.0 593.0 414.0

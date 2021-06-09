@@ -1,0 +1,7 @@
+baseballfield 158.0 589.0 280.0 706.0
+baseballfield 421.0 581.0 551.0 715.0
+baseballfield 653.0 307.0 765.0 432.0
+basketballcourt 62.0 121.0 189.0 191.0
+basketballcourt 64.0 197.0 191.0 269.0
+bridge 738.0 109.0 758.0 161.0
+bridge 206.0 278.0 238.0 322.0

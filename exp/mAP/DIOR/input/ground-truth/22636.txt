@@ -1,0 +1,5 @@
+groundtrackfield 112.0 209.0 138.0 259.0
+groundtrackfield 200.0 447.0 241.0 508.0
+groundtrackfield 617.0 671.0 653.0 732.0
+groundtrackfield 739.0 452.0 775.0 474.0
+groundtrackfield 81.0 372.0 110.0 421.0

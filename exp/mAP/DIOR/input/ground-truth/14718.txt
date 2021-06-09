@@ -1,0 +1,3 @@
+Expressway-toll-station 472.0 194.0 626.0 331.0
+vehicle 535.0 349.0 550.0 368.0
+vehicle 472.0 1.0 512.0 58.0

@@ -1,0 +1,8 @@
+Expressway-toll-station 341.0 434.0 475.0 554.0
+vehicle 359.0 523.0 378.0 545.0
+vehicle 371.0 540.0 388.0 564.0
+basketballcourt 493.0 524.0 537.0 567.0
+vehicle 519.0 329.0 531.0 359.0
+vehicle 557.0 138.0 564.0 146.0
+overpass 571.0 19.0 681.0 63.0
+vehicle 607.0 78.0 623.0 101.0

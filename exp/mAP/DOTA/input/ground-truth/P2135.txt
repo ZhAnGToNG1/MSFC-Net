@@ -1,0 +1,55 @@
+small-vehicle 499.0 54.0 511.0 72.0 difficult
+small-vehicle 371.0 302.0 387.0 322.0 difficult
+small-vehicle 352.0 403.0 366.0 422.0 difficult
+small-vehicle 360.0 384.0 375.0 404.0 difficult
+small-vehicle 368.0 364.0 384.0 385.0 difficult
+small-vehicle 379.0 338.0 394.0 357.0 difficult
+small-vehicle 391.0 320.0 403.0 336.0 difficult
+small-vehicle 296.0 367.0 312.0 387.0 difficult
+small-vehicle 306.0 343.0 322.0 363.0 difficult
+small-vehicle 313.0 321.0 330.0 345.0 difficult
+small-vehicle 341.0 263.0 359.0 284.0 difficult
+small-vehicle 333.0 282.0 346.0 302.0 difficult
+small-vehicle 325.0 299.0 340.0 320.0 difficult
+small-vehicle 398.0 295.0 410.0 312.0 difficult
+small-vehicle 333.0 401.0 346.0 419.0 difficult
+small-vehicle 406.0 271.0 422.0 290.0 difficult
+small-vehicle 418.0 251.0 430.0 268.0 difficult
+small-vehicle 424.0 233.0 439.0 253.0 difficult
+small-vehicle 359.0 210.0 377.0 230.0 difficult
+small-vehicle 367.0 192.0 385.0 213.0 difficult
+small-vehicle 380.0 163.0 398.0 187.0 difficult
+tennis-court 197.0 296.0 277.0 386.0
+tennis-court 134.0 281.0 215.0 370.0
+tennis-court 68.0 265.0 152.0 356.0
+tennis-court 245.0 177.0 329.0 268.0
+tennis-court 184.0 163.0 264.0 253.0
+small-vehicle 345.0 423.0 358.0 441.0 difficult
+small-vehicle 175.0 405.0 196.0 417.0 difficult
+small-vehicle 442.0 193.0 456.0 213.0 difficult
+small-vehicle 329.0 467.0 344.0 487.0 difficult
+small-vehicle 433.0 212.0 448.0 236.0 difficult
+small-vehicle 458.0 150.0 474.0 172.0 difficult
+small-vehicle 466.0 130.0 482.0 152.0 difficult
+small-vehicle 473.0 110.0 488.0 132.0 difficult
+small-vehicle 480.0 91.0 495.0 110.0 difficult
+small-vehicle 489.0 71.0 505.0 92.0 difficult
+small-vehicle 394.0 132.0 409.0 153.0 difficult
+small-vehicle 418.0 63.0 435.0 83.0 difficult
+small-vehicle 431.0 37.0 447.0 59.0 difficult
+small-vehicle 473.0 57.0 486.0 74.0 difficult
+small-vehicle 335.0 447.0 349.0 467.0 difficult
+small-vehicle 273.0 425.0 289.0 443.0 difficult
+small-vehicle 165.0 420.0 189.0 434.0 difficult
+small-vehicle 225.0 417.0 249.0 431.0 difficult
+small-vehicle 225.0 431.0 245.0 443.0 difficult
+small-vehicle 251.0 483.0 268.0 504.0 difficult
+small-vehicle 196.0 499.0 220.0 511.0 difficult
+small-vehicle 201.0 492.0 223.0 503.0 difficult
+small-vehicle 203.0 482.0 226.0 495.0 difficult
+small-vehicle 215.0 455.0 233.0 467.0 difficult
+small-vehicle 208.0 475.0 228.0 486.0 difficult
+small-vehicle 145.0 478.0 169.0 492.0 difficult
+small-vehicle 153.0 463.0 178.0 478.0 difficult
+small-vehicle 154.0 455.0 176.0 466.0 difficult
+tennis-court 120.0 147.0 201.0 239.0

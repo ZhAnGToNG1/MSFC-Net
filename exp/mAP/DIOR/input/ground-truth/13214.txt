@@ -1,0 +1,10 @@
+stadium 372.0 370.0 428.0 435.0
+bridge 346.0 417.0 373.0 552.0
+bridge 383.0 438.0 401.0 535.0
+bridge 16.0 426.0 27.0 523.0
+groundtrackfield 1.0 244.0 18.0 296.0
+groundtrackfield 339.0 623.0 363.0 640.0
+groundtrackfield 495.0 637.0 525.0 653.0
+chimney 727.0 751.0 755.0 770.0
+chimney 767.0 737.0 798.0 757.0
+overpass 246.0 697.0 296.0 756.0

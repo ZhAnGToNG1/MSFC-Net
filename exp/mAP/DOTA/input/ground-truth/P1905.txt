@@ -1,0 +1,60 @@
+small-vehicle 604.0 528.0 620.0 547.0 difficult
+small-vehicle 214.0 362.0 228.0 380.0 difficult
+small-vehicle 210.0 303.0 228.0 323.0
+small-vehicle 199.0 298.0 218.0 319.0
+small-vehicle 191.0 293.0 210.0 312.0
+small-vehicle 183.0 283.0 203.0 305.0
+small-vehicle 175.0 278.0 194.0 298.0
+small-vehicle 167.0 272.0 186.0 294.0
+small-vehicle 151.0 73.0 169.0 96.0
+small-vehicle 139.0 64.0 161.0 88.0
+small-vehicle 133.0 59.0 154.0 83.0
+small-vehicle 123.0 52.0 144.0 75.0
+small-vehicle 115.0 47.0 134.0 67.0
+small-vehicle 104.0 40.0 124.0 61.0
+small-vehicle 153.0 8.0 172.0 29.0
+small-vehicle 89.0 26.0 109.0 47.0
+small-vehicle 97.0 33.0 117.0 55.0
+small-vehicle 78.0 19.0 98.0 40.0
+tennis-court 555.0 225.0 660.0 322.0
+tennis-court 521.0 272.0 624.0 367.0
+tennis-court 484.0 317.0 588.0 412.0
+tennis-court 448.0 363.0 552.0 458.0
+tennis-court 333.0 273.0 438.0 367.0
+tennis-court 368.0 227.0 472.0 323.0
+tennis-court 404.0 182.0 508.0 276.0
+tennis-court 440.0 134.0 545.0 230.0
+tennis-court 324.0 45.0 428.0 141.0
+tennis-court 289.0 91.0 393.0 185.0
+tennis-court 253.0 137.0 357.0 232.0
+small-vehicle 215.0 310.0 234.0 329.0
+small-vehicle 223.0 316.0 241.0 336.0
+small-vehicle 238.0 329.0 256.0 350.0
+small-vehicle 643.0 147.0 660.0 168.0
+small-vehicle 417.0 467.0 433.0 487.0 difficult
+small-vehicle 401.0 456.0 419.0 477.0 difficult
+small-vehicle 387.0 447.0 401.0 463.0 difficult
+small-vehicle 341.0 407.0 358.0 426.0 difficult
+small-vehicle 356.0 419.0 372.0 438.0 difficult
+small-vehicle 447.0 490.0 466.0 510.0
+small-vehicle 437.0 484.0 457.0 507.0
+small-vehicle 421.0 468.0 446.0 496.0
+small-vehicle 370.0 434.0 388.0 453.0
+small-vehicle 361.0 424.0 382.0 447.0
+small-vehicle 332.0 400.0 351.0 421.0
+small-vehicle 675.0 170.0 695.0 191.0
+small-vehicle 601.0 168.0 624.0 190.0
+small-vehicle 246.0 336.0 265.0 356.0
+small-vehicle 579.0 153.0 600.0 173.0
+small-vehicle 556.0 135.0 581.0 158.0
+small-vehicle 618.0 126.0 638.0 147.0
+small-vehicle 601.0 115.0 621.0 136.0
+small-vehicle 593.0 109.0 614.0 130.0
+small-vehicle 585.0 100.0 607.0 124.0
+small-vehicle 578.0 94.0 598.0 116.0
+small-vehicle 567.0 86.0 591.0 112.0
+small-vehicle 315.0 390.0 333.0 410.0
+small-vehicle 285.0 365.0 305.0 387.0
+small-vehicle 277.0 358.0 296.0 381.0
+small-vehicle 258.0 345.0 282.0 371.0
+tennis-court 216.0 182.0 320.0 277.0

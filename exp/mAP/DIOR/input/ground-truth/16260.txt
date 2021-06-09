@@ -1,0 +1,5 @@
+storagetank 102.0 333.0 218.0 425.0
+storagetank 240.0 334.0 390.0 464.0
+tenniscourt 438.0 322.0 537.0 477.0
+tenniscourt 524.0 295.0 623.0 450.0
+tenniscourt 609.0 270.0 708.0 425.0

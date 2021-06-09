@@ -1,0 +1,7 @@
+groundtrackfield 619.0 593.0 665.0 626.0
+Expressway-toll-station 82.0 604.0 101.0 615.0
+Expressway-toll-station 136.0 672.0 145.0 681.0
+Expressway-toll-station 142.0 681.0 150.0 690.0
+bridge 407.0 631.0 436.0 645.0
+overpass 250.0 147.0 278.0 203.0
+overpass 110.0 629.0 125.0 655.0

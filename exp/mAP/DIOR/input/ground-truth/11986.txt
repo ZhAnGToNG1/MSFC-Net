@@ -1,0 +1,10 @@
+groundtrackfield 214.0 594.0 249.0 653.0
+groundtrackfield 679.0 522.0 736.0 556.0
+groundtrackfield 9.0 578.0 75.0 608.0
+groundtrackfield 744.0 112.0 773.0 164.0
+overpass 105.0 236.0 133.0 258.0
+bridge 177.0 372.0 200.0 388.0
+groundtrackfield 426.0 230.0 490.0 260.0
+groundtrackfield 431.0 100.0 450.0 138.0
+groundtrackfield 282.0 235.0 298.0 270.0
+groundtrackfield 229.0 3.0 267.0 45.0

@@ -1,0 +1,6 @@
+baseballfield 70.0 114.0 97.0 140.0
+baseballfield 106.0 217.0 126.0 235.0
+groundtrackfield 118.0 75.0 166.0 167.0
+overpass 636.0 315.0 696.0 325.0
+overpass 484.0 597.0 538.0 629.0
+baseballfield 585.0 666.0 615.0 690.0

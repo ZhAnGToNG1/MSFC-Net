@@ -1,0 +1,4 @@
+stadium 168.0 94.0 252.0 196.0
+groundtrackfield 460.0 253.0 500.0 317.0
+groundtrackfield 578.0 519.0 639.0 559.0
+overpass 240.0 317.0 277.0 466.0

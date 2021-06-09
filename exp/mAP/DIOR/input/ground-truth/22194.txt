@@ -1,0 +1,11 @@
+airport 96.0 13.0 600.0 277.0
+groundtrackfield 763.0 363.0 784.0 392.0
+stadium 704.0 330.0 734.0 361.0
+storagetank 265.0 114.0 269.0 118.0
+storagetank 260.0 115.0 264.0 119.0
+storagetank 267.0 119.0 269.0 124.0
+storagetank 262.0 120.0 265.0 124.0
+storagetank 268.0 128.0 272.0 133.0
+storagetank 263.0 129.0 267.0 134.0
+storagetank 263.0 134.0 267.0 139.0
+storagetank 268.0 134.0 273.0 138.0

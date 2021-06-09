@@ -1,0 +1,4 @@
+roundabout 749.0 867.0 829.0 941.0
+tennis-court 840.0 348.0 897.0 396.0
+soccer-ball-field 778.0 489.0 934.0 669.0
+ground-track-field 762.0 472.0 947.0 680.0

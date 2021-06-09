@@ -1,0 +1,5 @@
+stadium 503.0 484.0 613.0 610.0
+groundtrackfield 626.0 545.0 680.0 618.0
+stadium 612.0 627.0 672.0 691.0
+storagetank 134.0 227.0 152.0 243.0
+storagetank 128.0 244.0 147.0 263.0

@@ -1,0 +1,11 @@
+stadium 703.0 478.0 775.0 570.0
+overpass 306.0 739.0 334.0 791.0
+groundtrackfield 530.0 11.0 566.0 71.0
+storagetank 111.0 230.0 121.0 240.0
+storagetank 107.0 241.0 118.0 249.0
+storagetank 125.0 233.0 136.0 244.0
+storagetank 138.0 235.0 148.0 249.0
+storagetank 124.0 245.0 133.0 259.0
+storagetank 133.0 250.0 145.0 262.0
+storagetank 179.0 212.0 188.0 221.0
+storagetank 177.0 220.0 187.0 230.0

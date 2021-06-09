@@ -1,0 +1,7 @@
+airport 665.0 320.0 744.0 476.0
+golffield 169.0 139.0 227.0 207.0
+golffield 272.0 369.0 352.0 450.0
+golffield 437.0 321.0 525.0 398.0
+bridge 484.0 742.0 510.0 772.0
+Expressway-Service-area 91.0 283.0 125.0 301.0
+Expressway-Service-area 88.0 298.0 120.0 317.0

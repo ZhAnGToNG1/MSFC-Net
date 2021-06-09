@@ -1,0 +1,12 @@
+baseball-diamond 3762.0 3480.0 3831.0 3548.0
+baseball-diamond 2795.0 3256.0 2851.0 3316.0
+baseball-diamond 2696.0 3199.0 2768.0 3270.0
+baseball-diamond 2682.0 3060.0 2733.0 3114.0
+baseball-diamond 2736.0 2952.0 2783.0 3001.0
+baseball-diamond 2789.0 2889.0 2835.0 2933.0
+baseball-diamond 3939.0 3323.0 3992.0 3372.0
+baseball-diamond 2778.0 3462.0 2820.0 3505.0
+baseball-diamond 2728.0 2908.0 2751.0 2930.0
+storage-tank 1384.0 2572.0 1425.0 2616.0
+storage-tank 2139.0 3532.0 2153.0 3547.0
+storage-tank 1360.0 2564.0 1372.0 2576.0 difficult

@@ -1,0 +1,1 @@
+groundtrackfield 187.0 91.0 660.0 748.0

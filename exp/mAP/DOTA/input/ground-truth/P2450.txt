@@ -1,0 +1,19 @@
+large-vehicle 1478.0 139.0 1492.0 153.0 difficult
+large-vehicle 952.0 938.0 958.0 955.0
+large-vehicle 9.0 1665.0 22.0 1680.0
+large-vehicle 52.0 1605.0 64.0 1618.0 difficult
+large-vehicle 134.0 1481.0 148.0 1499.0
+large-vehicle 605.0 1246.0 621.0 1257.0
+large-vehicle 394.0 1077.0 406.0 1092.0 difficult
+large-vehicle 350.0 920.0 358.0 936.0
+large-vehicle 954.0 329.0 964.0 342.0 difficult
+large-vehicle 973.0 731.0 978.0 752.0
+large-vehicle 1526.0 81.0 1539.0 95.0 difficult
+large-vehicle 1459.0 165.0 1471.0 178.0 difficult
+large-vehicle 1493.0 119.0 1507.0 138.0
+large-vehicle 1512.0 101.0 1523.0 114.0 difficult
+small-vehicle 942.0 1388.0 949.0 1393.0 difficult
+small-vehicle 969.0 1388.0 975.0 1392.0 difficult
+large-vehicle 351.0 1145.0 363.0 1158.0 difficult
+large-vehicle 830.0 1359.0 840.0 1366.0 difficult
+roundabout 987.0 593.0 1018.0 625.0

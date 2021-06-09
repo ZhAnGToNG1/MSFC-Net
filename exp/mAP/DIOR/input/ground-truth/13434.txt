@@ -1,0 +1,4 @@
+Expressway-Service-area 592.0 33.0 671.0 85.0
+Expressway-toll-station 126.0 738.0 133.0 751.0
+groundtrackfield 10.0 578.0 34.0 616.0
+Expressway-Service-area 596.0 71.0 677.0 122.0

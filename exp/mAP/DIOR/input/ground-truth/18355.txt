@@ -1,0 +1,7 @@
+baseballfield 12.0 482.0 247.0 723.0
+basketballcourt 533.0 256.0 655.0 525.0
+basketballcourt 647.0 258.0 769.0 527.0
+basketballcourt 58.0 85.0 109.0 169.0
+basketballcourt 55.0 167.0 106.0 251.0
+basketballcourt 105.0 244.0 189.0 295.0
+basketballcourt 189.0 240.0 273.0 291.0

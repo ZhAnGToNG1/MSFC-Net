@@ -1,0 +1,71 @@
+swimming-pool 490.0 39.0 503.0 46.0 difficult
+swimming-pool 255.0 408.0 266.0 415.0 difficult
+swimming-pool 271.0 538.0 283.0 545.0 difficult
+swimming-pool 365.0 537.0 376.0 548.0 difficult
+swimming-pool 376.0 465.0 402.0 481.0
+swimming-pool 390.0 481.0 401.0 488.0 difficult
+swimming-pool 313.0 469.0 324.0 475.0 difficult
+swimming-pool 340.0 471.0 350.0 476.0 difficult
+swimming-pool 392.0 491.0 401.0 499.0 difficult
+swimming-pool 99.0 602.0 111.0 613.0 difficult
+swimming-pool 174.0 700.0 185.0 711.0 difficult
+swimming-pool 80.0 798.0 88.0 804.0 difficult
+swimming-pool 99.0 799.0 112.0 805.0 difficult
+swimming-pool 98.0 780.0 105.0 788.0 difficult
+swimming-pool 364.0 749.0 373.0 762.0 difficult
+swimming-pool 488.0 655.0 503.0 663.0 difficult
+swimming-pool 176.0 518.0 185.0 529.0 difficult
+swimming-pool 112.0 483.0 119.0 494.0 difficult
+swimming-pool 490.0 606.0 505.0 613.0 difficult
+baseball-diamond 521.0 513.0 551.0 543.0
+baseball-diamond 266.0 230.0 295.0 260.0
+baseball-diamond 323.0 221.0 361.0 260.0
+baseball-diamond 427.0 254.0 466.0 294.0
+baseball-diamond 518.0 323.0 556.0 368.0
+baseball-diamond 321.0 292.0 357.0 328.0
+baseball-diamond 371.0 339.0 401.0 370.0
+ground-track-field 411.0 370.0 492.0 534.0
+swimming-pool 119.0 359.0 129.0 369.0 difficult
+swimming-pool 175.0 145.0 189.0 152.0 difficult
+swimming-pool 176.0 157.0 188.0 163.0 difficult
+swimming-pool 98.0 132.0 114.0 145.0
+swimming-pool 171.0 253.0 184.0 263.0 difficult
+swimming-pool 91.0 266.0 100.0 277.0 difficult
+swimming-pool 176.0 288.0 191.0 296.0 difficult
+swimming-pool 425.0 667.0 438.0 675.0 difficult
+swimming-pool 414.0 617.0 431.0 624.0
+swimming-pool 361.0 778.0 369.0 786.0 difficult
+tennis-court 416.0 555.0 428.0 578.0
+swimming-pool 624.0 28.0 633.0 42.0 difficult
+swimming-pool 470.0 40.0 484.0 45.0 difficult
+swimming-pool 581.0 42.0 590.0 51.0 difficult
+swimming-pool 602.0 387.0 628.0 408.0
+swimming-pool 394.0 412.0 403.0 418.0 difficult
+tennis-court 402.0 555.0 412.0 577.0
+tennis-court 433.0 557.0 445.0 578.0
+swimming-pool 624.0 62.0 632.0 105.0
+swimming-pool 571.0 175.0 587.0 182.0
+swimming-pool 607.0 176.0 620.0 183.0 difficult
+swimming-pool 696.0 46.0 702.0 55.0 difficult
+swimming-pool 693.0 154.0 700.0 162.0 difficult
+swimming-pool 111.0 584.0 115.0 591.0 difficult
+swimming-pool 111.0 515.0 118.0 526.0 difficult
+swimming-pool 633.0 95.0 638.0 107.0 difficult
+swimming-pool 500.0 172.0 517.0 181.0
+swimming-pool 544.0 618.0 552.0 630.0 difficult
+swimming-pool 442.0 792.0 449.0 799.0 difficult
+swimming-pool 592.0 575.0 600.0 588.0 difficult
+swimming-pool 640.0 620.0 647.0 635.0 difficult
+swimming-pool 690.0 578.0 696.0 590.0 difficult
+swimming-pool 566.0 770.0 572.0 802.0
+swimming-pool 457.0 836.0 469.0 841.0 difficult
+swimming-pool 451.0 842.0 465.0 849.0 difficult
+swimming-pool 445.0 834.0 455.0 839.0 difficult
+swimming-pool 534.0 174.0 546.0 180.0 difficult
+swimming-pool 554.0 831.0 570.0 854.0
+swimming-pool 36.0 782.0 45.0 793.0 difficult
+swimming-pool 180.0 338.0 194.0 347.0 difficult
+swimming-pool 71.0 197.0 78.0 209.0 difficult
+swimming-pool 472.0 108.0 485.0 119.0 difficult
+swimming-pool 468.0 170.0 480.0 178.0 difficult
+baseball-diamond 272.0 156.0 297.0 181.0

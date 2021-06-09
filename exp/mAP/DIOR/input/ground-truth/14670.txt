@@ -1,0 +1,11 @@
+airport 371.0 164.0 594.0 415.0
+golffield 140.0 243.0 229.0 297.0
+overpass 623.0 48.0 676.0 96.0
+overpass 340.0 51.0 374.0 107.0
+bridge 765.0 741.0 786.0 800.0
+baseballfield 28.0 390.0 33.0 395.0
+baseballfield 246.0 181.0 252.0 186.0
+baseballfield 253.0 198.0 259.0 204.0
+baseballfield 241.0 191.0 246.0 197.0
+baseballfield 239.0 203.0 244.0 209.0
+bridge 196.0 654.0 218.0 708.0

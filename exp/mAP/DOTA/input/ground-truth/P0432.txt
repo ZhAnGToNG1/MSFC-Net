@@ -1,0 +1,15 @@
+small-vehicle 47.0 32.0 55.0 45.0 difficult
+small-vehicle 252.0 787.0 262.0 802.0 difficult
+small-vehicle 258.0 785.0 267.0 799.0 difficult
+small-vehicle 378.0 588.0 394.0 605.0 difficult
+ship 506.0 425.0 530.0 450.0
+ship 499.0 419.0 518.0 440.0
+swimming-pool 811.0 161.0 837.0 180.0
+harbor 652.0 321.0 708.0 370.0
+harbor 616.0 383.0 659.0 419.0
+harbor 592.0 741.0 626.0 782.0
+harbor 450.0 526.0 495.0 556.0
+harbor 259.0 235.0 289.0 264.0
+harbor 354.0 295.0 371.0 312.0 difficult
+harbor 275.0 386.0 313.0 437.0
+harbor 225.0 344.0 267.0 381.0

@@ -1,0 +1,4 @@
+golffield 77.0 178.0 430.0 452.0
+golffield 404.0 348.0 717.0 642.0
+baseballfield 646.0 183.0 682.0 222.0
+baseballfield 641.0 227.0 700.0 284.0

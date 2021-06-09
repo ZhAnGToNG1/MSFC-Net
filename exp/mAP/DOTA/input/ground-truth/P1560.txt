@@ -1,0 +1,4 @@
+roundabout 3713.0 3428.0 3763.0 3482.0
+roundabout 115.0 848.0 157.0 890.0
+baseball-diamond 2483.0 3374.0 2577.0 3468.0
+baseball-diamond 1010.0 3787.0 1100.0 3886.0

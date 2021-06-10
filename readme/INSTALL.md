@@ -58,8 +58,12 @@ The code was implemented on Ubuntu 16.04, with Python 3.6, PyTorch 1.7.0, torchv
   
   cd $CenterNet_ROOT/src/lib/models/networks/DCNv2
   ./make.sh
-  ~~~
   
+  then,
+  
+  modify the import file 'from models.networks.DCNv2.DCN.dcn_v2 import dcn_v2_conv' in `MSFC-Net_ROOT/src/lib/models/n_utils/branch_conv.py` according to new version.
+  
+  ~~~
 ## Step 6.
     Compile NMS:
 

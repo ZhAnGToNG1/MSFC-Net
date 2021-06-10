@@ -65,7 +65,8 @@ The code was implemented on Ubuntu 16.04, with Python 3.6, PyTorch 1.7.0, torchv
   
   ~~~
 ## Step 6.
-    Compile NMS:
+    [Optional]Compile NMS:
+    In our project, NMS has been compiled. If arise some problem, you can recompile it
 
     cd $CenterNet_ROOT/src/lib/external
     make

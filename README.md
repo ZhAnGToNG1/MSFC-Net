@@ -15,7 +15,7 @@
 | Backbone     | ImageSize |     mAP      |   Model  |
 |--------------|-----------|--------------|----------|
 |VGG-19        |  512x512  |    77.31     |     [download](https://pan.baidu.com/s/1_t9LayCpayQKbM4RF-baiA) code:sofk    |
-|ResNet-50     |  512x512  |    77.65     |     [download](https://pan.baidu.com/s/1jQN2CfSaLfLo9mlFU6LY6A) code:nmnn    |
+|ResNet-50     |  512x512  |    77.65     |     [download](https://pan.baidu.com/s/10zCULdQTKpP-5N-k_ArW0w) code:k5s5    |
 |ResNet-101    |  512x512  |    77.83     |     [download](https://pan.baidu.com/s/1GEV3pckYD4Vf8IUQIma2Ew) code:wess    |
 |ResNeXt-101   |  512x512  |    78.07     |     [download](https://pan.baidu.com/s/1lKxmV2NFxREBrvLUl0166Q) code:qwer    | 
 |ResNeSt-101   |  512x512  |    80.26     |     [download](https://pan.baidu.com/s/1EbL4yCLBmZy5xszWNkN3Gg) code:dota    |

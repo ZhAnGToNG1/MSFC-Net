@@ -1,6 +1,3 @@
-##+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-##  ResNeSt_Feature Align: by Tong Zhang
-##+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 """ResNet variants"""
 from __future__ import absolute_import
 from __future__ import division

@@ -153,8 +153,7 @@ class VGGNet(nn.Module):
 
 
     def init_weight(self):
-        #'/home/zg/MSFC-Net/exp/ctdet/backbone/vgg/vgg19_bn-c79401a0.pth'
-        pretrain_model = torch.load('/home/zg/MSFC-Net/exp/ctdet/backbone/vgg/vgg19_bn-c79401a0.pth')
+        pretrain_model = torch.load('vgg19_bn-c79401a0.pth')
         model = self.state_dict()
 
         model_key = {}

@@ -42,6 +42,10 @@ For example, when testing on DOTA validation, run:
 (recommended to set CUDA_VISIBLE_DEVICES before running)
 ~~~
 python ctdet --exp_id test_dota --test_dir `your data path` --patch_size 512 --patch_overlap 128 --dataset DOTA --nms --arch msfc_101 --test_scales 1,0.4 --load_model `your model path`
+                                                                                                                      --arch msfcvgg_19
+                                                                                                                      --arch msfcresnet_101
+                                                                                                                      --arch msfscspdarknet_53
+                                                                                                                      --arch ...
 ~~~
 when testing on DIOR test, run:
 ~~~

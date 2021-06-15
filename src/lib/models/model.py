@@ -5,10 +5,19 @@ from __future__ import print_function
 
 import torch
 from .networks.msfcnet import get_msfcnet
-
+from .networks.msfcnet_resnext import get_msfcnetresnext
+from .networks.msfcnet_cspdarknet import get_msfcnetcspdarknet
+from .networks.msfcnet_detnet import get_msfcnetdetnet
+from .networks.msfcnet_resnet import get_msfcnetresnet
+from .networks.msfcnet_vgg import get_msfcnetvgg
 
 _model_factory = {
     'msfc':get_msfcnet,
+    'msfcresnext':get_msfcnetresnext,
+    'msfcresnet':get_msfcnetresnet,
+    'msfcdetnet':get_msfcnetdetnet,
+    'msfccspdarknet':get_msfcnetcspdarknet,
+    'msfcvgg':get_msfcnetvgg,
 }
 
 

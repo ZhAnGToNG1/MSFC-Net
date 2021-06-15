@@ -133,11 +133,9 @@ class CSPDarknet53(nn.Module):
         self.bn_p7 = nn.BatchNorm2d(128)
 
         self.relu = nn.ReLU()
-        # ----  BiFpn and sepc module ----------
+
         self.bifpn = BiFPN(128)
         self.para_conv = Parallel_conv(Pconv_num=1, pconv_deform=True, iBN=False)
-
-        # ------ feature align ---------
 
         self.conv3_out = FeatureAlign(128)
         self.conv5_out = FeatureAlign(128)

@@ -19,14 +19,14 @@
 |ResNet-101    |  512x512  |    77.83     |     [download](https://pan.baidu.com/s/1GEV3pckYD4Vf8IUQIma2Ew) code:wess    |
 |ResNeXt-101   |  512x512  |    78.07     |     [download](https://pan.baidu.com/s/1lKxmV2NFxREBrvLUl0166Q) code:qwer    | 
 |ResNeSt-101   |  512x512  |    80.26     |     [download](https://pan.baidu.com/s/1EbL4yCLBmZy5xszWNkN3Gg) code:dota    |
-|ResNeSt-101   |  800x800  |    79.21     |     [download](https://pan.baidu.com/s/1tN8st75tsc7X57209Pp7tA) code:aw1r    |
+
 
 ### Object detection on DIOR test
 
 | Backbone     | ImageSize |     mAP      |   Model  |
 |--------------|-----------|--------------|----------|
 |ResNeSt-101   |  512x512  |    70.08     |     [download](https://pan.baidu.com/s/1igbcB1Y3mdOQpFG--zU_jA) code:dior    |
-|ResNeSt-101   |  800x800  |    70.63     |     [download](https://pan.baidu.com/s/1Q2gJgqgMlgrmZ03rcceinA) code:wsvq    |
+
 
 ## Installation
 Please refer to [INSTALL.md](readme/INSTALL.md) for installation.

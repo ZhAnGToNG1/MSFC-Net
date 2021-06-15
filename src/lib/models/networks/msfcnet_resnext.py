@@ -175,7 +175,7 @@ class ResNeXt(nn.Module):
 
 
 
-        #-------------------------------------------------------cutline-------------------------------------------------------#
+
 
 
         #--- Before bifpn, channel cut -------------
@@ -191,11 +191,10 @@ class ResNeXt(nn.Module):
         self.expend_conv1 = nn.Conv2d(64, 128, kernel_size=1, stride=1, padding=0)
         self.expend_bn1 = nn.BatchNorm2d(128)
 
-        # ----  BiFpn and sepc module ----------
+
         self.bifpn = BiFPN(128)
         self.para_conv = Parallel_conv(Pconv_num= 1, pconv_deform = True, iBN = False)
 
-        #------ feature align ---------
 
         self.conv3_out = FeatureAlign(128)
         self.conv5_out = FeatureAlign(128)

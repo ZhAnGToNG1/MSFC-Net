@@ -6,6 +6,7 @@
 ## Updaets
 
 - (June 9, 2021) We released the test code and network structure. The corresponding network model is also avaiable for downloading.
+- (June 15, 2021) We updated the network model of different backbones and resolutions. 
 
 ## Main results
 

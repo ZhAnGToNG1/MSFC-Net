@@ -14,7 +14,7 @@
 
 | Backbone     | ImageSize |     mAP      |   Model  |
 |--------------|-----------|--------------|----------|
-|VGG-19        |  512x512  |    77.31     |     [download](https://pan.baidu.com/s/1_t9LayCpayQKbM4RF-baiA) code:sofk    |
+|VGG-19        |  512x512  |    77.31     |     [download](https://pan.baidu.com/s/1dHwfPNC-uc5P-j14_EFOOQ) code:sofk    |
 |Detnet-50     |  512x512  |    77.44     |     [download](https://pan.baidu.com/s/1V6K8NkQzFzb-mnAhKNO8Kg) code:q5g6    |
 |ResNet-50     |  512x512  |    77.65     |     [download](https://pan.baidu.com/s/10zCULdQTKpP-5N-k_ArW0w) code:k5s5    |
 |Cspdarknet-53 |  512x512  |    77.84     |     [download](https://pan.baidu.com/s/1npukFXGkzRD7aMkTUs2VQw) code:sx23    |

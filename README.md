@@ -13,20 +13,18 @@
 
 | Backbone     | ImageSize |     mAP      |   Model  |
 |--------------|-----------|--------------|----------|
-|VGG-19        |  512x512  |    77.31     |     -    |
-|ResNet-50     |  512x512  |    77.65     |     -    |
-|ResNet-101    |  512x512  |    77.83     |     -    |
-|ResNeXt-101   |  512x512  |    78.07     |     -    | 
-|ResNeSt-101   |  512x512  |    80.26     |     [download](https://pan.baidu.com/s/1EbL4yCLBmZy5xszWNkN3Gg)
-[extract code:dota]     |
+|VGG-19        |  512x512  |    77.31     |     [download](https://pan.baidu.com/s/1_t9LayCpayQKbM4RF-baiA) code:sofk    |
+|ResNet-50     |  512x512  |    77.65     |     [download](https://pan.baidu.com/s/1jQN2CfSaLfLo9mlFU6LY6A) code:nmnn    |
+|ResNet-101    |  512x512  |    77.83     |     [download](https://pan.baidu.com/s/1GEV3pckYD4Vf8IUQIma2Ew) code:wess    |
+|ResNeXt-101   |  512x512  |    78.07     |     [download](https://pan.baidu.com/s/1lKxmV2NFxREBrvLUl0166Q) code:qwer    | 
+|ResNeSt-101   |  512x512  |    80.26     |     [download](https://pan.baidu.com/s/1EbL4yCLBmZy5xszWNkN3Gg) code:dota    |
 |ResNeSt-101   |  800x800  |    79.21     |     -    |
 
 ### Object detection on DIOR test
 
 | Backbone     | ImageSize |     mAP      |   Model  |
 |--------------|-----------|--------------|----------|
-|ResNeSt-101   |  512x512  |    70.08     |     [download](https://pan.baidu.com/s/1igbcB1Y3mdOQpFG--zU_jA)
-[extract code:dior]     |
+|ResNeSt-101   |  512x512  |    70.08     |     [download](https://pan.baidu.com/s/1igbcB1Y3mdOQpFG--zU_jA)[extract code:dior]     |
 |ResNeSt-101   |  800x800  |    70.63     |     -    |
 
 ## Installation

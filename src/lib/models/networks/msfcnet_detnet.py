@@ -1,6 +1,3 @@
-##+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-##  ResNeSt_Feature Align: by Tong Zhang
-##+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 """ResNet variants"""
 from __future__ import absolute_import
 from __future__ import division
@@ -235,8 +232,7 @@ class DetNet(nn.Module):
 
 
 
-        #-------------------------------------------------------cutline-------------------------------------------------------#
-        #-------------------------------------------------------ResNeSt--------------------------------------------------------#
+
 
 
         #--- Before bifpn, channel cut -------------
@@ -250,11 +246,11 @@ class DetNet(nn.Module):
         self.bn_p7 = nn.BatchNorm2d(128)
 
 
-        # ----  BiFpn and sepc module ----------
+
         self.bifpn = BiFPN(128)
         self.para_conv = Parallel_conv(Pconv_num= 1, pconv_deform = True, iBN = False)
 
-        #------ feature align ---------
+
 
         self.conv3_out = FeatureAlign(128)
         self.conv5_out = FeatureAlign(128)

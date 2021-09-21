@@ -1,12 +1,6 @@
 # Multi-Scale Semantic Fusion-Guided Fractal Convolutional Object Detection Network for Optical Remote Sensing Imagery
 
 > The project contains the code for implementing the MSFC-Net algorithm for optiacal remote sensing object detection.
-> (Note: At present, only network structure and testing code are avaiable, training code will be provided later)
-
-## Updaets
-
-- (June 9, 2021) We released the test code and network structure. The corresponding network model is also avaiable for downloading.
-- (June 15, 2021) We updated the network model of different backbones. 
 
 ## Main results
 
@@ -41,7 +35,7 @@ For finishing the test, firstly, you only need to download the DOTA validation a
 For example, when testing on DOTA validation, run: 
 (recommended to set CUDA_VISIBLE_DEVICES before running)
 ~~~
-python ctdet --exp_id test_dota --test_dir `your data path` --patch_size 512 --patch_overlap 128 --dataset DOTA --nms --arch msfc_101 --test_scales 1,0.4 --load_model `your model path`
+python test.py ctdet --exp_id test_dota --test_dir `your data path` --patch_size 512 --patch_overlap 128 --dataset DOTA --nms --arch msfc_101 --test_scales 1,0.4 --load_model `your model path`
                                                                                                                       --arch msfcvgg_19
                                                                                                                       --arch msfcresnet_101
                                                                                                                       --arch msfscspdarknet_53
@@ -49,8 +43,13 @@ python ctdet --exp_id test_dota --test_dir `your data path` --patch_size 512 --p
 ~~~
 when testing on DIOR test, run:
 ~~~
-python ctdet --exp_id test_dior --test_dir `your data path` --patch_size 512 --patch_overlap 112 --dataset DIOR --nms --arch msfc_101 --test_scales 1,0.4 --load_model `your model path`
+python test.py ctdet --exp_id test_dior --test_dir `your data path` --patch_size 512 --patch_overlap 112 --dataset DIOR --nms --arch msfc_101 --test_scales 1,0.4 --load_model `your model path`
 ~~~
+### Train
+
+python train.py ctdet --exp_id msfcnet --batch_size 10 --dataset DOTA --arch msfc_101 --num_epoches 100
+
+
 
 ### Evaluation
 
@@ -69,10 +68,13 @@ You can follow the below steps to run a quick demo:
 
 you need to download the network model (DOTA or DIOR), then run:
 ~~~
-python ctdet --demo `MSFC-Net_ROOT/exp/demo/images/` --load_model `your model path` --nms --test_scales 1 --dataset DOTA --arch msfc_101
+python demo.py ctdet --demo `MSFC-Net_ROOT/exp/demo/images/` --load_model `your model path` --nms --test_scales 1 --dataset DOTA --arch msfc_101
 ~~~
 
 
 
 
-Contact: bit_zhangtong@163.com. Any questions are welcomed!
+Contact: bit_zhangtong@163.com. If you have any questions.
+
+The code is modified based on [CenterNet](https://github.com/xingyizhou/CenterNet).
+

@@ -1,0 +1,7 @@
+tennis-court 890.0 321.0 1022.0 522.0
+tennis-court 787.0 347.0 918.0 549.0
+tennis-court 662.0 382.0 794.0 580.0
+tennis-court 557.0 410.0 691.0 611.0
+tennis-court 433.0 443.0 566.0 643.0
+tennis-court 330.0 470.0 463.0 670.0
+baseball-diamond 281.0 0.0 594.0 240.0 difficult

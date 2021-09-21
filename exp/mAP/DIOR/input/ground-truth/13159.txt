@@ -1,0 +1,6 @@
+storagetank 53.0 380.0 64.0 395.0
+storagetank 37.0 382.0 49.0 398.0
+storagetank 22.0 386.0 33.0 399.0
+storagetank 6.0 389.0 18.0 403.0
+Expressway-toll-station 740.0 213.0 764.0 232.0
+bridge 1.0 619.0 44.0 741.0

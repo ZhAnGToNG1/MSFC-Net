@@ -1,0 +1,5 @@
+groundtrackfield 246.0 44.0 426.0 445.0
+baseballfield 453.0 58.0 523.0 126.0
+baseballfield 543.0 219.0 629.0 308.0
+baseballfield 458.0 391.0 559.0 493.0
+baseballfield 413.0 550.0 513.0 651.0

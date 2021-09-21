@@ -1,0 +1,4 @@
+roundabout 290.0 330.0 424.0 459.0
+small-vehicle 544.0 549.0 578.0 592.0
+small-vehicle 534.0 360.0 554.0 398.0
+swimming-pool 605.0 477.0 663.0 524.0

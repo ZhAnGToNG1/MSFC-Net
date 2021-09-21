@@ -1,0 +1,68 @@
+small-vehicle 1735.0 1075.0 1749.0 1099.0 difficult
+ship 1600.0 441.0 1635.0 461.0
+ship 567.0 318.0 596.0 336.0
+ship 964.0 330.0 994.0 346.0
+ship 1009.0 294.0 1037.0 309.0
+ship 1208.0 316.0 1223.0 344.0
+ship 1198.0 372.0 1219.0 412.0
+ship 1286.0 381.0 1302.0 419.0
+ship 1777.0 370.0 1795.0 399.0
+small-vehicle 1789.0 1017.0 1803.0 1037.0 difficult
+ship 2353.0 729.0 2385.0 748.0
+ship 2822.0 882.0 2846.0 912.0
+ship 2791.0 906.0 2807.0 941.0
+ship 2965.0 946.0 2993.0 964.0
+ship 2969.0 927.0 2997.0 944.0
+ship 1456.0 412.0 1468.0 435.0 difficult
+ship 578.0 301.0 615.0 317.0
+harbor 2964.0 766.0 3029.0 979.0
+harbor 2783.0 713.0 2854.0 941.0
+harbor 2588.0 689.0 2653.0 847.0
+harbor 2428.0 669.0 2511.0 824.0
+harbor 2328.0 530.0 2396.0 768.0
+harbor 2200.0 515.0 2269.0 725.0
+harbor 2108.0 428.0 2145.0 606.0
+harbor 2013.0 412.0 2062.0 601.0
+harbor 1587.0 261.0 1646.0 471.0
+harbor 1453.0 265.0 1511.0 452.0
+harbor 1257.0 236.0 1362.0 436.0
+harbor 1187.0 215.0 1241.0 413.0
+harbor 1060.0 178.0 1178.0 383.0
+harbor 975.0 156.0 1062.0 368.0
+harbor 779.0 159.0 864.0 349.0
+harbor 528.0 152.0 619.0 341.0
+small-vehicle 1065.0 2.0 1079.0 24.0 difficult
+small-vehicle 1942.0 69.0 1953.0 90.0 difficult
+small-vehicle 1823.0 193.0 1838.0 215.0 difficult
+small-vehicle 2978.0 249.0 2990.0 274.0 difficult
+small-vehicle 1772.0 963.0 1787.0 985.0 difficult
+small-vehicle 1787.0 895.0 1800.0 918.0 difficult
+small-vehicle 1788.0 803.0 1800.0 822.0 difficult
+small-vehicle 1836.0 729.0 1847.0 750.0 difficult
+small-vehicle 1833.0 668.0 1847.0 691.0 difficult
+small-vehicle 1863.0 649.0 1876.0 671.0 difficult
+small-vehicle 1842.0 607.0 1856.0 628.0 difficult
+small-vehicle 1869.0 551.0 1883.0 574.0 difficult
+small-vehicle 1858.0 503.0 1871.0 525.0 difficult
+ship 2234.0 653.0 2260.0 667.0 difficult
+ship 2418.0 639.0 2436.0 662.0 difficult
+ship 2587.0 775.0 2615.0 791.0 difficult
+ship 3041.0 586.0 3052.0 606.0 difficult
+swimming-pool 2891.0 310.0 2929.0 354.0
+small-vehicle 3078.0 201.0 3099.0 214.0 difficult
+small-vehicle 2544.0 139.0 2566.0 152.0 difficult
+small-vehicle 3162.0 8.0 3173.0 30.0 difficult
+small-vehicle 3146.0 8.0 3160.0 35.0 difficult
+small-vehicle 2866.0 32.0 2890.0 50.0 difficult
+ship 2673.0 525.0 2702.0 544.0 difficult
+small-vehicle 2736.0 565.0 2758.0 576.0 difficult
+small-vehicle 2623.0 506.0 2644.0 519.0 difficult
+small-vehicle 2650.0 357.0 2660.0 377.0 difficult
+small-vehicle 2638.0 354.0 2647.0 376.0 difficult
+small-vehicle 2447.0 336.0 2461.0 361.0 difficult
+small-vehicle 2421.0 294.0 2441.0 308.0 difficult
+small-vehicle 2427.0 282.0 2442.0 294.0 difficult
+small-vehicle 2404.0 282.0 2425.0 294.0 difficult
+small-vehicle 2416.0 263.0 2440.0 274.0 difficult
+small-vehicle 2705.0 158.0 2727.0 170.0 difficult
+harbor 253.0 42.0 349.0 325.0

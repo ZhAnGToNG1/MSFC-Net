@@ -1,0 +1,7 @@
+ship 251.0 197.0 399.0 745.0
+storagetank 447.0 99.0 490.0 138.0
+storagetank 439.0 46.0 478.0 86.0
+storagetank 435.0 1.0 471.0 33.0
+storagetank 486.0 14.0 526.0 53.0
+storagetank 495.0 66.0 532.0 104.0
+storagetank 497.0 113.0 523.0 140.0

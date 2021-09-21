@@ -1,0 +1,7 @@
+basketball-court 2262.0 430.0 2305.0 477.0
+soccer-ball-field 2099.0 485.0 2150.0 539.0 difficult
+ground-track-field 2228.0 401.0 2316.0 494.0
+soccer-ball-field 2269.0 388.0 2337.0 465.0
+bridge 585.0 1135.0 1222.0 2316.0
+bridge 870.0 988.0 1647.0 2127.0
+bridge 2044.0 456.0 2522.0 1171.0

@@ -1,0 +1,11 @@
+bridge 122.0 416.0 672.0 488.0
+storagetank 350.0 263.0 361.0 273.0
+storagetank 363.0 260.0 374.0 271.0
+storagetank 377.0 261.0 387.0 270.0
+storagetank 391.0 263.0 401.0 273.0
+storagetank 403.0 263.0 415.0 275.0
+storagetank 662.0 181.0 672.0 190.0
+storagetank 674.0 189.0 684.0 200.0
+storagetank 685.0 197.0 695.0 208.0
+storagetank 712.0 242.0 721.0 252.0
+vehicle 11.0 335.0 19.0 346.0

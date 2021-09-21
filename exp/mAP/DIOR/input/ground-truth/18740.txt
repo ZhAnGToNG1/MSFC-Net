@@ -1,0 +1,3 @@
+airport 648.0 559.0 765.0 746.0
+golffield 196.0 166.0 292.0 281.0
+Expressway-toll-station 556.0 518.0 562.0 530.0

@@ -1,0 +1,4 @@
+Expressway-Service-area 33.0 105.0 130.0 215.0
+groundtrackfield 487.0 249.0 554.0 315.0
+groundtrackfield 671.0 110.0 752.0 177.0
+Expressway-Service-area 62.0 148.0 159.0 252.0

@@ -1,0 +1,3 @@
+airport 585.0 20.0 679.0 292.0
+Expressway-Service-area 220.0 598.0 264.0 648.0
+Expressway-Service-area 216.0 619.0 259.0 662.0

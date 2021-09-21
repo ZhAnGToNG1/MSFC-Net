@@ -1,0 +1,4 @@
+Expressway-toll-station 335.0 100.0 353.0 119.0
+groundtrackfield 502.0 676.0 526.0 717.0
+stadium 511.0 615.0 554.0 669.0
+stadium 631.0 698.0 676.0 746.0

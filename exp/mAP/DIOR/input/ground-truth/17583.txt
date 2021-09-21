@@ -1,0 +1,9 @@
+airport 315.0 124.0 480.0 636.0
+baseballfield 186.0 618.0 194.0 627.0
+baseballfield 178.0 612.0 184.0 620.0
+baseballfield 172.0 621.0 180.0 628.0
+baseballfield 182.0 638.0 189.0 646.0
+baseballfield 189.0 644.0 198.0 653.0
+baseballfield 177.0 648.0 184.0 655.0
+baseballfield 184.0 653.0 192.0 660.0
+golffield 449.0 239.0 655.0 413.0

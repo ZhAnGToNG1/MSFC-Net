@@ -1,0 +1,4 @@
+baseballfield 186.0 47.0 217.0 73.0
+baseballfield 20.0 130.0 43.0 148.0
+groundtrackfield 33.0 70.0 140.0 143.0
+storagetank 270.0 787.0 289.0 800.0

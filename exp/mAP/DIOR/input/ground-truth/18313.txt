@@ -1,0 +1,9 @@
+stadium 535.0 297.0 715.0 481.0
+overpass 525.0 202.0 532.0 238.0
+groundtrackfield 60.0 391.0 133.0 453.0
+vehicle 6.0 258.0 18.0 264.0
+overpass 372.0 280.0 383.0 307.0
+overpass 580.0 260.0 590.0 294.0
+tenniscourt 130.0 596.0 142.0 618.0
+tenniscourt 146.0 594.0 158.0 616.0
+tenniscourt 163.0 591.0 174.0 615.0

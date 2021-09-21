@@ -1,0 +1,9 @@
+basketballcourt 257.0 306.0 365.0 473.0
+basketballcourt 373.0 311.0 481.0 478.0
+basketballcourt 486.0 319.0 594.0 486.0
+basketballcourt 600.0 325.0 708.0 492.0
+tenniscourt 265.0 521.0 344.0 676.0
+tenniscourt 375.0 525.0 454.0 680.0
+tenniscourt 489.0 535.0 568.0 690.0
+tenniscourt 598.0 540.0 677.0 695.0
+vehicle 46.0 550.0 80.0 568.0

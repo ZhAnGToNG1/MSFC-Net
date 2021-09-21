@@ -1,0 +1,6 @@
+baseballfield 597.0 612.0 621.0 636.0
+baseballfield 614.0 645.0 632.0 662.0
+baseballfield 638.0 641.0 660.0 658.0
+vehicle 353.0 445.0 365.0 447.0
+overpass 396.0 435.0 408.0 478.0
+overpass 766.0 458.0 780.0 498.0

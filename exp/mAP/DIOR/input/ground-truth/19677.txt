@@ -1,0 +1,6 @@
+basketballcourt 229.0 211.0 348.0 387.0
+basketballcourt 344.0 204.0 463.0 380.0
+basketballcourt 458.0 195.0 577.0 371.0
+basketballcourt 238.0 392.0 357.0 568.0
+basketballcourt 354.0 384.0 473.0 560.0
+basketballcourt 471.0 378.0 590.0 554.0

@@ -1,0 +1,13 @@
+windmill 428.0 33.0 485.0 64.0
+windmill 665.0 48.0 727.0 75.0
+windmill 283.0 159.0 337.0 186.0
+windmill 573.0 188.0 628.0 220.0
+windmill 284.0 388.0 339.0 420.0
+windmill 19.0 608.0 76.0 637.0
+storagetank 110.0 706.0 136.0 727.0
+storagetank 88.0 753.0 107.0 767.0
+storagetank 94.0 742.0 109.0 752.0
+storagetank 97.0 727.0 114.0 738.0
+storagetank 142.0 710.0 159.0 724.0
+storagetank 154.0 724.0 169.0 734.0
+storagetank 161.0 736.0 177.0 748.0

@@ -1,0 +1,3 @@
+==> torch version: 1.7.0+cu110
+==> cudnn version: 8004
+==> Cmd:

@@ -1,0 +1,6 @@
+tenniscourt 73.0 456.0 142.0 494.0
+tenniscourt 732.0 557.0 766.0 617.0
+basketballcourt 250.0 706.0 336.0 761.0
+storagetank 524.0 53.0 542.0 67.0
+vehicle 452.0 660.0 465.0 666.0
+vehicle 54.0 710.0 62.0 720.0

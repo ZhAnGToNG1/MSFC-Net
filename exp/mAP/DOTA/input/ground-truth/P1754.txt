@@ -1,0 +1,15 @@
+storage-tank 3146.0 1452.0 3188.0 1499.0
+roundabout 2650.0 477.0 2684.0 516.0
+roundabout 2679.0 207.0 2716.0 248.0
+roundabout 2661.0 45.0 2701.0 91.0
+storage-tank 1373.0 762.0 1450.0 847.0
+storage-tank 1443.0 722.0 1519.0 808.0
+storage-tank 1610.0 1015.0 1638.0 1049.0
+roundabout 184.0 4750.0 212.0 4778.0 difficult
+storage-tank 32.0 2028.0 75.0 2074.0
+storage-tank 98.0 2044.0 138.0 2085.0
+storage-tank 24.0 1952.0 60.0 1991.0
+storage-tank 662.0 1588.0 718.0 1654.0
+storage-tank 618.0 1546.0 674.0 1609.0
+roundabout 266.0 622.0 298.0 657.0
+roundabout 496.0 120.0 520.0 146.0

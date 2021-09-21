@@ -1,0 +1,4 @@
+groundtrackfield 404.0 400.0 441.0 480.0
+baseballfield 393.0 359.0 415.0 382.0
+baseballfield 371.0 322.0 386.0 337.0
+chimney 213.0 287.0 227.0 303.0

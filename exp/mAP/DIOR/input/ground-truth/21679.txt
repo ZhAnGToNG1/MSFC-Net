@@ -1,0 +1,5 @@
+baseballfield 184.0 313.0 297.0 421.0
+baseballfield 179.0 518.0 304.0 634.0
+baseballfield 371.0 192.0 541.0 356.0
+baseballfield 497.0 421.0 610.0 539.0
+baseballfield 381.0 577.0 492.0 688.0

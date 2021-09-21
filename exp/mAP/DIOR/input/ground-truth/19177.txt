@@ -1,0 +1,7 @@
+storagetank 274.0 490.0 320.0 537.0
+storagetank 281.0 657.0 327.0 702.0
+storagetank 495.0 613.0 537.0 655.0
+storagetank 479.0 476.0 539.0 536.0
+storagetank 474.0 371.0 507.0 403.0
+storagetank 472.0 312.0 505.0 344.0
+storagetank 455.0 152.0 488.0 184.0

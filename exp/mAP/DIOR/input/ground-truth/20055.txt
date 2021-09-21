@@ -1,0 +1,5 @@
+Expressway-Service-area 643.0 164.0 710.0 265.0
+bridge 425.0 426.0 531.0 484.0
+bridge 19.0 608.0 125.0 660.0
+Expressway-Service-area 722.0 67.0 797.0 169.0
+dam 541.0 500.0 612.0 580.0

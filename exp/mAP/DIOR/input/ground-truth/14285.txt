@@ -1,0 +1,5 @@
+airport 412.0 279.0 585.0 661.0
+groundtrackfield 362.0 108.0 381.0 130.0
+groundtrackfield 386.0 55.0 405.0 71.0
+overpass 75.0 254.0 84.0 274.0
+overpass 514.0 75.0 522.0 92.0

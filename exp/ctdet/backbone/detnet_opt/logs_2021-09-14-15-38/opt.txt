@@ -1,0 +1,75 @@
+==> torch version: 1.7.0+cu110
+==> cudnn version: 8004
+==> Cmd:
+['/home/zg/GITHUB/MSFC-Net/src/train.py', 'ctdet', '--exp_id', 'backbone/detnet_opt', '--batch_size', '2', '--gpus', '0', '--num_epochs', '115', '--dataset', 'DOTA', '--arch', 'msfcdetnet_50', '--save_step', '10,20,30,40,50,55,60,70,80,90,101,110', '--lr_step', '50', '--lr', '6.25e-5']
+==> Opt:
+  K: 100
+  arch: msfcdetnet_50
+  batch_size: 2
+  chunk_sizes: [2]
+  dataset: DOTA
+  debug: 0
+  debug_dir: /home/zg/GITHUB/MSFC-Net/src/lib/../../exp/ctdet/backbone/detnet_opt/debug
+  debugger_theme: white
+  demo: 
+  demo_dir: /home/zg/GITHUB/MSFC-Net/src/lib/../../exp/demo/vis_results
+  dior_results_dir: /home/zg/GITHUB/MSFC-Net/src/lib/../../exp/mAP/DIOR/input
+  dota_results_dir: /home/zg/GITHUB/MSFC-Net/src/lib/../../exp/mAP/DOTA/input
+  down_ratio: 4
+  exp_dir: /home/zg/GITHUB/MSFC-Net/src/lib/../../exp/ctdet
+  exp_id: backbone/detnet_opt
+  fix_res: False
+  flip: 0.5
+  gpus: [0]
+  gpus_str: 0
+  head_conv: 64
+  heads: {'hm': 16, 'wh': 2, 'reg': 2}
+  hm_weight: 1
+  input_h: 512
+  input_res: 512
+  input_w: 512
+  keep_res: False
+  load_model: 
+  lr: 6.25e-05
+  lr_step: [50]
+  master_batch_size: 2
+  mean: [[[0.339 0.36  0.358]]]
+  metric: loss
+  mse_loss: False
+  nms: False
+  no_color_aug: False
+  not_cuda_benchmark: False
+  not_rand_crop: False
+  num_classes: 16
+  num_epochs: 115
+  num_iters: -1
+  num_stacks: 1
+  num_workers: 4
+  off_weight: 1
+  output_h: 128
+  output_res: 128
+  output_w: 128
+  pad: 31
+  patch_overlap: 128
+  patch_size: 512
+  print_iter: 0
+  reg_loss: l1
+  reg_offset: True
+  resume: False
+  root_dir: /home/zg/GITHUB/MSFC-Net/src/lib/../..
+  rotate: 0
+  save_all: False
+  save_dir: /home/zg/GITHUB/MSFC-Net/src/lib/../../exp/ctdet/backbone/detnet_opt
+  save_step: [10, 20, 30, 40, 50, 55, 60, 70, 80, 90, 101, 110]
+  scale: 0.4
+  seed: 317
+  shift: 0.1
+  std: [[[0.181 0.185 0.192]]]
+  task: ctdet
+  test: False
+  test_dir: 
+  test_scales: [1.0]
+  trainval: False
+  val_intervals: -1
+  vis_thresh: 0.3
+  wh_weight: 0.1

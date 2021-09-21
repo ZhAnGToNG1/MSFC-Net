@@ -1,0 +1,11 @@
+small-vehicle 262.0 1103.0 306.0 1144.0
+small-vehicle 1015.0 685.0 1055.0 731.0
+small-vehicle 728.0 809.0 766.0 847.0
+small-vehicle 547.0 1000.0 586.0 1039.0
+small-vehicle 760.0 776.0 798.0 815.0
+tennis-court 646.0 406.0 851.0 606.0
+tennis-court 562.0 494.0 766.0 696.0
+tennis-court 477.0 583.0 681.0 787.0
+tennis-court 391.0 677.0 595.0 875.0
+tennis-court 309.0 765.0 512.0 964.0
+tennis-court 225.0 854.0 428.0 1054.0

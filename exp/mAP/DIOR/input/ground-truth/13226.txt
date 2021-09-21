@@ -1,0 +1,3 @@
+airport 223.0 210.0 620.0 627.0
+groundtrackfield 646.0 55.0 668.0 80.0
+golffield 200.0 707.0 392.0 800.0

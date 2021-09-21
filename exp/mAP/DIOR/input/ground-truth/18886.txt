@@ -1,0 +1,3 @@
+basketballcourt 70.0 536.0 102.0 580.0
+Expressway-Service-area 42.0 250.0 436.0 669.0
+Expressway-Service-area 376.0 234.0 712.0 624.0

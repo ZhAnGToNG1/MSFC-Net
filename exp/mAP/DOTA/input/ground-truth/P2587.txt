@@ -1,0 +1,22 @@
+basketball-court 1465.0 358.0 2401.0 1320.0
+basketball-court 257.0 807.0 1286.0 1629.0
+ground-track-field 172.0 559.0 1234.0 955.0
+tennis-court 2294.0 790.0 2520.0 1022.0
+tennis-court 2404.0 888.0 2632.0 1125.0
+tennis-court 2518.0 993.0 2746.0 1229.0
+small-vehicle 86.0 126.0 117.0 174.0
+small-vehicle 340.0 22.0 388.0 52.0
+small-vehicle 274.0 226.0 318.0 259.0
+small-vehicle 111.0 139.0 142.0 184.0
+small-vehicle 137.0 154.0 162.0 194.0
+small-vehicle 162.0 155.0 186.0 192.0
+small-vehicle 185.0 168.0 208.0 207.0
+small-vehicle 203.0 167.0 231.0 208.0
+small-vehicle 1135.0 48.0 1173.0 100.0
+small-vehicle 232.0 3.0 261.0 45.0 difficult
+small-vehicle 209.0 3.0 236.0 36.0 difficult
+small-vehicle 219.0 120.0 251.0 165.0 difficult
+small-vehicle 286.0 206.0 327.0 240.0 difficult
+small-vehicle 267.0 248.0 320.0 281.0 difficult
+small-vehicle 2211.0 1017.0 2246.0 1050.0 difficult
+basketball-court 832.0 527.0 1181.0 828.0

@@ -1,0 +1,17 @@
+overpass 340.0 214.0 384.0 285.0
+overpass 236.0 554.0 312.0 623.0
+overpass 275.0 573.0 320.0 621.0
+overpass 282.0 583.0 354.0 646.0
+overpass 109.0 697.0 168.0 754.0
+overpass 145.0 724.0 172.0 747.0
+overpass 160.0 725.0 212.0 767.0
+overpass 382.0 635.0 426.0 695.0
+baseballfield 584.0 646.0 630.0 696.0
+baseballfield 651.0 449.0 727.0 523.0
+groundtrackfield 732.0 408.0 800.0 543.0
+tenniscourt 545.0 582.0 559.0 612.0
+tenniscourt 563.0 583.0 576.0 612.0
+tenniscourt 580.0 583.0 594.0 612.0
+tenniscourt 598.0 583.0 611.0 612.0
+trainstation 593.0 90.0 783.0 208.0
+vehicle 198.0 526.0 212.0 537.0

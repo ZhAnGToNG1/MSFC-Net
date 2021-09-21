@@ -1,0 +1,16 @@
+small-vehicle 1124.0 171.0 1134.0 190.0 difficult
+small-vehicle 1122.0 198.0 1133.0 220.0 difficult
+small-vehicle 1124.0 252.0 1134.0 275.0 difficult
+small-vehicle 1121.0 335.0 1132.0 356.0 difficult
+small-vehicle 1122.0 397.0 1131.0 418.0 difficult
+small-vehicle 1122.0 426.0 1131.0 449.0 difficult
+small-vehicle 1119.0 454.0 1131.0 477.0 difficult
+small-vehicle 1077.0 363.0 1085.0 385.0 difficult
+small-vehicle 1074.0 416.0 1083.0 437.0 difficult
+small-vehicle 1076.0 449.0 1085.0 470.0 difficult
+small-vehicle 1075.0 474.0 1084.0 494.0 difficult
+small-vehicle 918.0 612.0 939.0 623.0 difficult
+small-vehicle 904.0 599.0 925.0 610.0 difficult
+small-vehicle 843.0 598.0 869.0 611.0 difficult
+small-vehicle 711.0 595.0 739.0 609.0 difficult
+small-vehicle 593.0 609.0 620.0 619.0 difficult

@@ -1,0 +1,6 @@
+Expressway-Service-area 464.0 110.0 514.0 202.0
+overpass 677.0 677.0 708.0 708.0
+Expressway-Service-area 494.0 70.0 570.0 233.0
+Expressway-toll-station 583.0 638.0 610.0 665.0
+groundtrackfield 269.0 420.0 298.0 445.0
+bridge 26.0 45.0 63.0 81.0

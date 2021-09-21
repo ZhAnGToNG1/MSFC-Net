@@ -1,0 +1,3 @@
+airport 153.0 87.0 724.0 677.0
+overpass 293.0 742.0 322.0 791.0
+Expressway-toll-station 25.0 646.0 42.0 661.0

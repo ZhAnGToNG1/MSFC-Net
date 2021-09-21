@@ -1,0 +1,4 @@
+baseballfield 272.0 568.0 287.0 584.0
+baseballfield 268.0 590.0 288.0 611.0
+groundtrackfield 305.0 560.0 342.0 634.0
+bridge 681.0 526.0 703.0 546.0

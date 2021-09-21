@@ -1,0 +1,5 @@
+chimney 281.0 416.0 366.0 581.0
+chimney 429.0 394.0 599.0 588.0
+groundtrackfield 641.0 50.0 800.0 474.0
+basketballcourt 695.0 201.0 765.0 310.0
+basketballcourt 758.0 213.0 800.0 320.0

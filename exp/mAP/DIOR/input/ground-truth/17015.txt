@@ -1,0 +1,5 @@
+trainstation 205.0 583.0 478.0 663.0
+storagetank 663.0 201.0 693.0 232.0
+storagetank 626.0 204.0 653.0 231.0
+storagetank 631.0 235.0 660.0 261.0
+groundtrackfield 582.0 32.0 678.0 87.0

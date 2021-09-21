@@ -1,0 +1,6 @@
+trainstation 87.0 426.0 574.0 574.0
+basketballcourt 475.0 143.0 491.0 169.0
+basketballcourt 490.0 141.0 505.0 169.0
+basketballcourt 505.0 141.0 518.0 168.0
+groundtrackfield 461.0 131.0 534.0 177.0
+groundtrackfield 689.0 166.0 741.0 190.0

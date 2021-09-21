@@ -1,0 +1,7 @@
+Expressway-Service-area 447.0 68.0 739.0 611.0
+vehicle 643.0 185.0 660.0 224.0
+vehicle 590.0 312.0 603.0 340.0
+vehicle 662.0 251.0 679.0 295.0
+vehicle 778.0 60.0 795.0 103.0
+groundtrackfield 10.0 192.0 226.0 378.0
+groundtrackfield 198.0 1.0 401.0 137.0

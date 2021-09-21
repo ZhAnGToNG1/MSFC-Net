@@ -1,0 +1,114 @@
+small-vehicle 487.0 896.0 513.0 912.0 difficult
+small-vehicle 309.0 785.0 329.0 800.0
+small-vehicle 339.0 887.0 361.0 907.0
+small-vehicle 357.0 940.0 380.0 957.0
+small-vehicle 365.0 954.0 385.0 968.0
+small-vehicle 450.0 996.0 472.0 1012.0
+small-vehicle 473.0 985.0 494.0 1003.0
+small-vehicle 492.0 972.0 515.0 992.0
+small-vehicle 569.0 910.0 589.0 931.0
+small-vehicle 514.0 860.0 529.0 881.0
+small-vehicle 502.0 832.0 517.0 851.0
+small-vehicle 428.0 772.0 452.0 787.0
+small-vehicle 473.0 765.0 493.0 781.0
+small-vehicle 402.0 686.0 425.0 705.0
+small-vehicle 399.0 677.0 416.0 690.0
+small-vehicle 436.0 659.0 458.0 676.0
+small-vehicle 447.0 683.0 467.0 699.0
+small-vehicle 543.0 675.0 558.0 698.0
+small-vehicle 526.0 623.0 542.0 647.0
+tennis-court 383.0 502.0 460.0 616.0
+tennis-court 444.0 484.0 524.0 598.0
+tennis-court 342.0 345.0 418.0 460.0
+tennis-court 404.0 326.0 483.0 440.0
+tennis-court 482.0 302.0 561.0 417.0
+small-vehicle 415.0 81.0 434.0 92.0
+small-vehicle 424.0 99.0 446.0 109.0
+small-vehicle 413.0 109.0 434.0 118.0
+small-vehicle 359.0 813.0 373.0 834.0
+tennis-court 295.0 525.0 374.0 640.0
+small-vehicle 760.0 739.0 779.0 755.0 difficult
+tennis-court 234.0 544.0 314.0 660.0
+small-vehicle 65.0 1.0 78.0 18.0
+small-vehicle 110.0 122.0 129.0 132.0
+small-vehicle 213.0 97.0 230.0 105.0
+small-vehicle 218.0 129.0 238.0 139.0
+small-vehicle 252.0 92.0 273.0 103.0
+large-vehicle 248.0 126.0 271.0 136.0
+large-vehicle 291.0 89.0 315.0 100.0
+small-vehicle 318.0 88.0 339.0 98.0
+small-vehicle 341.0 87.0 360.0 97.0
+small-vehicle 337.0 119.0 358.0 131.0
+small-vehicle 281.0 124.0 300.0 133.0
+small-vehicle 258.0 53.0 275.0 71.0
+small-vehicle 284.0 51.0 301.0 73.0
+small-vehicle 375.0 45.0 384.0 68.0
+small-vehicle 395.0 43.0 403.0 65.0
+small-vehicle 368.0 145.0 376.0 161.0
+small-vehicle 393.0 149.0 400.0 161.0 difficult
+small-vehicle 154.0 144.0 175.0 154.0
+small-vehicle 155.0 155.0 174.0 164.0
+small-vehicle 99.0 169.0 116.0 180.0
+small-vehicle 95.0 159.0 115.0 171.0
+small-vehicle 95.0 149.0 114.0 160.0
+small-vehicle 172.0 252.0 185.0 274.0
+tennis-court 189.0 393.0 267.0 506.0
+tennis-court 250.0 374.0 328.0 489.0
+small-vehicle 484.0 89.0 501.0 98.0
+small-vehicle 494.0 74.0 514.0 85.0
+small-vehicle 518.0 72.0 537.0 84.0
+small-vehicle 470.0 38.0 481.0 57.0
+small-vehicle 702.0 551.0 723.0 567.0
+small-vehicle 696.0 593.0 710.0 614.0
+small-vehicle 657.0 544.0 670.0 565.0
+small-vehicle 727.0 640.0 749.0 656.0
+small-vehicle 766.0 724.0 788.0 740.0
+small-vehicle 722.0 734.0 734.0 755.0
+small-vehicle 710.0 714.0 728.0 735.0
+small-vehicle 584.0 758.0 600.0 781.0
+small-vehicle 782.0 757.0 798.0 768.0 difficult
+small-vehicle 682.0 821.0 700.0 839.0
+small-vehicle 666.0 832.0 685.0 851.0
+small-vehicle 644.0 847.0 666.0 868.0
+small-vehicle 707.0 867.0 723.0 887.0
+small-vehicle 658.0 895.0 673.0 913.0
+small-vehicle 626.0 864.0 646.0 882.0
+small-vehicle 607.0 879.0 628.0 898.0
+small-vehicle 586.0 896.0 607.0 915.0
+small-vehicle 588.0 69.0 606.0 79.0
+small-vehicle 624.0 509.0 643.0 523.0 difficult
+small-vehicle 193.0 57.0 202.0 79.0 difficult
+small-vehicle 78.0 43.0 92.0 63.0 difficult
+small-vehicle 448.0 143.0 457.0 159.0 difficult
+small-vehicle 517.0 134.0 526.0 152.0 difficult
+small-vehicle 649.0 298.0 665.0 316.0 difficult
+small-vehicle 777.0 734.0 798.0 748.0 difficult
+small-vehicle 633.0 531.0 652.0 545.0
+small-vehicle 679.0 466.0 697.0 492.0
+tennis-court 537.0 424.0 652.0 501.0
+small-vehicle 785.0 114.0 795.0 133.0
+small-vehicle 545.0 38.0 557.0 60.0
+small-vehicle 566.0 69.0 586.0 81.0
+small-vehicle 701.0 63.0 722.0 73.0
+small-vehicle 728.0 60.0 751.0 71.0
+small-vehicle 755.0 56.0 774.0 67.0
+small-vehicle 799.0 53.0 819.0 63.0
+small-vehicle 784.0 34.0 794.0 46.0 difficult
+small-vehicle 698.0 90.0 717.0 98.0
+small-vehicle 657.0 91.0 678.0 102.0
+small-vehicle 720.0 88.0 740.0 98.0
+small-vehicle 747.0 86.0 765.0 97.0
+small-vehicle 823.0 81.0 840.0 91.0
+small-vehicle 803.0 347.0 812.0 370.0
+small-vehicle 610.0 155.0 619.0 177.0
+large-vehicle 612.0 184.0 623.0 207.0
+small-vehicle 617.0 206.0 630.0 228.0
+small-vehicle 627.0 240.0 641.0 261.0
+small-vehicle 633.0 264.0 647.0 285.0
+small-vehicle 641.0 283.0 655.0 300.0 difficult
+tennis-court 544.0 283.0 624.0 398.0
+small-vehicle 662.0 314.0 682.0 336.0
+small-vehicle 692.0 336.0 712.0 353.0
+small-vehicle 744.0 337.0 760.0 360.0
+small-vehicle 734.0 334.0 751.0 354.0
+small-vehicle 72.0 20.0 82.0 36.0 difficult

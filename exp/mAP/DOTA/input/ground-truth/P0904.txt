@@ -1,0 +1,21 @@
+roundabout 768.0 657.0 900.0 788.0
+small-vehicle 378.0 16.0 399.0 65.0 difficult
+tennis-court 499.0 347.0 607.0 562.0
+tennis-court 376.0 340.0 489.0 559.0
+tennis-court 251.0 334.0 360.0 551.0
+tennis-court 134.0 330.0 243.0 545.0
+small-vehicle 700.0 871.0 740.0 887.0
+small-vehicle 701.0 895.0 740.0 913.0
+small-vehicle 689.0 918.0 738.0 940.0
+small-vehicle 195.0 123.0 213.0 164.0
+small-vehicle 456.0 42.0 494.0 64.0 difficult
+small-vehicle 802.0 510.0 831.0 555.0 difficult
+small-vehicle 454.0 114.0 498.0 135.0 difficult
+small-vehicle 701.0 821.0 737.0 843.0 difficult
+small-vehicle 456.0 69.0 494.0 89.0 difficult
+small-vehicle 457.0 22.0 498.0 41.0 difficult
+small-vehicle 452.0 92.0 499.0 114.0 difficult
+small-vehicle 839.0 175.0 867.0 219.0 difficult
+small-vehicle 808.0 334.0 832.0 377.0 difficult
+small-vehicle 821.0 408.0 847.0 454.0 difficult
+tennis-court 619.0 354.0 729.0 568.0

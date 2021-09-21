@@ -1,0 +1,9 @@
+tenniscourt 479.0 298.0 514.0 369.0
+tenniscourt 514.0 313.0 555.0 378.0
+tenniscourt 574.0 326.0 617.0 396.0
+tenniscourt 595.0 557.0 628.0 626.0
+tenniscourt 633.0 560.0 658.0 632.0
+tenniscourt 689.0 570.0 729.0 634.0
+tenniscourt 564.0 672.0 602.0 741.0
+tenniscourt 626.0 671.0 661.0 734.0
+tenniscourt 679.0 680.0 723.0 746.0

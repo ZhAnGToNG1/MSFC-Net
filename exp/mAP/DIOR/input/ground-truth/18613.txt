@@ -1,0 +1,8 @@
+groundtrackfield 646.0 420.0 743.0 480.0
+groundtrackfield 550.0 164.0 675.0 252.0
+groundtrackfield 88.0 53.0 136.0 130.0
+storagetank 479.0 19.0 490.0 32.0
+storagetank 490.0 13.0 499.0 23.0
+storagetank 497.0 21.0 507.0 33.0
+storagetank 500.0 11.0 512.0 21.0
+storagetank 514.0 10.0 523.0 19.0

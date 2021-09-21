@@ -1,0 +1,14 @@
+groundtrackfield 561.0 283.0 641.0 350.0
+groundtrackfield 423.0 76.0 586.0 181.0
+groundtrackfield 600.0 552.0 762.0 639.0
+bridge 492.0 425.0 533.0 488.0
+basketballcourt 744.0 645.0 781.0 670.0
+basketballcourt 747.0 665.0 784.0 690.0
+basketballcourt 712.0 671.0 748.0 696.0
+basketballcourt 709.0 650.0 746.0 675.0
+bridge 747.0 209.0 779.0 239.0
+bridge 415.0 485.0 437.0 546.0
+bridge 91.0 548.0 114.0 612.0
+bridge 145.0 425.0 174.0 465.0
+tenniscourt 358.0 336.0 385.0 353.0
+tenniscourt 363.0 359.0 389.0 375.0

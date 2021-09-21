@@ -1,0 +1,4 @@
+Expressway-Service-area 254.0 296.0 753.0 730.0
+Expressway-Service-area 170.0 127.0 689.0 580.0
+vehicle 672.0 251.0 684.0 263.0
+overpass 429.0 394.0 507.0 484.0

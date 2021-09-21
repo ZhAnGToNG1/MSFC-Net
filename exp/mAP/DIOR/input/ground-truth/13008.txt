@@ -1,0 +1,8 @@
+basketballcourt 262.0 343.0 384.0 532.0
+basketballcourt 395.0 344.0 517.0 533.0
+basketballcourt 526.0 345.0 648.0 534.0
+basketballcourt 259.0 571.0 381.0 760.0
+basketballcourt 393.0 573.0 515.0 762.0
+basketballcourt 522.0 571.0 644.0 760.0
+storagetank 711.0 67.0 793.0 137.0
+storagetank 752.0 139.0 800.0 210.0

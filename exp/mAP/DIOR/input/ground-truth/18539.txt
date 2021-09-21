@@ -1,0 +1,5 @@
+baseballfield 387.0 16.0 435.0 64.0
+baseballfield 394.0 109.0 431.0 136.0
+storagetank 217.0 743.0 252.0 773.0
+storagetank 179.0 770.0 211.0 797.0
+baseballfield 329.0 747.0 359.0 776.0

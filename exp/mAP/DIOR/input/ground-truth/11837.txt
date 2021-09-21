@@ -1,0 +1,10 @@
+bridge 391.0 403.0 451.0 483.0
+storagetank 148.0 51.0 229.0 120.0
+storagetank 283.0 86.0 358.0 154.0
+storagetank 416.0 121.0 490.0 193.0
+storagetank 573.0 178.0 647.0 238.0
+storagetank 547.0 258.0 627.0 315.0
+storagetank 522.0 336.0 599.0 392.0
+storagetank 652.0 244.0 755.0 313.0
+storagetank 638.0 334.0 722.0 393.0
+storagetank 614.0 420.0 696.0 478.0

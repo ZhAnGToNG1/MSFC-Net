@@ -1,0 +1,5 @@
+stadium 291.0 537.0 384.0 645.0
+groundtrackfield 372.0 250.0 436.0 329.0
+groundtrackfield 182.0 385.0 217.0 439.0
+groundtrackfield 192.0 198.0 236.0 233.0
+groundtrackfield 157.0 270.0 196.0 324.0

@@ -1,0 +1,5 @@
+stadium 653.0 278.0 700.0 325.0
+Expressway-toll-station 52.0 579.0 62.0 594.0
+Expressway-toll-station 690.0 182.0 700.0 191.0
+bridge 724.0 691.0 743.0 714.0
+bridge 656.0 730.0 679.0 747.0

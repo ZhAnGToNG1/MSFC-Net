@@ -1,0 +1,2 @@
+trainstation 225.0 337.0 492.0 448.0
+groundtrackfield 397.0 193.0 441.0 216.0

@@ -1,0 +1,5 @@
+basketballcourt 506.0 161.0 645.0 342.0
+basketballcourt 405.0 129.0 541.0 311.0
+basketballcourt 301.0 98.0 435.0 284.0
+baseballfield 244.0 533.0 526.0 798.0
+vehicle 13.0 488.0 38.0 522.0

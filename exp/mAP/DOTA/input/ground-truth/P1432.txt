@@ -1,0 +1,24 @@
+basketball-court 3070.0 2618.0 3158.0 2738.0
+soccer-ball-field 2759.0 1422.0 2943.0 1571.0
+basketball-court 278.0 3033.0 381.0 3100.0
+basketball-court 327.0 3097.0 397.0 3202.0
+soccer-ball-field 192.0 2743.0 302.0 2898.0
+ground-track-field 1482.0 2459.0 1682.0 2793.0
+basketball-court 1534.0 2534.0 1636.0 2602.0
+basketball-court 1515.0 2595.0 1631.0 2661.0
+basketball-court 1505.0 2654.0 1619.0 2720.0
+basketball-court 1354.0 1661.0 1463.0 1730.0 difficult
+basketball-court 1345.0 1611.0 1454.0 1673.0 difficult
+ground-track-field 1578.0 876.0 1756.0 1286.0
+soccer-ball-field 1609.0 949.0 1729.0 1122.0
+basketball-court 1758.0 887.0 1811.0 989.0
+basketball-court 1811.0 887.0 1865.0 989.0
+basketball-court 1756.0 1081.0 1811.0 1178.0
+basketball-court 1811.0 1082.0 1866.0 1180.0
+basketball-court 2800.0 1669.0 2869.0 1771.0
+basketball-court 2873.0 1657.0 2938.0 1761.0
+basketball-court 2818.0 1784.0 2885.0 1887.0
+basketball-court 2889.0 1773.0 2954.0 1873.0
+basketball-court 2835.0 1898.0 2902.0 2000.0
+basketball-court 2905.0 1888.0 2973.0 1987.0
+ground-track-field 126.0 2643.0 371.0 2980.0

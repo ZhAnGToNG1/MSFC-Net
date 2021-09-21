@@ -1,0 +1,17 @@
+storagetank 134.0 149.0 157.0 173.0
+storagetank 166.0 142.0 187.0 164.0
+storagetank 197.0 135.0 220.0 158.0
+storagetank 227.0 128.0 249.0 150.0
+storagetank 312.0 110.0 335.0 133.0
+storagetank 345.0 104.0 365.0 128.0
+storagetank 374.0 100.0 397.0 123.0
+storagetank 404.0 95.0 427.0 116.0
+Expressway-toll-station 638.0 99.0 701.0 143.0
+storagetank 364.0 188.0 392.0 215.0
+storagetank 412.0 177.0 442.0 207.0
+vehicle 435.0 608.0 452.0 619.0
+vehicle 535.0 222.0 552.0 246.0
+vehicle 550.0 246.0 569.0 270.0
+vehicle 581.0 279.0 603.0 297.0
+vehicle 560.0 287.0 580.0 307.0
+vehicle 643.0 326.0 666.0 345.0

@@ -1,0 +1,4 @@
+golffield 382.0 220.0 660.0 572.0
+baseballfield 157.0 152.0 176.0 168.0
+Expressway-Service-area 528.0 18.0 590.0 80.0
+Expressway-Service-area 447.0 25.0 512.0 85.0

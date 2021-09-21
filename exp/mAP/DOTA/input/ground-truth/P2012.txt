@@ -1,0 +1,12 @@
+swimming-pool 444.0 359.0 458.0 373.0 difficult
+swimming-pool 319.0 336.0 329.0 347.0 difficult
+swimming-pool 331.0 323.0 338.0 332.0 difficult
+swimming-pool 295.0 163.0 304.0 170.0 difficult
+swimming-pool 249.0 161.0 260.0 170.0 difficult
+ground-track-field 189.0 47.0 365.0 124.0
+baseball-diamond 155.0 167.0 187.0 200.0
+baseball-diamond 98.0 3.0 146.0 46.0
+soccer-ball-field 225.0 62.0 328.0 109.0
+baseball-diamond 150.0 304.0 184.0 338.0
+baseball-diamond 26.0 284.0 65.0 325.0
+baseball-diamond 19.0 162.0 53.0 196.0

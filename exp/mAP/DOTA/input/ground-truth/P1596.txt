@@ -1,0 +1,3 @@
+soccer-ball-field 471.0 1825.0 620.0 1970.0
+storage-tank 160.0 2863.0 190.0 2896.0
+ground-track-field 438.0 1795.0 651.0 1998.0

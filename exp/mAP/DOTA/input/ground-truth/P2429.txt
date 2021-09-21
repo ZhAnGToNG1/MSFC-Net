@@ -1,0 +1,9 @@
+swimming-pool 69.0 2417.0 82.0 2432.0 difficult
+roundabout 57.0 2269.0 72.0 2284.0
+ship 613.0 18.0 619.0 31.0 difficult
+ship 668.0 33.0 681.0 39.0 difficult
+ship 666.0 26.0 680.0 34.0 difficult
+ship 803.0 584.0 852.0 696.0
+ship 788.0 1585.0 815.0 1676.0
+bridge 672.0 1553.0 943.0 1578.0
+bridge 764.0 500.0 1019.0 565.0

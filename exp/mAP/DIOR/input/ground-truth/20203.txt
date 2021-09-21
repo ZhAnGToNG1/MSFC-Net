@@ -1,0 +1,4 @@
+groundtrackfield 21.0 288.0 77.0 325.0
+stadium 706.0 502.0 768.0 574.0
+overpass 279.0 624.0 320.0 642.0
+Expressway-toll-station 646.0 717.0 667.0 736.0

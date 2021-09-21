@@ -1,0 +1,23 @@
+ship 241.0 196.0 358.0 342.0
+ship 606.0 836.0 819.0 1012.0 difficult
+harbor 2365.0 1775.0 2849.0 2563.0
+ship 2189.0 1896.0 2549.0 2133.0 difficult
+ship 246.0 2130.0 638.0 2390.0 difficult
+ship 300.0 143.0 506.0 383.0 difficult
+ship 298.0 636.0 550.0 843.0 difficult
+ship 518.0 952.0 765.0 1168.0 difficult
+ship 573.0 872.0 813.0 1068.0 difficult
+ship 560.0 922.0 792.0 1116.0 difficult
+ship 529.0 1016.0 723.0 1202.0 difficult
+ship 623.0 789.0 842.0 979.0 difficult
+ship 342.0 106.0 466.0 266.0 difficult
+ship 290.0 688.0 513.0 885.0 difficult
+ship 356.0 566.0 589.0 770.0 difficult
+ship 535.0 328.0 700.0 520.0 difficult
+ship 511.0 305.0 663.0 486.0 difficult
+ship 359.0 622.0 535.0 778.0 difficult
+ship 279.0 733.0 462.0 899.0 difficult
+ship 485.0 290.0 619.0 458.0 difficult
+ship 588.0 355.0 732.0 519.0 difficult
+ship 455.0 252.0 602.0 436.0 difficult
+harbor 343.0 189.0 1476.0 1253.0

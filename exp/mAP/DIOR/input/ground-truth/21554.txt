@@ -1,0 +1,4 @@
+airport 70.0 66.0 159.0 442.0
+bridge 602.0 61.0 619.0 91.0
+groundtrackfield 342.0 469.0 361.0 494.0
+groundtrackfield 142.0 768.0 158.0 794.0

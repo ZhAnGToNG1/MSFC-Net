@@ -1,0 +1,6 @@
+ground-track-field 207.0 375.0 401.0 603.0
+soccer-ball-field 588.0 1814.0 715.0 1904.0
+soccer-ball-field 420.0 1738.0 556.0 1837.0 difficult
+ground-track-field 378.0 1723.0 593.0 1858.0
+soccer-ball-field 569.0 410.0 680.0 548.0 difficult
+ground-track-field 545.0 366.0 699.0 603.0

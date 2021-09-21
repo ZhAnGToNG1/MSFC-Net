@@ -1,0 +1,12 @@
+baseballfield 535.0 119.0 584.0 164.0
+baseballfield 106.0 91.0 155.0 131.0
+baseballfield 125.0 233.0 166.0 268.0
+baseballfield 130.0 286.0 174.0 321.0
+baseballfield 82.0 322.0 120.0 354.0
+baseballfield 83.0 369.0 144.0 420.0
+vehicle 241.0 178.0 249.0 182.0
+vehicle 252.0 203.0 255.0 210.0
+vehicle 139.0 173.0 148.0 177.0
+vehicle 257.0 445.0 260.0 451.0
+tenniscourt 450.0 125.0 464.0 154.0
+tenniscourt 430.0 124.0 447.0 158.0

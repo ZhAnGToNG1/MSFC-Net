@@ -1,0 +1,56 @@
+soccer-ball-field 2457.0 444.0 2486.0 456.0 difficult
+soccer-ball-field 4176.0 1480.0 4230.0 1531.0 difficult
+soccer-ball-field 2851.0 108.0 2861.0 128.0 difficult
+ground-track-field 2846.0 99.0 2866.0 137.0
+soccer-ball-field 2462.0 2371.0 2476.0 2391.0 difficult
+ground-track-field 2457.0 2358.0 2481.0 2404.0
+bridge 2172.0 823.0 2220.0 876.0
+soccer-ball-field 1828.0 2392.0 1872.0 2431.0
+ground-track-field 1815.0 2381.0 1890.0 2447.0
+bridge 1387.0 2037.0 1404.0 2060.0
+soccer-ball-field 1470.0 2223.0 1493.0 2238.0 difficult
+ground-track-field 1459.0 2218.0 1503.0 2242.0
+soccer-ball-field 1178.0 1672.0 1200.0 1699.0
+ground-track-field 1170.0 1663.0 1209.0 1710.0
+bridge 1115.0 2073.0 1125.0 2096.0
+bridge 1101.0 2070.0 1115.0 2098.0
+bridge 1091.0 2072.0 1106.0 2100.0
+bridge 843.0 832.0 879.0 886.0
+soccer-ball-field 455.0 1214.0 476.0 1251.0 difficult
+ground-track-field 451.0 1199.0 480.0 1264.0
+storage-tank 700.0 2276.0 708.0 2285.0 difficult
+storage-tank 689.0 2278.0 697.0 2287.0 difficult
+storage-tank 679.0 2281.0 686.0 2288.0 difficult
+storage-tank 664.0 2286.0 671.0 2294.0 difficult
+storage-tank 655.0 2291.0 661.0 2298.0 difficult
+storage-tank 624.0 2301.0 632.0 2310.0 difficult
+storage-tank 619.0 2312.0 626.0 2321.0 difficult
+bridge 2974.0 1236.0 2994.0 1259.0
+ground-track-field 3253.0 1469.0 3290.0 1516.0
+soccer-ball-field 3261.0 1479.0 3283.0 1504.0
+bridge 1358.0 847.0 1392.0 905.0
+ground-track-field 4161.0 1466.0 4247.0 1546.0
+bridge 3379.0 593.0 3425.0 657.0
+ground-track-field 2451.0 438.0 2493.0 465.0
+soccer-ball-field 2222.0 557.0 2239.0 592.0 difficult
+ground-track-field 2216.0 542.0 2243.0 603.0
+bridge 801.0 2383.0 821.0 2417.0
+soccer-ball-field 505.0 1732.0 512.0 1747.0 difficult
+ground-track-field 501.0 1725.0 517.0 1756.0
+soccer-ball-field 440.0 103.0 452.0 129.0 difficult
+soccer-ball-field 1323.0 1974.0 1339.0 1997.0 difficult
+ground-track-field 1317.0 1967.0 1344.0 2006.0
+bridge 1333.0 850.0 1378.0 909.0
+ground-track-field 3583.0 1567.0 3615.0 1611.0
+bridge 1306.0 856.0 1339.0 915.0
+bridge 692.0 2145.0 718.0 2165.0
+bridge 687.0 2152.0 710.0 2170.0
+bridge 4285.0 710.0 4305.0 744.0
+soccer-ball-field 4232.0 2304.0 4249.0 2332.0 difficult
+ground-track-field 4226.0 2296.0 4255.0 2338.0
+roundabout 3990.0 1466.0 4011.0 1488.0
+soccer-ball-field 3956.0 1027.0 3974.0 1050.0 difficult
+ground-track-field 3950.0 1017.0 3982.0 1060.0
+bridge 3814.0 572.0 3837.0 605.0
+soccer-ball-field 3589.0 1575.0 3609.0 1604.0 difficult
+ground-track-field 434.0 95.0 457.0 139.0

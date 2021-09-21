@@ -1,0 +1,7 @@
+stadium 682.0 348.0 796.0 458.0
+groundtrackfield 43.0 274.0 96.0 360.0
+groundtrackfield 320.0 439.0 370.0 524.0
+baseballfield 552.0 250.0 583.0 274.0
+baseballfield 622.0 249.0 648.0 278.0
+baseballfield 706.0 248.0 732.0 276.0
+groundtrackfield 670.0 48.0 715.0 83.0

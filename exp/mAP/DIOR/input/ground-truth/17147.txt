@@ -1,0 +1,4 @@
+baseballfield 172.0 536.0 282.0 645.0
+baseballfield 479.0 22.0 626.0 170.0
+storagetank 667.0 275.0 800.0 434.0
+vehicle 456.0 480.0 464.0 498.0

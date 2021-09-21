@@ -1,0 +1,399 @@
+storage-tank 280.0 1558.0 291.0 1569.0 difficult
+storage-tank 134.0 2066.0 141.0 2072.0 difficult
+storage-tank 142.0 2069.0 148.0 2076.0 difficult
+storage-tank 129.0 2075.0 135.0 2081.0 difficult
+storage-tank 141.0 2081.0 149.0 2089.0 difficult
+storage-tank 393.0 2137.0 416.0 2163.0
+storage-tank 420.0 2155.0 442.0 2178.0
+storage-tank 444.0 2172.0 472.0 2201.0
+storage-tank 269.0 1551.0 280.0 1563.0 difficult
+storage-tank 276.0 1540.0 286.0 1551.0 difficult
+storage-tank 287.0 1546.0 298.0 1557.0 difficult
+storage-tank 292.0 1565.0 302.0 1575.0 difficult
+storage-tank 542.0 1606.0 549.0 1613.0 difficult
+storage-tank 299.0 1553.0 308.0 1563.0 difficult
+storage-tank 310.0 1561.0 320.0 1571.0 difficult
+storage-tank 304.0 1571.0 315.0 1583.0 difficult
+storage-tank 321.0 1567.0 331.0 1578.0 difficult
+storage-tank 332.0 1571.0 339.0 1580.0 difficult
+storage-tank 315.0 1580.0 323.0 1589.0 difficult
+storage-tank 416.0 1539.0 426.0 1550.0 difficult
+storage-tank 423.0 1528.0 433.0 1539.0 difficult
+storage-tank 426.0 1547.0 431.0 1553.0 difficult
+storage-tank 430.0 1539.0 436.0 1545.0 difficult
+storage-tank 126.0 2060.0 134.0 2068.0 difficult
+storage-tank 117.0 2055.0 125.0 2063.0 difficult
+storage-tank 111.0 2063.0 120.0 2072.0 difficult
+storage-tank 103.0 2058.0 111.0 2067.0 difficult
+storage-tank 156.0 1767.0 164.0 1776.0 difficult
+storage-tank 140.0 1772.0 147.0 1780.0 difficult
+storage-tank 149.0 1776.0 158.0 1785.0 difficult
+storage-tank 133.0 1783.0 141.0 1791.0 difficult
+storage-tank 143.0 1787.0 152.0 1797.0 difficult
+storage-tank 127.0 1792.0 135.0 1801.0 difficult
+storage-tank 137.0 1797.0 146.0 1806.0 difficult
+storage-tank 17.0 1708.0 29.0 1720.0 difficult
+storage-tank 29.0 1714.0 41.0 1726.0 difficult
+storage-tank 23.0 1726.0 35.0 1737.0 difficult
+storage-tank 16.0 1737.0 28.0 1749.0 difficult
+storage-tank 262.0 1648.0 276.0 1664.0
+storage-tank 278.0 1658.0 292.0 1672.0 difficult
+storage-tank 295.0 1668.0 308.0 1683.0
+storage-tank 327.0 1689.0 340.0 1702.0 difficult
+storage-tank 311.0 1679.0 325.0 1692.0 difficult
+storage-tank 343.0 1698.0 356.0 1712.0 difficult
+storage-tank 88.0 2038.0 98.0 2048.0 difficult
+storage-tank 99.0 2043.0 107.0 2051.0 difficult
+storage-tank 107.0 2049.0 116.0 2057.0 difficult
+storage-tank 95.0 2054.0 102.0 2062.0 difficult
+storage-tank 436.0 1542.0 442.0 1549.0 difficult
+storage-tank 443.0 1546.0 450.0 1553.0 difficult
+storage-tank 451.0 1550.0 456.0 1557.0 difficult
+storage-tank 466.0 1251.0 477.0 1263.0 difficult
+storage-tank 492.0 1267.0 499.0 1274.0 difficult
+storage-tank 501.0 1273.0 507.0 1280.0 difficult
+storage-tank 509.0 1276.0 516.0 1283.0 difficult
+storage-tank 517.0 1281.0 525.0 1289.0 difficult
+storage-tank 479.0 1235.0 488.0 1244.0 difficult
+storage-tank 489.0 1242.0 497.0 1251.0 difficult
+storage-tank 497.0 1246.0 506.0 1255.0 difficult
+storage-tank 507.0 1251.0 515.0 1260.0 difficult
+storage-tank 516.0 1257.0 524.0 1266.0 difficult
+storage-tank 526.0 1262.0 535.0 1273.0 difficult
+storage-tank 485.0 1226.0 493.0 1235.0 difficult
+storage-tank 495.0 1232.0 504.0 1241.0 difficult
+storage-tank 505.0 1237.0 513.0 1246.0 difficult
+storage-tank 513.0 1243.0 521.0 1250.0 difficult
+storage-tank 534.0 1253.0 541.0 1262.0 difficult
+storage-tank 545.0 1091.0 566.0 1112.0
+storage-tank 565.0 1110.0 572.0 1118.0 difficult
+storage-tank 666.0 1814.0 674.0 1822.0 difficult
+storage-tank 673.0 1807.0 680.0 1813.0 difficult
+storage-tank 681.0 1808.0 689.0 1816.0 difficult
+storage-tank 691.0 1814.0 699.0 1821.0 difficult
+storage-tank 485.0 1261.0 492.0 1269.0 difficult
+storage-tank 504.0 1290.0 517.0 1302.0 difficult
+storage-tank 397.0 1382.0 410.0 1396.0 difficult
+storage-tank 494.0 1282.0 505.0 1295.0 difficult
+storage-tank 408.0 1365.0 422.0 1378.0 difficult
+storage-tank 411.0 1392.0 422.0 1404.0 difficult
+storage-tank 423.0 1372.0 436.0 1387.0
+storage-tank 424.0 1398.0 435.0 1412.0 difficult
+storage-tank 436.0 1381.0 450.0 1394.0 difficult
+storage-tank 437.0 1407.0 450.0 1421.0 difficult
+storage-tank 450.0 1391.0 461.0 1402.0 difficult
+storage-tank 432.0 1328.0 444.0 1340.0 difficult
+storage-tank 444.0 1336.0 456.0 1347.0 difficult
+storage-tank 457.0 1344.0 469.0 1355.0 difficult
+storage-tank 470.0 1352.0 481.0 1363.0 difficult
+storage-tank 448.0 1324.0 455.0 1331.0 difficult
+storage-tank 456.0 1329.0 463.0 1336.0 difficult
+storage-tank 464.0 1333.0 471.0 1340.0 difficult
+storage-tank 471.0 1338.0 479.0 1345.0 difficult
+storage-tank 481.0 1343.0 487.0 1351.0 difficult
+storage-tank 465.0 1310.0 476.0 1321.0 difficult
+storage-tank 476.0 1316.0 487.0 1327.0 difficult
+storage-tank 487.0 1322.0 499.0 1334.0 difficult
+storage-tank 468.0 1266.0 480.0 1280.0 difficult
+storage-tank 481.0 1274.0 493.0 1288.0 difficult
+storage-tank 146.0 1761.0 154.0 1769.0 difficult
+storage-tank 330.0 1309.0 339.0 1319.0 difficult
+storage-tank 339.0 1292.0 347.0 1302.0 difficult
+storage-tank 311.0 756.0 326.0 771.0
+storage-tank 328.0 766.0 345.0 782.0
+storage-tank 332.0 792.0 346.0 806.0 difficult
+storage-tank 348.0 801.0 364.0 817.0
+storage-tank 365.0 812.0 378.0 828.0
+storage-tank 346.0 782.0 353.0 790.0 difficult
+storage-tank 354.0 776.0 362.0 785.0 difficult
+storage-tank 355.0 787.0 362.0 795.0 difficult
+storage-tank 364.0 785.0 371.0 793.0 difficult
+storage-tank 363.0 795.0 371.0 801.0 difficult
+storage-tank 372.0 798.0 380.0 807.0 difficult
+storage-tank 381.0 805.0 387.0 812.0 difficult
+storage-tank 391.0 800.0 397.0 806.0 difficult
+storage-tank 389.0 809.0 396.0 817.0 difficult
+storage-tank 407.0 820.0 415.0 829.0 difficult
+storage-tank 453.0 862.0 466.0 875.0 difficult
+storage-tank 446.0 882.0 456.0 893.0 difficult
+storage-tank 471.0 872.0 484.0 886.0 difficult
+storage-tank 457.0 888.0 467.0 900.0 difficult
+storage-tank 473.0 897.0 485.0 911.0 difficult
+storage-tank 488.0 883.0 501.0 897.0 difficult
+storage-tank 380.0 822.0 395.0 836.0
+storage-tank 316.0 782.0 331.0 797.0
+storage-tank 298.0 772.0 314.0 787.0
+storage-tank 417.0 827.0 425.0 836.0 difficult
+storage-tank 279.0 762.0 296.0 777.0
+storage-tank 394.0 563.0 421.0 592.0
+storage-tank 432.0 587.0 459.0 616.0
+storage-tank 360.0 609.0 395.0 646.0
+storage-tank 334.0 652.0 369.0 689.0
+storage-tank 373.0 684.0 400.0 712.0
+storage-tank 401.0 639.0 427.0 667.0
+storage-tank 412.0 707.0 439.0 736.0
+storage-tank 437.0 661.0 467.0 692.0
+storage-tank 476.0 686.0 508.0 717.0
+storage-tank 452.0 731.0 478.0 759.0
+storage-tank 518.0 709.0 548.0 741.0
+storage-tank 491.0 756.0 520.0 785.0
+storage-tank 561.0 734.0 599.0 773.0
+storage-tank 539.0 784.0 566.0 812.0
+storage-tank 273.0 731.0 291.0 749.0
+storage-tank 106.0 767.0 154.0 816.0
+storage-tank 21.0 789.0 70.0 836.0
+storage-tank 76.0 821.0 123.0 867.0
+storage-tank 261.0 749.0 278.0 766.0
+storage-tank 252.0 768.0 271.0 786.0
+storage-tank 292.0 745.0 309.0 761.0
+storage-tank 396.0 833.0 410.0 848.0
+storage-tank 427.0 834.0 433.0 841.0 difficult
+storage-tank 319.0 1302.0 327.0 1311.0 difficult
+storage-tank 54.0 1198.0 63.0 1207.0 difficult
+storage-tank 82.0 1215.0 96.0 1228.0 difficult
+storage-tank 101.0 1227.0 114.0 1239.0 difficult
+storage-tank 200.0 1207.0 208.0 1216.0 difficult
+storage-tank 190.0 1223.0 199.0 1233.0 difficult
+storage-tank 211.0 1215.0 219.0 1223.0 difficult
+storage-tank 201.0 1232.0 210.0 1240.0 difficult
+storage-tank 212.0 1237.0 221.0 1247.0 difficult
+storage-tank 221.0 1220.0 231.0 1230.0 difficult
+storage-tank 234.0 1227.0 246.0 1240.0 difficult
+storage-tank 225.0 1244.0 237.0 1257.0 difficult
+storage-tank 250.0 1237.0 263.0 1251.0 difficult
+storage-tank 241.0 1253.0 254.0 1267.0 difficult
+storage-tank 267.0 1247.0 280.0 1261.0 difficult
+storage-tank 257.0 1264.0 270.0 1277.0 difficult
+storage-tank 284.0 1257.0 296.0 1270.0 difficult
+storage-tank 274.0 1274.0 286.0 1286.0 difficult
+storage-tank 301.0 1268.0 313.0 1280.0 difficult
+storage-tank 290.0 1284.0 303.0 1297.0 difficult
+storage-tank 317.0 1278.0 326.0 1288.0 difficult
+storage-tank 308.0 1295.0 316.0 1305.0 difficult
+storage-tank 328.0 1286.0 337.0 1295.0 difficult
+storage-tank 67.0 1206.0 80.0 1218.0 difficult
+storage-tank 43.0 1191.0 52.0 1202.0 difficult
+storage-tank 441.0 849.0 449.0 858.0 difficult
+storage-tank 33.0 1185.0 42.0 1195.0 difficult
+storage-tank 513.0 948.0 529.0 966.0
+storage-tank 531.0 960.0 548.0 977.0
+storage-tank 501.0 971.0 516.0 986.0
+storage-tank 491.0 987.0 507.0 1002.0
+storage-tank 519.0 983.0 535.0 998.0
+storage-tank 511.0 1000.0 525.0 1014.0 difficult
+storage-tank 501.0 1014.0 513.0 1026.0 difficult
+storage-tank 488.0 1022.0 497.0 1031.0 difficult
+storage-tank 377.0 967.0 387.0 978.0 difficult
+storage-tank 370.0 987.0 381.0 998.0 difficult
+storage-tank 97.0 1078.0 107.0 1089.0 difficult
+storage-tank 90.0 1089.0 101.0 1101.0 difficult
+storage-tank 101.0 1095.0 111.0 1107.0 difficult
+storage-tank 31.0 1164.0 40.0 1172.0 difficult
+storage-tank 43.0 1170.0 52.0 1178.0 difficult
+storage-tank 54.0 1177.0 62.0 1185.0 difficult
+storage-tank 64.0 1182.0 74.0 1191.0 difficult
+storage-tank 77.0 1189.0 90.0 1202.0 difficult
+storage-tank 93.0 1199.0 106.0 1211.0 difficult
+storage-tank 111.0 1210.0 123.0 1222.0 difficult
+storage-tank 21.0 1179.0 31.0 1188.0 difficult
+storage-tank 534.0 1601.0 541.0 1608.0 difficult
+storage-tank 541.0 1591.0 548.0 1597.0 difficult
+storage-tank 2660.0 2585.0 2666.0 2592.0 difficult
+storage-tank 2601.0 2195.0 2622.0 2219.0
+storage-tank 2583.0 2225.0 2605.0 2247.0
+storage-tank 2631.0 2216.0 2654.0 2240.0
+storage-tank 2615.0 2245.0 2636.0 2268.0
+storage-tank 2574.0 2571.0 2586.0 2584.0 difficult
+storage-tank 2596.0 2548.0 2606.0 2558.0 difficult
+storage-tank 2607.0 2555.0 2618.0 2566.0 difficult
+storage-tank 2631.0 2567.0 2641.0 2579.0 difficult
+storage-tank 2641.0 2574.0 2650.0 2585.0 difficult
+storage-tank 2651.0 2579.0 2659.0 2587.0 difficult
+storage-tank 2665.0 2590.0 2672.0 2597.0 difficult
+storage-tank 549.0 1596.0 556.0 1602.0 difficult
+storage-tank 2549.0 2466.0 2560.0 2477.0 difficult
+storage-tank 2707.0 2401.0 2751.0 2446.0
+storage-tank 2736.0 2355.0 2781.0 2398.0
+ship 2659.0 981.0 2723.0 1028.0
+harbor 2440.0 894.0 2737.0 1081.0
+storage-tank 2755.0 2434.0 2797.0 2478.0
+storage-tank 2785.0 2386.0 2828.0 2429.0
+storage-tank 2829.0 2345.0 2851.0 2367.0
+storage-tank 2781.0 2315.0 2803.0 2337.0
+storage-tank 2975.0 1949.0 3005.0 1979.0
+storage-tank 2474.0 2234.0 2488.0 2247.0 difficult
+storage-tank 2457.0 2223.0 2470.0 2236.0 difficult
+storage-tank 2697.0 1863.0 2729.0 1898.0
+storage-tank 2659.0 1841.0 2693.0 1875.0
+storage-tank 2260.0 1652.0 2291.0 1686.0
+storage-tank 2236.0 1692.0 2266.0 1724.0
+storage-tank 2267.0 1552.0 2309.0 1594.0
+storage-tank 2296.0 1505.0 2337.0 1547.0
+storage-tank 2345.0 1534.0 2384.0 1576.0
+storage-tank 2314.0 1582.0 2354.0 1623.0
+storage-tank 2296.0 1676.0 2326.0 1708.0
+storage-tank 2271.0 1715.0 2301.0 1746.0
+storage-tank 2309.0 1737.0 2340.0 1770.0
+storage-tank 2346.0 1761.0 2376.0 1794.0
+storage-tank 2333.0 1700.0 2363.0 1731.0
+storage-tank 2369.0 1722.0 2400.0 1755.0
+storage-tank 2267.0 1362.0 2328.0 1422.0
+storage-tank 2336.0 1407.0 2396.0 1465.0
+storage-tank 2361.0 1612.0 2402.0 1652.0
+storage-tank 2391.0 1564.0 2432.0 1606.0
+storage-tank 2406.0 1450.0 2466.0 1511.0
+storage-tank 2475.0 1495.0 2535.0 1554.0
+storage-tank 2440.0 1596.0 2480.0 1636.0
+storage-tank 2409.0 1643.0 2449.0 1683.0
+storage-tank 2621.0 1819.0 2657.0 1853.0
+storage-tank 2995.0 1916.0 3024.0 1946.0
+storage-tank 3008.0 1970.0 3039.0 2000.0
+storage-tank 3028.0 1936.0 3058.0 1967.0
+storage-tank 3236.0 2036.0 3273.0 2073.0
+storage-tank 3262.0 1992.0 3300.0 2031.0
+storage-tank 3304.0 2020.0 3341.0 2059.0
+storage-tank 3289.0 1951.0 3328.0 1989.0
+storage-tank 3331.0 1978.0 3368.0 2016.0
+storage-tank 3316.0 1910.0 3354.0 1947.0
+storage-tank 3358.0 1937.0 3396.0 1975.0
+ship 3689.0 1607.0 3771.0 1667.0
+ship 3585.0 1564.0 3665.0 1614.0
+ship 3672.0 1621.0 3766.0 1690.0
+ship 3575.0 1581.0 3656.0 1632.0
+ship 3801.0 1682.0 3943.0 1781.0
+ship 3220.0 1283.0 3317.0 1351.0
+ship 2983.0 1238.0 3080.0 1302.0
+ship 2846.0 1245.0 2880.0 1264.0
+harbor 2800.0 1091.0 3356.0 1422.0
+ship 3181.0 1343.0 3244.0 1382.0
+ship 3254.0 1382.0 3324.0 1427.0
+harbor 1345.0 396.0 1549.0 689.0
+harbor 1913.0 733.0 2089.0 1036.0
+harbor 2511.0 1065.0 2723.0 1416.0
+harbor 2604.0 1101.0 2813.0 1464.0
+storage-tank 3277.0 2064.0 3315.0 2100.0
+storage-tank 3252.0 2104.0 3288.0 2141.0
+storage-tank 3015.0 1884.0 3045.0 1914.0
+storage-tank 3209.0 2077.0 3246.0 2114.0
+storage-tank 3048.0 1905.0 3079.0 1935.0
+storage-tank 3036.0 1850.0 3066.0 1881.0
+storage-tank 3070.0 1872.0 3100.0 1902.0
+storage-tank 3056.0 1816.0 3088.0 1847.0
+storage-tank 3091.0 1839.0 3121.0 1870.0
+storage-tank 3079.0 1783.0 3108.0 1815.0
+storage-tank 3112.0 1806.0 3141.0 1836.0
+storage-tank 3064.0 2030.0 3103.0 2069.0
+storage-tank 3093.0 1985.0 3132.0 2025.0
+storage-tank 3120.0 1942.0 3158.0 1981.0
+storage-tank 3108.0 2059.0 3148.0 2097.0
+storage-tank 3137.0 2014.0 3176.0 2053.0
+storage-tank 3164.0 1971.0 3203.0 2010.0
+storage-tank 3147.0 1899.0 3186.0 1938.0
+storage-tank 3191.0 1926.0 3231.0 1966.0
+storage-tank 3175.0 1854.0 3215.0 1894.0
+storage-tank 3219.0 1883.0 3259.0 1922.0
+storage-tank 3090.0 2221.0 3125.0 2256.0
+storage-tank 3126.0 2163.0 3162.0 2201.0
+storage-tank 3184.0 2200.0 3218.0 2235.0
+storage-tank 3146.0 2255.0 3182.0 2292.0
+storage-tank 2222.0 1629.0 2254.0 1662.0
+storage-tank 2199.0 1668.0 2228.0 1701.0
+storage-tank 2287.0 1479.0 2300.0 1492.0 difficult
+storage-tank 629.0 1132.0 637.0 1141.0 difficult
+storage-tank 689.0 1127.0 708.0 1146.0
+storage-tank 747.0 1164.0 759.0 1176.0 difficult
+storage-tank 834.0 1182.0 876.0 1224.0
+storage-tank 875.0 1330.0 926.0 1383.0
+storage-tank 1051.0 1083.0 1097.0 1130.0
+storage-tank 1019.0 1136.0 1064.0 1182.0
+storage-tank 1105.0 1117.0 1150.0 1161.0
+storage-tank 1073.0 1170.0 1117.0 1214.0
+storage-tank 1159.0 1149.0 1196.0 1185.0
+storage-tank 1125.0 1201.0 1171.0 1246.0
+storage-tank 1196.0 1175.0 1229.0 1215.0
+storage-tank 1207.0 1261.0 1252.0 1307.0
+storage-tank 1244.0 1209.0 1284.0 1248.0
+storage-tank 1288.0 1237.0 1326.0 1276.0
+storage-tank 981.0 1395.0 1034.0 1449.0
+storage-tank 793.0 1618.0 802.0 1626.0 difficult
+storage-tank 788.0 1627.0 796.0 1636.0 difficult
+storage-tank 803.0 1624.0 810.0 1633.0 difficult
+storage-tank 797.0 1634.0 805.0 1641.0 difficult
+storage-tank 1006.0 1537.0 1013.0 1546.0 difficult
+storage-tank 1011.0 1528.0 1019.0 1536.0 difficult
+storage-tank 801.0 1065.0 824.0 1089.0
+storage-tank 620.0 1127.0 629.0 1136.0 difficult
+storage-tank 1020.0 1532.0 1027.0 1541.0 difficult
+storage-tank 611.0 1121.0 620.0 1131.0 difficult
+storage-tank 551.0 1611.0 557.0 1617.0 difficult
+storage-tank 558.0 1615.0 565.0 1622.0 difficult
+storage-tank 573.0 1619.0 583.0 1629.0 difficult
+storage-tank 584.0 1624.0 596.0 1635.0 difficult
+storage-tank 585.0 1611.0 593.0 1620.0 difficult
+storage-tank 596.0 1606.0 608.0 1617.0 difficult
+storage-tank 610.0 1614.0 621.0 1626.0 difficult
+storage-tank 597.0 1625.0 604.0 1633.0 difficult
+storage-tank 619.0 1636.0 626.0 1643.0 difficult
+storage-tank 613.0 1643.0 620.0 1651.0 difficult
+storage-tank 623.0 1628.0 630.0 1635.0 difficult
+storage-tank 601.0 844.0 619.0 861.0
+storage-tank 612.0 766.0 648.0 801.0
+storage-tank 717.0 844.0 746.0 874.0
+storage-tank 690.0 888.0 721.0 918.0
+storage-tank 760.0 869.0 789.0 900.0
+storage-tank 732.0 911.0 763.0 943.0
+storage-tank 800.0 897.0 827.0 921.0
+storage-tank 774.0 938.0 801.0 966.0
+storage-tank 583.0 1115.0 606.0 1136.0
+storage-tank 602.0 1081.0 610.0 1090.0 difficult
+storage-tank 1015.0 1542.0 1022.0 1550.0 difficult
+storage-tank 1029.0 1538.0 1037.0 1547.0 difficult
+storage-tank 2274.0 1502.0 2286.0 1515.0 difficult
+storage-tank 1381.0 1486.0 1394.0 1499.0 difficult
+storage-tank 1381.0 1530.0 1400.0 1549.0
+storage-tank 1456.0 1398.0 1472.0 1414.0
+storage-tank 1399.0 1498.0 1418.0 1519.0
+storage-tank 1437.0 2091.0 1449.0 2103.0 difficult
+storage-tank 1455.0 2102.0 1466.0 2115.0 difficult
+storage-tank 1430.0 2104.0 1442.0 2116.0 difficult
+storage-tank 1446.0 2114.0 1457.0 2127.0 difficult
+storage-tank 1423.0 2118.0 1434.0 2130.0 difficult
+storage-tank 1438.0 2127.0 1451.0 2141.0 difficult
+storage-tank 1387.0 780.0 1409.0 803.0
+storage-tank 1409.0 794.0 1432.0 817.0
+storage-tank 1486.0 832.0 1501.0 848.0
+storage-tank 1504.0 842.0 1520.0 861.0
+ship 1439.0 261.0 1572.0 364.0
+harbor 1398.0 273.0 1570.0 407.0
+harbor 1738.0 518.0 2087.0 736.0
+storage-tank 2176.0 1666.0 2188.0 1679.0 difficult
+storage-tank 2186.0 1649.0 2199.0 1661.0 difficult
+storage-tank 2212.0 1609.0 2225.0 1622.0 difficult
+storage-tank 2243.0 1550.0 2255.0 1563.0 difficult
+storage-tank 2256.0 1527.0 2269.0 1540.0 difficult
+storage-tank 1346.0 1510.0 1366.0 1533.0
+storage-tank 1345.0 1470.0 1367.0 1491.0
+storage-tank 1024.0 1548.0 1031.0 1556.0 difficult
+storage-tank 1307.0 1486.0 1336.0 1515.0
+storage-tank 1038.0 1544.0 1045.0 1552.0 difficult
+storage-tank 1032.0 1553.0 1037.0 1560.0 difficult
+storage-tank 1046.0 1548.0 1052.0 1556.0 difficult
+storage-tank 1054.0 1553.0 1061.0 1561.0 difficult
+storage-tank 1064.0 1560.0 1070.0 1566.0 difficult
+storage-tank 1040.0 1558.0 1047.0 1565.0 difficult
+storage-tank 1050.0 1563.0 1055.0 1569.0 difficult
+storage-tank 1058.0 1567.0 1065.0 1574.0 difficult
+storage-tank 1258.0 1291.0 1308.0 1337.0
+storage-tank 1333.0 1272.0 1355.0 1295.0
+storage-tank 1325.0 1327.0 1359.0 1362.0
+storage-tank 1363.0 1290.0 1386.0 1313.0
+storage-tank 1420.0 1313.0 1448.0 1343.0
+storage-tank 1463.0 1342.0 1513.0 1391.0
+storage-tank 1396.0 1361.0 1418.0 1383.0
+storage-tank 1382.0 1386.0 1402.0 1406.0
+storage-tank 1422.0 1411.0 1433.0 1423.0 difficult
+storage-tank 1433.0 1418.0 1446.0 1431.0 difficult
+storage-tank 1452.0 1431.0 1466.0 1446.0
+storage-tank 1291.0 1431.0 1314.0 1454.0
+storage-tank 1318.0 1448.0 1339.0 1470.0
+storage-tank 4.0 454.0 32.0 485.0

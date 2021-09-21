@@ -1,0 +1,10 @@
+bridge 1041.0 1887.0 1086.0 1947.0
+roundabout 2566.0 487.0 2581.0 499.0
+roundabout 2427.0 383.0 2444.0 398.0
+bridge 2391.0 821.0 2432.0 885.0
+soccer-ball-field 1919.0 1382.0 2007.0 1495.0 difficult
+soccer-ball-field 1995.0 1386.0 2077.0 1497.0 difficult
+soccer-ball-field 2076.0 1386.0 2163.0 1502.0 difficult
+soccer-ball-field 2053.0 1302.0 2174.0 1395.0
+bridge 1180.0 1727.0 1266.0 1750.0
+bridge 179.0 1932.0 224.0 1996.0

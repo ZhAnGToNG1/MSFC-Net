@@ -1,0 +1,10 @@
+storage-tank 996.0 764.0 1013.0 783.0
+storage-tank 1080.0 712.0 1099.0 730.0
+storage-tank 524.0 758.0 542.0 775.0
+storage-tank 382.0 715.0 414.0 743.0
+storage-tank 1107.0 623.0 1147.0 664.0
+storage-tank 1133.0 487.0 1163.0 519.0
+storage-tank 845.0 389.0 877.0 419.0 difficult
+storage-tank 636.0 350.0 676.0 387.0
+storage-tank 591.0 412.0 628.0 446.0
+storage-tank 470.0 453.0 515.0 493.0

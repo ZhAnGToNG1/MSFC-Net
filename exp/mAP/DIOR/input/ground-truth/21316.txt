@@ -1,0 +1,10 @@
+Expressway-toll-station 633.0 490.0 645.0 502.0
+Expressway-toll-station 691.0 504.0 710.0 517.0
+Expressway-toll-station 647.0 671.0 660.0 684.0
+Expressway-toll-station 614.0 723.0 628.0 736.0
+overpass 641.0 559.0 712.0 599.0
+overpass 666.0 564.0 725.0 602.0
+storagetank 169.0 212.0 181.0 225.0
+storagetank 185.0 215.0 196.0 227.0
+storagetank 167.0 227.0 178.0 240.0
+storagetank 182.0 230.0 193.0 243.0

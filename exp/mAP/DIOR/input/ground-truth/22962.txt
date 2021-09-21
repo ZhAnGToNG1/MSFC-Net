@@ -1,0 +1,7 @@
+stadium 341.0 224.0 515.0 448.0
+tenniscourt 294.0 705.0 320.0 746.0
+tenniscourt 320.0 709.0 339.0 743.0
+tenniscourt 347.0 707.0 365.0 748.0
+tenniscourt 363.0 710.0 392.0 748.0
+tenniscourt 398.0 710.0 422.0 746.0
+tenniscourt 427.0 709.0 446.0 749.0

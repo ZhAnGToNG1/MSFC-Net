@@ -1,0 +1,3 @@
+trainstation 326.0 131.0 410.0 715.0
+basketballcourt 692.0 317.0 728.0 350.0
+basketballcourt 708.0 344.0 741.0 378.0

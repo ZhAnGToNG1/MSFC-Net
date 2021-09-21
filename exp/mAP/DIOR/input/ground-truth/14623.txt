@@ -1,0 +1,6 @@
+tenniscourt 347.0 524.0 402.0 642.0
+tenniscourt 345.0 522.0 400.0 640.0
+tenniscourt 543.0 327.0 598.0 445.0
+tenniscourt 454.0 324.0 510.0 443.0
+tenniscourt 436.0 526.0 491.0 644.0
+basketballcourt 448.0 134.0 524.0 259.0

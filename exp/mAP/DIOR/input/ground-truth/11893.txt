@@ -1,0 +1,4 @@
+baseballfield 1.0 475.0 32.0 502.0
+baseballfield 723.0 502.0 761.0 533.0
+storagetank 495.0 87.0 518.0 105.0
+bridge 240.0 605.0 252.0 629.0

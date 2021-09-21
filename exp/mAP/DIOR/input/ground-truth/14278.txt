@@ -1,0 +1,16 @@
+ship 75.0 466.0 90.0 528.0
+harbor 88.0 354.0 138.0 428.0
+harbor 123.0 205.0 143.0 240.0
+harbor 32.0 586.0 130.0 681.0
+storagetank 216.0 176.0 239.0 201.0
+storagetank 244.0 195.0 270.0 221.0
+storagetank 273.0 209.0 302.0 235.0
+storagetank 307.0 227.0 334.0 253.0
+storagetank 329.0 197.0 349.0 217.0
+storagetank 300.0 503.0 316.0 521.0
+storagetank 193.0 686.0 222.0 713.0
+storagetank 154.0 696.0 181.0 723.0
+storagetank 140.0 700.0 149.0 709.0
+storagetank 282.0 511.0 288.0 518.0
+storagetank 276.0 513.0 281.0 519.0
+storagetank 268.0 514.0 273.0 521.0

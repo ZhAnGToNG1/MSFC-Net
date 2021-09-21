@@ -1,0 +1,61 @@
+small-vehicle 19.0 1398.0 37.0 1420.0 difficult
+small-vehicle 476.0 1193.0 497.0 1206.0 difficult
+small-vehicle 661.0 1435.0 671.0 1453.0
+small-vehicle 345.0 1415.0 363.0 1430.0
+small-vehicle 348.0 1425.0 369.0 1442.0
+small-vehicle 352.0 1438.0 373.0 1454.0
+small-vehicle 357.0 1451.0 377.0 1464.0
+small-vehicle 397.0 978.0 415.0 1000.0
+small-vehicle 373.0 1051.0 393.0 1077.0
+small-vehicle 327.0 1029.0 349.0 1052.0
+small-vehicle 292.0 1117.0 312.0 1140.0
+small-vehicle 338.0 1404.0 362.0 1424.0
+small-vehicle 99.0 1274.0 117.0 1296.0
+small-vehicle 66.0 1169.0 86.0 1194.0
+small-vehicle 124.0 1350.0 141.0 1374.0
+small-vehicle 165.0 1348.0 182.0 1370.0
+small-vehicle 137.0 1352.0 157.0 1375.0
+small-vehicle 96.0 1231.0 114.0 1255.0
+small-vehicle 95.0 1331.0 118.0 1360.0
+small-vehicle 45.0 1233.0 61.0 1254.0
+small-vehicle 215.0 1331.0 236.0 1359.0
+swimming-pool 1447.0 1260.0 1500.0 1298.0
+ground-track-field 1242.0 774.0 1292.0 892.0
+soccer-ball-field 1184.0 888.0 1316.0 1078.0
+soccer-ball-field 646.0 810.0 1152.0 1164.0
+soccer-ball-field 1332.0 417.0 1710.0 956.0
+soccer-ball-field 1013.0 430.0 1296.0 798.0
+soccer-ball-field 512.0 449.0 1029.0 806.0
+soccer-ball-field 512.0 75.0 1015.0 408.0
+small-vehicle 355.0 1066.0 378.0 1091.0 difficult
+small-vehicle 51.0 1167.0 70.0 1192.0 difficult
+small-vehicle 1286.0 433.0 1297.0 460.0
+small-vehicle 94.0 1213.0 111.0 1237.0 difficult
+small-vehicle 1031.0 1297.0 1049.0 1322.0
+small-vehicle 777.0 1424.0 787.0 1447.0 difficult
+small-vehicle 721.0 1428.0 734.0 1453.0 difficult
+small-vehicle 31.0 1391.0 50.0 1415.0 difficult
+small-vehicle 99.0 1394.0 117.0 1416.0 difficult
+small-vehicle 59.0 1390.0 79.0 1411.0 difficult
+small-vehicle 255.0 1393.0 273.0 1413.0 difficult
+small-vehicle 244.0 1407.0 264.0 1432.0 difficult
+small-vehicle 166.0 1395.0 183.0 1417.0 difficult
+small-vehicle 43.0 1352.0 64.0 1374.0 difficult
+small-vehicle 28.0 1351.0 47.0 1374.0 difficult
+small-vehicle 83.0 1330.0 103.0 1354.0 difficult
+small-vehicle 70.0 1333.0 88.0 1358.0 difficult
+small-vehicle 57.0 1292.0 76.0 1313.0
+small-vehicle 686.0 1272.0 698.0 1297.0
+small-vehicle 760.0 1427.0 769.0 1449.0
+small-vehicle 114.0 1410.0 132.0 1432.0
+small-vehicle 25.0 1335.0 48.0 1357.0
+small-vehicle 57.0 1332.0 78.0 1356.0
+small-vehicle 70.0 1293.0 88.0 1314.0
+small-vehicle 111.0 1351.0 128.0 1371.0 difficult
+small-vehicle 110.0 1293.0 129.0 1310.0 difficult
+small-vehicle 85.0 1291.0 101.0 1311.0 difficult
+small-vehicle 32.0 1294.0 51.0 1314.0 difficult
+small-vehicle 44.0 1273.0 62.0 1295.0 difficult
+small-vehicle 83.0 1233.0 99.0 1253.0 difficult
+small-vehicle 133.0 1228.0 154.0 1253.0 difficult
+ground-track-field 8.0 98.0 478.0 891.0

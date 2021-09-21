@@ -1,0 +1,2 @@
+trainstation 149.0 60.0 288.0 345.0
+trainstation 359.0 565.0 460.0 712.0

@@ -1,0 +1,12 @@
+small-vehicle 58.0 1.0 85.0 29.0 difficult
+small-vehicle 29.0 879.0 73.0 919.0
+tennis-court 613.0 431.0 695.0 603.0
+tennis-court 743.0 431.0 825.0 602.0
+tennis-court 745.0 691.0 826.0 862.0
+tennis-court 615.0 692.0 695.0 863.0
+tennis-court 436.0 563.0 519.0 733.0
+tennis-court 307.0 562.0 389.0 736.0
+tennis-court 177.0 565.0 259.0 735.0
+tennis-court 436.0 303.0 518.0 473.0
+tennis-court 307.0 304.0 386.0 475.0
+tennis-court 175.0 304.0 257.0 476.0

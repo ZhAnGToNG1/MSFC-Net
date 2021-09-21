@@ -1,0 +1,7 @@
+Expressway-Service-area 78.0 163.0 172.0 235.0
+overpass 506.0 555.0 597.0 686.0
+Expressway-Service-area 100.0 110.0 196.0 187.0
+Expressway-toll-station 693.0 509.0 705.0 526.0
+dam 260.0 344.0 284.0 384.0
+dam 255.0 422.0 281.0 468.0
+dam 115.0 624.0 155.0 661.0

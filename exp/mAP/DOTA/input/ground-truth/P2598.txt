@@ -1,0 +1,50 @@
+small-vehicle 426.0 1405.0 461.0 1423.0
+small-vehicle 1444.0 106.0 1482.0 123.0
+large-vehicle 115.0 1226.0 168.0 1248.0
+small-vehicle 2034.0 42.0 2076.0 58.0
+small-vehicle 1452.0 1.0 1470.0 40.0
+small-vehicle 1520.0 0.0 1540.0 42.0
+small-vehicle 1429.0 1.0 1446.0 33.0
+small-vehicle 1897.0 97.0 1946.0 118.0
+small-vehicle 1841.0 98.0 1881.0 117.0
+large-vehicle 1865.0 43.0 1933.0 65.0
+small-vehicle 1508.0 103.0 1551.0 126.0
+small-vehicle 1557.0 104.0 1597.0 123.0
+small-vehicle 1396.0 102.0 1438.0 123.0
+small-vehicle 430.0 1381.0 464.0 1399.0
+small-vehicle 1341.0 105.0 1381.0 125.0
+small-vehicle 1139.0 105.0 1175.0 125.0
+small-vehicle 1090.0 107.0 1124.0 122.0
+small-vehicle 1044.0 105.0 1080.0 125.0
+tennis-court 468.0 1678.0 689.0 1792.0
+tennis-court 675.0 1375.0 790.0 1597.0
+tennis-court 523.0 1366.0 637.0 1588.0
+tennis-court 248.0 1526.0 364.0 1746.0
+ground-track-field 1289.0 255.0 2129.0 1798.0
+soccer-ball-field 1354.0 526.0 2041.0 1493.0
+large-vehicle 289.0 1315.0 315.0 1374.0
+small-vehicle 327.0 1328.0 345.0 1369.0
+small-vehicle 146.0 1640.0 186.0 1668.0
+small-vehicle 742.0 1957.0 781.0 1979.0
+small-vehicle 98.0 1674.0 127.0 1722.0
+small-vehicle 354.0 1332.0 384.0 1381.0
+small-vehicle 2303.0 408.0 2347.0 428.0 difficult
+small-vehicle 1936.0 42.0 1964.0 59.0
+small-vehicle 1650.0 44.0 1684.0 59.0
+small-vehicle 1330.0 45.0 1369.0 62.0
+small-vehicle 1191.0 8.0 1208.0 47.0
+small-vehicle 751.0 1130.0 797.0 1155.0
+small-vehicle 667.0 1934.0 705.0 1966.0 difficult
+small-vehicle 355.0 1427.0 375.0 1465.0 difficult
+small-vehicle 333.0 1421.0 350.0 1460.0 difficult
+small-vehicle 308.0 1423.0 323.0 1461.0 difficult
+small-vehicle 260.0 1417.0 274.0 1453.0 difficult
+small-vehicle 2191.0 1926.0 2234.0 1950.0
+small-vehicle 2193.0 1749.0 2234.0 1769.0
+small-vehicle 2198.0 1639.0 2227.0 1683.0
+small-vehicle 2263.0 28.0 2306.0 51.0
+small-vehicle 2182.0 4.0 2225.0 36.0
+small-vehicle 1715.0 101.0 1756.0 124.0
+small-vehicle 1166.0 2001.0 1204.0 2020.0
+small-vehicle 1180.0 1941.0 1213.0 1961.0
+soccer-ball-field 582.0 337.0 1265.0 843.0

@@ -1,0 +1,17 @@
+storagetank 284.0 643.0 298.0 658.0
+storagetank 308.0 658.0 321.0 672.0
+storagetank 289.0 662.0 303.0 676.0
+storagetank 292.0 684.0 307.0 699.0
+storagetank 312.0 680.0 325.0 693.0
+chimney 139.0 248.0 161.0 268.0
+overpass 518.0 200.0 564.0 212.0
+storagetank 536.0 560.0 547.0 571.0
+storagetank 528.0 571.0 541.0 584.0
+storagetank 540.0 576.0 551.0 588.0
+storagetank 559.0 555.0 564.0 561.0
+storagetank 565.0 554.0 573.0 561.0
+storagetank 562.0 571.0 569.0 578.0
+storagetank 571.0 569.0 576.0 574.0
+storagetank 565.0 579.0 571.0 585.0
+storagetank 573.0 578.0 579.0 584.0
+Expressway-toll-station 755.0 11.0 770.0 35.0

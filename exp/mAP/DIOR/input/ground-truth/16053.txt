@@ -1,0 +1,6 @@
+overpass 642.0 473.0 708.0 516.0
+baseballfield 545.0 111.0 575.0 133.0
+baseballfield 532.0 147.0 561.0 168.0
+baseballfield 562.0 134.0 591.0 154.0
+baseballfield 535.0 200.0 557.0 220.0
+baseballfield 564.0 183.0 581.0 197.0

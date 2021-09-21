@@ -1,0 +1,12 @@
+airport 398.0 295.0 697.0 709.0
+storagetank 761.0 759.0 771.0 769.0
+storagetank 766.0 744.0 777.0 755.0
+storagetank 778.0 729.0 786.0 738.0
+storagetank 790.0 707.0 797.0 713.0
+storagetank 769.0 715.0 778.0 724.0
+storagetank 792.0 687.0 799.0 693.0
+storagetank 759.0 738.0 765.0 744.0
+storagetank 756.0 747.0 762.0 753.0
+bridge 137.0 532.0 150.0 636.0
+airport 590.0 52.0 702.0 250.0
+golffield 189.0 245.0 330.0 431.0

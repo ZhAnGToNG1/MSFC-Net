@@ -1,0 +1,4 @@
+stadium 414.0 372.0 584.0 574.0
+groundtrackfield 451.0 392.0 544.0 549.0
+trainstation 89.0 111.0 460.0 204.0
+overpass 300.0 654.0 337.0 697.0

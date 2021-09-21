@@ -1,0 +1,11 @@
+groundtrackfield 170.0 77.0 498.0 707.0
+vehicle 41.0 231.0 61.0 241.0
+vehicle 34.0 629.0 47.0 655.0
+basketballcourt 537.0 419.0 589.0 515.0
+basketballcourt 583.0 424.0 635.0 520.0
+basketballcourt 630.0 432.0 685.0 528.0
+basketballcourt 523.0 508.0 575.0 604.0
+basketballcourt 476.0 642.0 533.0 736.0
+basketballcourt 623.0 663.0 680.0 757.0
+basketballcourt 576.0 657.0 633.0 751.0
+basketballcourt 527.0 650.0 584.0 744.0

@@ -1,0 +1,14 @@
+storagetank 36.0 293.0 114.0 367.0
+storagetank 144.0 373.0 226.0 447.0
+storagetank 275.0 324.0 353.0 391.0
+storagetank 388.0 378.0 466.0 445.0
+storagetank 678.0 339.0 752.0 406.0
+storagetank 590.0 339.0 632.0 372.0
+storagetank 515.0 410.0 558.0 445.0
+storagetank 589.0 411.0 631.0 446.0
+storagetank 226.0 558.0 325.0 649.0
+vehicle 345.0 676.0 361.0 684.0
+storagetank 350.0 590.0 417.0 648.0
+storagetank 436.0 555.0 539.0 648.0
+storagetank 559.0 554.0 661.0 648.0
+storagetank 683.0 555.0 782.0 647.0

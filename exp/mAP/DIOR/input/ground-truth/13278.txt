@@ -1,0 +1,9 @@
+basketballcourt 96.0 393.0 246.0 486.0
+basketballcourt 249.0 383.0 399.0 476.0
+basketballcourt 403.0 377.0 553.0 470.0
+basketballcourt 575.0 368.0 725.0 461.0
+basketballcourt 98.0 482.0 248.0 575.0
+basketballcourt 253.0 476.0 403.0 569.0
+basketballcourt 407.0 467.0 557.0 560.0
+basketballcourt 579.0 459.0 729.0 552.0
+groundtrackfield 9.0 21.0 799.0 311.0

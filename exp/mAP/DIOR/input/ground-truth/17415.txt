@@ -1,0 +1,9 @@
+tenniscourt 461.0 314.0 523.0 454.0
+tenniscourt 278.0 508.0 340.0 648.0
+tenniscourt 365.0 507.0 427.0 647.0
+tenniscourt 466.0 503.0 528.0 643.0
+tenniscourt 552.0 502.0 614.0 642.0
+tenniscourt 548.0 313.0 610.0 453.0
+tenniscourt 275.0 318.0 337.0 458.0
+tenniscourt 363.0 317.0 425.0 457.0
+vehicle 438.0 68.0 491.0 87.0

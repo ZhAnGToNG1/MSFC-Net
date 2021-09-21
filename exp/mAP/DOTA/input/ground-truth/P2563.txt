@@ -1,0 +1,10 @@
+small-vehicle 1044.0 387.0 1068.0 403.0 difficult
+tennis-court 1196.0 178.0 1273.0 300.0
+tennis-court 1115.0 199.0 1190.0 320.0
+tennis-court 1030.0 217.0 1111.0 343.0
+basketball-court 1275.0 413.0 1345.0 526.0
+basketball-court 1206.0 425.0 1288.0 541.0
+soccer-ball-field 1298.0 57.0 1843.0 476.0
+basketball-court 1138.0 436.0 1227.0 555.0
+soccer-ball-field 277.0 371.0 840.0 820.0
+ground-track-field 123.0 302.0 999.0 903.0

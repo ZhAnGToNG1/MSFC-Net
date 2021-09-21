@@ -1,0 +1,4 @@
+chimney 82.0 263.0 119.0 294.0
+overpass 458.0 494.0 570.0 516.0
+Expressway-toll-station 675.0 580.0 694.0 593.0
+overpass 706.0 662.0 734.0 744.0

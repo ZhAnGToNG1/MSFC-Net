@@ -1,0 +1,11 @@
+Expressway-toll-station 671.0 83.0 704.0 92.0
+storagetank 177.0 176.0 191.0 186.0
+storagetank 171.0 187.0 185.0 198.0
+storagetank 187.0 185.0 202.0 197.0
+storagetank 214.0 176.0 224.0 186.0
+storagetank 222.0 182.0 231.0 191.0
+storagetank 231.0 183.0 243.0 195.0
+storagetank 241.0 190.0 253.0 200.0
+storagetank 211.0 185.0 221.0 195.0
+storagetank 226.0 195.0 238.0 205.0
+storagetank 236.0 198.0 248.0 209.0

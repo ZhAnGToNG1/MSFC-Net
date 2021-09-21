@@ -1,0 +1,4 @@
+airport 41.0 274.0 784.0 303.0
+groundtrackfield 1.0 53.0 41.0 83.0
+groundtrackfield 189.0 655.0 234.0 708.0
+groundtrackfield 447.0 773.0 478.0 800.0

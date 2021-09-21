@@ -1,0 +1,1655 @@
+large-vehicle 13225.0 3861.0 13267.0 3909.0
+small-vehicle 401.0 4130.0 415.0 4157.0
+small-vehicle 768.0 3107.0 779.0 3132.0 difficult
+small-vehicle 972.0 2992.0 986.0 3016.0 difficult
+small-vehicle 937.0 3033.0 950.0 3059.0 difficult
+small-vehicle 1030.0 3032.0 1055.0 3046.0 difficult
+small-vehicle 1062.0 2996.0 1073.0 3020.0 difficult
+small-vehicle 1048.0 2989.0 1061.0 3018.0 difficult
+small-vehicle 1009.0 2990.0 1022.0 3015.0 difficult
+small-vehicle 1147.0 2977.0 1168.0 3002.0 difficult
+small-vehicle 1164.0 2976.0 1186.0 2999.0 difficult
+small-vehicle 1180.0 2974.0 1205.0 2999.0 difficult
+small-vehicle 1197.0 2976.0 1219.0 3002.0 difficult
+small-vehicle 1214.0 2978.0 1238.0 3002.0 difficult
+small-vehicle 1135.0 3112.0 1149.0 3135.0 difficult
+small-vehicle 548.0 3893.0 562.0 3916.0
+small-vehicle 567.0 3889.0 578.0 3911.0
+small-vehicle 568.0 3959.0 581.0 3983.0
+small-vehicle 348.0 3919.0 388.0 3931.0
+small-vehicle 351.0 3937.0 388.0 3949.0
+small-vehicle 363.0 3952.0 400.0 3966.0
+small-vehicle 290.0 3941.0 302.0 3966.0
+small-vehicle 638.0 4083.0 662.0 4095.0
+small-vehicle 647.0 4096.0 668.0 4106.0
+small-vehicle 832.0 4140.0 846.0 4176.0
+small-vehicle 782.0 3107.0 793.0 3132.0 difficult
+small-vehicle 793.0 3110.0 807.0 3138.0 difficult
+small-vehicle 803.0 3032.0 815.0 3058.0 difficult
+small-vehicle 192.0 2660.0 206.0 2688.0 difficult
+small-vehicle 241.0 2448.0 255.0 2476.0 difficult
+small-vehicle 149.0 2568.0 162.0 2593.0 difficult
+small-vehicle 82.0 2592.0 106.0 2604.0 difficult
+small-vehicle 82.0 2606.0 106.0 2618.0 difficult
+small-vehicle 78.0 2695.0 110.0 2707.0 difficult
+small-vehicle 78.0 2710.0 108.0 2724.0 difficult
+small-vehicle 79.0 2722.0 109.0 2736.0 difficult
+small-vehicle 81.0 2736.0 110.0 2750.0 difficult
+small-vehicle 83.0 2748.0 110.0 2763.0 difficult
+small-vehicle 194.0 2628.0 208.0 2654.0 difficult
+small-vehicle 216.0 2637.0 228.0 2665.0 difficult
+small-vehicle 762.0 3027.0 777.0 3060.0 difficult
+small-vehicle 208.0 2699.0 225.0 2730.0 difficult
+small-vehicle 151.0 2540.0 163.0 2562.0
+small-vehicle 514.0 2988.0 528.0 3012.0 difficult
+small-vehicle 540.0 2984.0 554.0 3016.0 difficult
+small-vehicle 552.0 2984.0 568.0 3014.0 difficult
+small-vehicle 578.0 2982.0 607.0 3014.0 difficult
+small-vehicle 674.0 3027.0 688.0 3060.0 difficult
+small-vehicle 686.0 3025.0 700.0 3061.0 difficult
+small-vehicle 708.0 3024.0 724.0 3060.0 difficult
+small-vehicle 748.0 3026.0 762.0 3061.0 difficult
+small-vehicle 406.0 4098.0 417.0 4125.0
+small-vehicle 398.0 4162.0 417.0 4191.0
+small-vehicle 78.0 2555.0 104.0 2567.0 difficult
+small-vehicle 344.0 4119.0 368.0 4131.0
+small-vehicle 1395.0 1067.0 1407.0 1089.0 difficult
+small-vehicle 1346.0 999.0 1374.0 1012.0 difficult
+small-vehicle 1351.0 1067.0 1376.0 1078.0 difficult
+small-vehicle 1349.0 1080.0 1372.0 1093.0 difficult
+small-vehicle 1348.0 1097.0 1372.0 1108.0 difficult
+small-vehicle 1351.0 1237.0 1376.0 1250.0 difficult
+small-vehicle 1350.0 1263.0 1376.0 1275.0 difficult
+small-vehicle 1640.0 1400.0 1674.0 1427.0 difficult
+small-vehicle 2754.0 1771.0 2796.0 1799.0 difficult
+small-vehicle 2860.0 1668.0 2877.0 1702.0
+small-vehicle 2880.0 1641.0 2909.0 1664.0
+small-vehicle 2881.0 1248.0 2917.0 1273.0
+large-vehicle 2636.0 431.0 2687.0 462.0
+small-vehicle 3435.0 687.0 3463.0 700.0
+small-vehicle 3413.0 1215.0 3435.0 1226.0
+small-vehicle 3029.0 994.0 3053.0 1003.0
+small-vehicle 3030.0 979.0 3054.0 987.0
+small-vehicle 3035.0 963.0 3059.0 974.0
+small-vehicle 3602.0 1267.0 3638.0 1281.0
+small-vehicle 3329.0 1074.0 3343.0 1108.0 difficult
+small-vehicle 3351.0 1057.0 3362.0 1078.0 difficult
+small-vehicle 3027.0 1733.0 3052.0 1745.0 difficult
+small-vehicle 3029.0 1749.0 3052.0 1760.0 difficult
+large-vehicle 1194.0 419.0 1233.0 468.0
+small-vehicle 1344.0 731.0 1369.0 742.0
+small-vehicle 1347.0 715.0 1367.0 724.0
+small-vehicle 1308.0 4022.0 1333.0 4055.0
+small-vehicle 345.0 4134.0 375.0 4148.0
+small-vehicle 347.0 4172.0 371.0 4184.0
+small-vehicle 288.0 4225.0 300.0 4251.0
+small-vehicle 347.0 4196.0 370.0 4209.0
+small-vehicle 348.0 4212.0 371.0 4224.0
+small-vehicle 345.0 4236.0 372.0 4250.0
+small-vehicle 348.0 4264.0 372.0 4276.0
+small-vehicle 736.0 4241.0 748.0 4270.0
+small-vehicle 752.0 4242.0 766.0 4276.0
+small-vehicle 1281.0 4040.0 1303.0 4066.0
+small-vehicle 1134.0 3946.0 1146.0 3970.0
+small-vehicle 1482.0 607.0 1498.0 635.0
+small-vehicle 1319.0 3765.0 1335.0 3803.0
+small-vehicle 1309.0 3128.0 1325.0 3162.0
+small-vehicle 1293.0 3117.0 1309.0 3148.0
+small-vehicle 1552.0 3136.0 1564.0 3159.0
+small-vehicle 1562.0 3146.0 1578.0 3170.0
+small-vehicle 1344.0 2942.0 1371.0 2964.0
+small-vehicle 1345.0 2599.0 1368.0 2610.0
+small-vehicle 1347.0 2614.0 1373.0 2627.0
+small-vehicle 1328.0 357.0 1355.0 374.0
+small-vehicle 1360.0 563.0 1403.0 576.0
+small-vehicle 76.0 2565.0 104.0 2578.0 difficult
+small-vehicle 77.0 2540.0 104.0 2553.0 difficult
+small-vehicle 10307.0 3284.0 10331.0 3298.0
+small-vehicle 245.0 1996.0 257.0 2025.0 difficult
+small-vehicle 83.0 1773.0 111.0 1787.0 difficult
+small-vehicle 84.0 1837.0 108.0 1851.0 difficult
+small-vehicle 84.0 1853.0 108.0 1867.0 difficult
+small-vehicle 82.0 1867.0 108.0 1878.0 difficult
+small-vehicle 82.0 1881.0 108.0 1893.0 difficult
+small-vehicle 86.0 1893.0 109.0 1905.0 difficult
+small-vehicle 86.0 1907.0 110.0 1918.0 difficult
+small-vehicle 82.0 1919.0 108.0 1931.0 difficult
+small-vehicle 82.0 1933.0 111.0 1944.0 difficult
+small-vehicle 82.0 1945.0 110.0 1958.0 difficult
+small-vehicle 84.0 1958.0 111.0 1971.0 difficult
+small-vehicle 82.0 1971.0 114.0 1984.0 difficult
+small-vehicle 87.0 1984.0 114.0 1996.0 difficult
+small-vehicle 83.0 1997.0 113.0 2009.0 difficult
+small-vehicle 84.0 2012.0 110.0 2026.0 difficult
+small-vehicle 80.0 2033.0 110.0 2048.0 difficult
+small-vehicle 82.0 2048.0 108.0 2060.0 difficult
+small-vehicle 80.0 2060.0 108.0 2074.0 difficult
+small-vehicle 130.0 2035.0 142.0 2061.0 difficult
+small-vehicle 150.0 1993.0 166.0 2023.0 difficult
+small-vehicle 195.0 1924.0 210.0 1953.0 difficult
+small-vehicle 214.0 1921.0 228.0 1950.0 difficult
+small-vehicle 228.0 1927.0 241.0 1961.0 difficult
+small-vehicle 86.0 1761.0 110.0 1773.0 difficult
+small-vehicle 83.0 1747.0 109.0 1761.0 difficult
+small-vehicle 82.0 1734.0 106.0 1748.0 difficult
+small-vehicle 88.0 1520.0 116.0 1534.0 difficult
+small-vehicle 85.0 1350.0 111.0 1361.0 difficult
+small-vehicle 84.0 1363.0 110.0 1377.0 difficult
+small-vehicle 84.0 1378.0 108.0 1390.0 difficult
+small-vehicle 86.0 1390.0 110.0 1402.0 difficult
+small-vehicle 86.0 1403.0 111.0 1416.0 difficult
+small-vehicle 86.0 1416.0 111.0 1428.0 difficult
+small-vehicle 86.0 1430.0 111.0 1442.0 difficult
+small-vehicle 86.0 1444.0 109.0 1457.0 difficult
+small-vehicle 84.0 1482.0 105.0 1495.0 difficult
+small-vehicle 85.0 1496.0 106.0 1508.0 difficult
+small-vehicle 86.0 1535.0 112.0 1546.0 difficult
+small-vehicle 85.0 1711.0 112.0 1724.0 difficult
+small-vehicle 86.0 1546.0 114.0 1560.0 difficult
+small-vehicle 87.0 1579.0 118.0 1594.0 difficult
+small-vehicle 90.0 1603.0 120.0 1616.0 difficult
+small-vehicle 84.0 1618.0 116.0 1629.0 difficult
+small-vehicle 86.0 1631.0 114.0 1641.0 difficult
+small-vehicle 90.0 1644.0 111.0 1655.0 difficult
+small-vehicle 87.0 1657.0 111.0 1667.0 difficult
+small-vehicle 88.0 1669.0 116.0 1681.0 difficult
+small-vehicle 87.0 1682.0 114.0 1694.0 difficult
+small-vehicle 86.0 1696.0 113.0 1707.0 difficult
+small-vehicle 244.0 1968.0 256.0 1995.0 difficult
+small-vehicle 242.0 2029.0 256.0 2060.0 difficult
+small-vehicle 75.0 2527.0 104.0 2540.0 difficult
+small-vehicle 154.0 1621.0 168.0 1655.0 difficult
+small-vehicle 210.0 2268.0 223.0 2297.0
+small-vehicle 150.0 2266.0 163.0 2294.0
+small-vehicle 74.0 2180.0 87.0 2207.0
+small-vehicle 126.0 2232.0 141.0 2256.0
+small-vehicle 147.0 2235.0 161.0 2263.0
+small-vehicle 241.0 2295.0 254.0 2325.0
+small-vehicle 240.0 2324.0 254.0 2354.0
+small-vehicle 241.0 2355.0 255.0 2384.0
+small-vehicle 126.0 2418.0 138.0 2449.0
+small-vehicle 150.0 2450.0 160.0 2480.0
+small-vehicle 234.0 2420.0 247.0 2449.0
+small-vehicle 242.0 2482.0 259.0 2516.0
+small-vehicle 221.0 2519.0 236.0 2546.0
+small-vehicle 78.0 2397.0 106.0 2410.0 difficult
+small-vehicle 78.0 2411.0 106.0 2423.0 difficult
+small-vehicle 78.0 2422.0 106.0 2435.0 difficult
+small-vehicle 79.0 2436.0 103.0 2448.0 difficult
+small-vehicle 78.0 2450.0 104.0 2460.0 difficult
+small-vehicle 76.0 2461.0 105.0 2475.0 difficult
+small-vehicle 78.0 2475.0 108.0 2487.0 difficult
+small-vehicle 76.0 2487.0 105.0 2501.0 difficult
+small-vehicle 76.0 2500.0 105.0 2514.0 difficult
+small-vehicle 78.0 2514.0 104.0 2526.0 difficult
+small-vehicle 210.0 2146.0 226.0 2176.0
+small-vehicle 243.0 2094.0 259.0 2123.0
+small-vehicle 238.0 2060.0 249.0 2092.0 difficult
+small-vehicle 228.0 1406.0 239.0 1434.0
+small-vehicle 199.0 1629.0 212.0 1659.0 difficult
+small-vehicle 250.0 1065.0 262.0 1092.0
+small-vehicle 245.0 1108.0 260.0 1147.0
+small-vehicle 248.0 1145.0 262.0 1179.0
+small-vehicle 140.0 1200.0 152.0 1226.0
+small-vehicle 140.0 1287.0 152.0 1312.0
+small-vehicle 159.0 1311.0 172.0 1341.0
+small-vehicle 224.0 1272.0 242.0 1298.0
+small-vehicle 239.0 1338.0 261.0 1366.0
+small-vehicle 246.0 1390.0 258.0 1420.0
+small-vehicle 202.0 1398.0 216.0 1426.0
+small-vehicle 241.0 1920.0 256.0 1949.0
+small-vehicle 248.0 1461.0 262.0 1490.0 difficult
+small-vehicle 245.0 1498.0 259.0 1530.0 difficult
+small-vehicle 198.0 1484.0 214.0 1516.0 difficult
+small-vehicle 202.0 1536.0 214.0 1564.0
+small-vehicle 158.0 1472.0 170.0 1499.0
+small-vehicle 246.0 1725.0 259.0 1752.0
+small-vehicle 228.0 1734.0 242.0 1773.0
+small-vehicle 198.0 1753.0 212.0 1785.0
+small-vehicle 224.0 1798.0 240.0 1837.0
+small-vehicle 196.0 1713.0 212.0 1745.0
+small-vehicle 3031.0 1763.0 3052.0 1773.0 difficult
+small-vehicle 3034.0 2149.0 3058.0 2159.0 difficult
+small-vehicle 3359.0 1899.0 3371.0 1925.0 difficult
+small-vehicle 8035.0 2835.0 8065.0 2851.0
+small-vehicle 6761.0 3187.0 6789.0 3201.0
+small-vehicle 6773.0 3374.0 6797.0 3384.0
+small-vehicle 6836.0 3302.0 6847.0 3326.0
+small-vehicle 6833.0 3334.0 6846.0 3360.0
+small-vehicle 6836.0 3364.0 6846.0 3386.0
+small-vehicle 6836.0 3390.0 6847.0 3416.0
+small-vehicle 6835.0 3438.0 6848.0 3459.0
+small-vehicle 7052.0 3293.0 7074.0 3304.0
+small-vehicle 7054.0 3306.0 7075.0 3315.0
+small-vehicle 7050.0 3331.0 7074.0 3344.0
+small-vehicle 7057.0 3364.0 7078.0 3376.0
+small-vehicle 7053.0 3380.0 7077.0 3391.0
+small-vehicle 7032.0 3356.0 7053.0 3366.0
+small-vehicle 7139.0 3401.0 7164.0 3413.0
+small-vehicle 7140.0 3414.0 7164.0 3424.0
+small-vehicle 7077.0 3447.0 7089.0 3470.0
+small-vehicle 7136.0 3488.0 7171.0 3502.0
+small-vehicle 7196.0 3496.0 7220.0 3508.0
+small-vehicle 7206.0 3512.0 7231.0 3524.0
+small-vehicle 7134.0 3503.0 7170.0 3516.0
+small-vehicle 7138.0 3518.0 7159.0 3530.0
+small-vehicle 7137.0 3530.0 7161.0 3542.0
+small-vehicle 6890.0 3549.0 6902.0 3573.0
+small-vehicle 7034.0 3267.0 7056.0 3278.0
+small-vehicle 7078.0 3271.0 7092.0 3297.0
+small-vehicle 7160.0 3267.0 7181.0 3279.0
+small-vehicle 6700.0 2947.0 6730.0 2962.0 difficult
+storage-tank 7016.0 2885.0 7077.0 2947.0
+small-vehicle 6703.0 2870.0 6735.0 2889.0 difficult
+small-vehicle 6705.0 2911.0 6728.0 2923.0 difficult
+small-vehicle 6704.0 2925.0 6732.0 2935.0 difficult
+small-vehicle 6770.0 2901.0 6794.0 2914.0 difficult
+small-vehicle 6771.0 2929.0 6794.0 2940.0 difficult
+small-vehicle 6767.0 2951.0 6796.0 2964.0 difficult
+small-vehicle 6766.0 2967.0 6786.0 2976.0 difficult
+small-vehicle 6772.0 2978.0 6794.0 2991.0 difficult
+small-vehicle 6814.0 2899.0 6826.0 2923.0 difficult
+small-vehicle 6702.0 2964.0 6730.0 2980.0 difficult
+small-vehicle 7130.0 3282.0 7154.0 3295.0
+small-vehicle 6700.0 2984.0 6733.0 2999.0 difficult
+small-vehicle 7047.0 3118.0 7079.0 3131.0
+small-vehicle 6692.0 3044.0 6706.0 3068.0
+small-vehicle 7140.0 3110.0 7174.0 3136.0
+small-vehicle 7169.0 3132.0 7180.0 3152.0
+small-vehicle 7184.0 3130.0 7196.0 3151.0
+small-vehicle 7388.0 3181.0 7417.0 3195.0
+small-vehicle 7154.0 3218.0 7177.0 3236.0
+small-vehicle 7050.0 3250.0 7074.0 3264.0
+small-vehicle 7132.0 3256.0 7156.0 3269.0
+small-vehicle 6848.0 3765.0 6878.0 3791.0
+large-vehicle 8090.0 2962.0 8140.0 2980.0
+small-vehicle 3355.0 1961.0 3372.0 1992.0 difficult
+large-vehicle 8090.0 2997.0 8141.0 3013.0
+small-vehicle 9166.0 2969.0 9183.0 2997.0
+large-vehicle 9358.0 3647.0 9417.0 3717.0
+large-vehicle 9348.0 3622.0 9404.0 3664.0
+small-vehicle 9683.0 4094.0 9719.0 4107.0
+small-vehicle 9991.0 4002.0 10025.0 4016.0
+small-vehicle 9977.0 3980.0 10009.0 4000.0
+small-vehicle 9962.0 3961.0 9994.0 3982.0
+small-vehicle 9936.0 3915.0 9966.0 3930.0
+small-vehicle 9921.0 3902.0 9955.0 3916.0
+small-vehicle 9911.0 3872.0 9940.0 3895.0
+small-vehicle 9888.0 3813.0 9910.0 3842.0
+small-vehicle 10173.0 3781.0 10200.0 3792.0
+small-vehicle 10175.0 3796.0 10196.0 3809.0
+small-vehicle 10167.0 3811.0 10188.0 3822.0
+small-vehicle 10166.0 3821.0 10185.0 3835.0
+small-vehicle 9562.0 3645.0 9574.0 3672.0
+small-vehicle 10103.0 3522.0 10132.0 3546.0
+small-vehicle 10159.0 3489.0 10186.0 3509.0
+small-vehicle 10209.0 3458.0 10235.0 3474.0
+small-vehicle 10229.0 3445.0 10259.0 3459.0
+small-vehicle 9651.0 3477.0 9675.0 3486.0
+small-vehicle 10071.0 3810.0 10093.0 3831.0
+small-vehicle 10055.0 3784.0 10074.0 3807.0
+small-vehicle 9239.0 2773.0 9250.0 2799.0
+small-vehicle 9262.0 2765.0 9282.0 2790.0
+small-vehicle 9263.0 2735.0 9285.0 2761.0
+large-vehicle 9050.0 751.0 9081.0 797.0
+small-vehicle 7693.0 2401.0 7708.0 2424.0
+small-vehicle 7654.0 1052.0 7681.0 1076.0
+small-vehicle 9157.0 386.0 9178.0 420.0
+small-vehicle 9244.0 450.0 9270.0 466.0
+small-vehicle 9248.0 468.0 9271.0 484.0
+small-vehicle 9071.0 541.0 9089.0 568.0
+small-vehicle 8906.0 875.0 8927.0 895.0
+small-vehicle 8894.0 851.0 8929.0 879.0
+small-vehicle 8867.0 863.0 8889.0 887.0
+small-vehicle 8837.0 851.0 8874.0 871.0
+large-vehicle 8747.0 1818.0 8782.0 1859.0
+large-vehicle 9042.0 2445.0 9077.0 2487.0
+small-vehicle 8890.0 1953.0 8918.0 1976.0 difficult
+small-vehicle 8882.0 1944.0 8912.0 1964.0 difficult
+small-vehicle 8880.0 1931.0 8902.0 1950.0 difficult
+small-vehicle 8863.0 1906.0 8887.0 1926.0 difficult
+small-vehicle 9001.0 1922.0 9024.0 1952.0
+small-vehicle 9282.0 2177.0 9314.0 2216.0
+small-vehicle 9219.0 2139.0 9238.0 2170.0
+small-vehicle 8866.0 2339.0 8888.0 2365.0
+small-vehicle 8756.0 2350.0 8789.0 2367.0
+small-vehicle 8728.0 2361.0 8752.0 2377.0
+small-vehicle 7195.0 2148.0 7212.0 2175.0
+small-vehicle 6734.0 2436.0 6760.0 2448.0
+small-vehicle 6666.0 2176.0 6694.0 2194.0 difficult
+small-vehicle 6720.0 2163.0 6746.0 2177.0 difficult
+small-vehicle 4760.0 3599.0 4772.0 3623.0
+small-vehicle 4819.0 3568.0 4854.0 3581.0
+small-vehicle 4871.0 3290.0 4896.0 3302.0
+small-vehicle 4676.0 3187.0 4700.0 3199.0
+large-vehicle 4903.0 3232.0 4922.0 3277.0
+small-vehicle 4840.0 3087.0 4862.0 3100.0
+small-vehicle 4635.0 2805.0 4665.0 2823.0
+small-vehicle 4666.0 2754.0 4688.0 2766.0
+small-vehicle 4867.0 2860.0 4889.0 2872.0
+small-vehicle 4906.0 2490.0 4918.0 2514.0
+small-vehicle 4837.0 2362.0 4876.0 2376.0
+small-vehicle 4838.0 2332.0 4857.0 2352.0
+small-vehicle 4820.0 2308.0 4842.0 2329.0
+small-vehicle 4816.0 2250.0 4836.0 2265.0
+small-vehicle 4889.0 2054.0 4912.0 2065.0
+small-vehicle 4891.0 2039.0 4914.0 2052.0
+small-vehicle 4890.0 2026.0 4914.0 2035.0
+small-vehicle 4872.0 1781.0 4892.0 1806.0
+small-vehicle 4754.0 1422.0 4766.0 1446.0
+small-vehicle 4772.0 1406.0 4782.0 1427.0
+small-vehicle 4725.0 1410.0 4745.0 1446.0
+small-vehicle 4756.0 1356.0 4779.0 1377.0
+small-vehicle 4820.0 1378.0 4842.0 1388.0
+small-vehicle 4848.0 3641.0 4872.0 3657.0
+small-vehicle 4826.0 3878.0 4848.0 3887.0
+small-vehicle 3047.0 3667.0 3069.0 3679.0
+small-vehicle 3578.0 2722.0 3593.0 2746.0 difficult
+small-vehicle 3411.0 1941.0 3436.0 1952.0 difficult
+small-vehicle 3357.0 1990.0 3371.0 2014.0 difficult
+small-vehicle 3357.0 2043.0 3369.0 2069.0 difficult
+small-vehicle 3355.0 2079.0 3369.0 2105.0 difficult
+small-vehicle 3413.0 2172.0 3437.0 2183.0 difficult
+small-vehicle 3027.0 2498.0 3049.0 2512.0 difficult
+small-vehicle 3024.0 2484.0 3047.0 2495.0 difficult
+small-vehicle 3025.0 2528.0 3049.0 2540.0 difficult
+small-vehicle 3007.0 2555.0 3029.0 2576.0 difficult
+small-vehicle 3564.0 2723.0 3577.0 2747.0 difficult
+small-vehicle 3778.0 2742.0 3804.0 2769.0 difficult
+small-vehicle 3049.0 3653.0 3069.0 3664.0
+small-vehicle 3029.0 2864.0 3051.0 2877.0 difficult
+small-vehicle 3031.0 2879.0 3057.0 2889.0 difficult
+small-vehicle 3027.0 2891.0 3048.0 2901.0 difficult
+small-vehicle 3027.0 2903.0 3049.0 2914.0 difficult
+small-vehicle 3590.0 3132.0 3628.0 3152.0
+small-vehicle 3009.0 3292.0 3031.0 3302.0
+small-vehicle 3407.0 3472.0 3432.0 3484.0
+small-vehicle 3052.0 3608.0 3075.0 3619.0
+small-vehicle 3050.0 3621.0 3073.0 3632.0
+small-vehicle 3048.0 3638.0 3073.0 3652.0
+small-vehicle 4889.0 915.0 4914.0 929.0
+small-vehicle 4554.0 529.0 4568.0 555.0
+small-vehicle 4764.0 408.0 4779.0 444.0
+small-vehicle 7202.0 1725.0 7234.0 1754.0
+small-vehicle 5417.0 3817.0 5448.0 3838.0
+small-vehicle 5503.0 3833.0 5527.0 3844.0
+small-vehicle 5492.0 3844.0 5518.0 3860.0
+small-vehicle 5057.0 3904.0 5080.0 3931.0
+small-vehicle 5004.0 3954.0 5029.0 3973.0
+small-vehicle 6664.0 2271.0 6692.0 2284.0
+small-vehicle 6315.0 313.0 6345.0 326.0
+large-vehicle 7062.0 375.0 7093.0 407.0
+large-vehicle 7311.0 507.0 7344.0 525.0
+large-vehicle 6982.0 1495.0 7021.0 1511.0
+small-vehicle 7196.0 1740.0 7222.0 1764.0
+small-vehicle 5050.0 3566.0 5076.0 3592.0
+small-vehicle 6708.0 1905.0 6736.0 1918.0 difficult
+small-vehicle 6707.0 1943.0 6728.0 1957.0 difficult
+small-vehicle 6710.0 1964.0 6735.0 1979.0 difficult
+small-vehicle 6708.0 1983.0 6735.0 1995.0 difficult
+small-vehicle 6712.0 1995.0 6736.0 2005.0 difficult
+small-vehicle 6710.0 2007.0 6736.0 2021.0 difficult
+small-vehicle 6713.0 2020.0 6735.0 2033.0 difficult
+small-vehicle 6713.0 2033.0 6737.0 2046.0 difficult
+small-vehicle 6708.0 2084.0 6735.0 2097.0 difficult
+small-vehicle 6704.0 2099.0 6733.0 2113.0 difficult
+small-vehicle 4778.0 3589.0 4794.0 3617.0
+small-vehicle 5301.0 2622.0 5326.0 2636.0
+small-vehicle 4891.0 418.0 4916.0 432.0
+small-vehicle 5221.0 2003.0 5248.0 2025.0
+small-vehicle 5483.0 774.0 5524.0 792.0
+small-vehicle 4926.0 1081.0 4942.0 1117.0
+small-vehicle 4925.0 1173.0 4942.0 1197.0
+small-vehicle 5294.0 1103.0 5317.0 1115.0
+small-vehicle 5300.0 1152.0 5324.0 1163.0
+small-vehicle 5296.0 1176.0 5320.0 1187.0
+small-vehicle 5432.0 1213.0 5459.0 1226.0
+small-vehicle 5496.0 1748.0 5518.0 1760.0
+small-vehicle 5293.0 1934.0 5317.0 1947.0
+small-vehicle 5228.0 1974.0 5253.0 1996.0
+small-vehicle 5218.0 2017.0 5242.0 2037.0
+small-vehicle 5218.0 2534.0 5246.0 2552.0
+small-vehicle 5295.0 1951.0 5319.0 1961.0
+small-vehicle 5297.0 1963.0 5318.0 1975.0
+small-vehicle 5294.0 1977.0 5322.0 1989.0
+small-vehicle 5291.0 2092.0 5314.0 2101.0
+small-vehicle 5297.0 2122.0 5320.0 2132.0
+small-vehicle 5294.0 2135.0 5319.0 2146.0
+small-vehicle 5296.0 2151.0 5322.0 2163.0
+small-vehicle 5296.0 2180.0 5321.0 2192.0
+small-vehicle 5242.0 2200.0 5256.0 2228.0
+small-vehicle 5217.0 2443.0 5244.0 2457.0
+small-vehicle 85.0 1334.0 111.0 1348.0 difficult
+small-vehicle 86.0 1320.0 109.0 1334.0 difficult
+small-vehicle 406.0 3338.0 430.0 3362.0 difficult
+plane 758.0 3187.0 943.0 3368.0
+large-vehicle 13348.0 1997.0 13384.0 2053.0
+plane 2663.0 2030.0 3004.0 2361.0
+plane 2625.0 2408.0 3012.0 2751.0
+plane 3437.0 2394.0 3791.0 2732.0
+plane 3433.0 1924.0 3816.0 2271.0
+large-vehicle 3589.0 2282.0 3629.0 2300.0
+plane 4510.0 1997.0 4858.0 2322.0
+plane 4478.0 2422.0 4847.0 2757.0
+plane 5331.0 2349.0 5725.0 2778.0
+plane 5342.0 1880.0 5691.0 2216.0
+large-vehicle 5561.0 2290.0 5617.0 2312.0
+large-vehicle 5553.0 2310.0 5618.0 2332.0
+plane 5942.0 2669.0 6129.0 2887.0
+plane 6451.0 2527.0 6698.0 2721.0
+large-vehicle 6643.0 2861.0 6660.0 2901.0
+large-vehicle 6484.0 2861.0 6502.0 2903.0
+large-vehicle 6328.0 2890.0 6369.0 2911.0
+large-vehicle 6332.0 2313.0 6384.0 2335.0
+plane 7167.0 2424.0 7513.0 2754.0
+large-vehicle 6945.0 2215.0 6961.0 2269.0
+plane 8470.0 2231.0 9001.0 2722.0
+plane 8481.0 1822.0 9045.0 2347.0
+large-vehicle 13287.0 1989.0 13340.0 2051.0
+large-vehicle 13260.0 1993.0 13312.0 2051.0
+large-vehicle 13313.0 2096.0 13371.0 2124.0
+large-vehicle 10365.0 2445.0 10425.0 2493.0
+plane 1487.0 2263.0 1747.0 2456.0
+plane 1504.0 2478.0 1758.0 2681.0
+plane 1449.0 2794.0 1660.0 2994.0
+large-vehicle 1655.0 2148.0 1700.0 2172.0
+plane 9404.0 2451.0 9849.0 2918.0
+plane 10208.0 2049.0 10673.0 2520.0
+plane 9962.0 1725.0 10477.0 2251.0
+large-vehicle 10345.0 2431.0 10400.0 2476.0
+large-vehicle 10501.0 2365.0 10555.0 2413.0
+large-vehicle 13215.0 2102.0 13273.0 2125.0
+large-vehicle 10502.0 2340.0 10559.0 2386.0
+large-vehicle 12419.0 2615.0 12486.0 2669.0
+large-vehicle 12798.0 1940.0 12866.0 1975.0
+large-vehicle 12787.0 1900.0 12854.0 1940.0
+large-vehicle 12699.0 1877.0 12758.0 1933.0
+large-vehicle 13199.0 1927.0 13257.0 1957.0
+large-vehicle 13275.0 1930.0 13333.0 1953.0
+plane 9213.0 2146.0 9607.0 2544.0
+plane 495.0 3187.0 684.0 3391.0
+plane 6499.0 3743.0 6687.0 3940.0
+plane 411.0 3721.0 605.0 3963.0
+plane 2627.0 2807.0 3009.0 3133.0
+plane 2623.0 3193.0 3015.0 3522.0
+plane 2623.0 3564.0 3033.0 3914.0
+large-vehicle 2768.0 3546.0 2830.0 3566.0
+plane 3495.0 3663.0 3680.0 3859.0
+plane 3436.0 3205.0 3783.0 3536.0
+plane 3459.0 2820.0 3772.0 3153.0
+large-vehicle 3373.0 3380.0 3395.0 3439.0
+large-vehicle 3687.0 2921.0 3710.0 2976.0
+plane 3984.0 2909.0 4317.0 3229.0
+plane 4438.0 2804.0 4836.0 3149.0
+plane 4473.0 3197.0 4837.0 3520.0
+plane 4516.0 3579.0 4836.0 3913.0
+large-vehicle 4450.0 3679.0 4481.0 3750.0
+large-vehicle 4470.0 3612.0 4512.0 3681.0
+large-vehicle 4673.0 3588.0 4724.0 3655.0
+large-vehicle 4735.0 3639.0 4804.0 3684.0
+plane 5411.0 3660.0 5649.0 3858.0
+large-vehicle 4968.0 3297.0 5004.0 3350.0
+large-vehicle 4940.0 3310.0 4979.0 3361.0
+large-vehicle 5205.0 3314.0 5249.0 3372.0
+large-vehicle 5189.0 3305.0 5231.0 3364.0
+large-vehicle 12506.0 3024.0 12532.0 3080.0
+large-vehicle 12462.0 3080.0 12509.0 3141.0
+large-vehicle 12788.0 3139.0 12824.0 3198.0
+large-vehicle 1088.0 3084.0 1152.0 3104.0
+roundabout 279.0 3139.0 339.0 3193.0
+large-vehicle 618.0 2981.0 684.0 3037.0
+large-vehicle 290.0 3815.0 313.0 3874.0
+large-vehicle 946.0 2984.0 964.0 3019.0
+large-vehicle 917.0 2991.0 932.0 3024.0
+plane 1533.0 3189.0 1722.0 3376.0
+plane 1263.0 3185.0 1453.0 3397.0
+plane 1023.0 3180.0 1207.0 3376.0
+plane 1146.0 3717.0 1335.0 3963.0
+large-vehicle 12810.0 3400.0 12871.0 3417.0
+plane 9357.0 3549.0 9877.0 4056.0
+plane 10873.0 3178.0 11147.0 3462.0
+large-vehicle 10592.0 3796.0 10629.0 3858.0
+large-vehicle 11177.0 3363.0 11207.0 3433.0
+plane 11870.0 3702.0 12139.0 4009.0
+large-vehicle 12252.0 3401.0 12310.0 3429.0
+large-vehicle 12093.0 3335.0 12135.0 3356.0
+large-vehicle 12042.0 3361.0 12100.0 3381.0
+large-vehicle 12988.0 3760.0 13047.0 3782.0
+plane 1401.0 1956.0 1695.0 2218.0
+storage-tank 299.0 2710.0 344.0 2745.0
+storage-tank 298.0 2678.0 344.0 2710.0
+storage-tank 300.0 2641.0 341.0 2679.0
+large-vehicle 3641.0 760.0 3678.0 778.0
+large-vehicle 3125.0 969.0 3303.0 999.0
+large-vehicle 3029.0 935.0 3064.0 1009.0
+plane 4502.0 411.0 4866.0 750.0
+plane 5350.0 416.0 5692.0 747.0
+large-vehicle 5416.0 448.0 5462.0 506.0
+storage-tank 6488.0 415.0 6666.0 585.0
+storage-tank 6481.0 604.0 6666.0 768.0
+storage-tank 6476.0 760.0 6538.0 815.0
+storage-tank 6477.0 793.0 6663.0 954.0
+storage-tank 6678.0 415.0 6849.0 586.0
+storage-tank 6676.0 609.0 6848.0 769.0
+storage-tank 6674.0 797.0 6849.0 954.0
+large-vehicle 7055.0 438.0 7124.0 488.0
+plane 9283.0 190.0 9635.0 575.0
+plane 8927.0 191.0 9273.0 569.0
+large-vehicle 9171.0 185.0 9227.0 210.0
+large-vehicle 9155.0 222.0 9231.0 252.0
+large-vehicle 9166.0 255.0 9224.0 286.0
+large-vehicle 8953.0 460.0 9004.0 534.0
+large-vehicle 9301.0 242.0 9347.0 294.0
+storage-tank 308.0 1112.0 348.0 1148.0
+storage-tank 306.0 1148.0 347.0 1181.0
+plane 3461.0 384.0 3841.0 740.0
+large-vehicle 11730.0 555.0 11780.0 619.0
+large-vehicle 11771.0 606.0 11818.0 664.0
+large-vehicle 9878.0 522.0 9924.0 581.0
+plane 402.0 390.0 589.0 587.0
+plane 622.0 342.0 813.0 590.0
+plane 1510.0 451.0 1776.0 644.0
+large-vehicle 1230.0 596.0 1283.0 615.0
+large-vehicle 1240.0 616.0 1288.0 632.0
+plane 10062.0 689.0 10525.0 1157.0
+plane 9851.0 400.0 10289.0 845.0
+large-vehicle 10106.0 761.0 10167.0 810.0
+large-vehicle 9616.0 239.0 9637.0 288.0
+plane 10652.0 168.0 10918.0 424.0
+large-vehicle 11907.0 641.0 11966.0 689.0
+large-vehicle 11243.0 577.0 11293.0 632.0
+plane 11292.0 191.0 11645.0 575.0
+large-vehicle 12222.0 830.0 12283.0 881.0
+large-vehicle 12191.0 680.0 12245.0 737.0
+large-vehicle 12138.0 683.0 12195.0 733.0
+large-vehicle 12138.0 658.0 12202.0 708.0
+large-vehicle 11939.0 462.0 11978.0 525.0
+large-vehicle 11927.0 526.0 11973.0 586.0
+large-vehicle 11824.0 611.0 11884.0 658.0
+large-vehicle 11899.0 626.0 11960.0 671.0
+storage-tank 304.0 1181.0 350.0 1218.0
+storage-tank 302.0 1888.0 346.0 1926.0
+storage-tank 301.0 1925.0 346.0 1957.0
+large-vehicle 6938.0 1350.0 6999.0 1381.0
+plane 4064.0 829.0 4524.0 1231.0
+plane 4441.0 1413.0 4862.0 1789.0
+plane 5342.0 1408.0 5733.0 1764.0
+plane 5339.0 831.0 5732.0 1263.0
+large-vehicle 5321.0 1677.0 5343.0 1748.0
+plane 6361.0 1132.0 6714.0 1467.0
+plane 6456.0 1590.0 6648.0 1783.0
+plane 7111.0 1498.0 7516.0 1851.0
+large-vehicle 6938.0 1296.0 7001.0 1326.0
+large-vehicle 6938.0 1324.0 6999.0 1353.0
+large-vehicle 7167.0 1425.0 7235.0 1451.0
+large-vehicle 3565.0 1281.0 3615.0 1301.0
+large-vehicle 6964.0 1538.0 7021.0 1565.0
+large-vehicle 6840.0 1275.0 6901.0 1303.0
+large-vehicle 6839.0 1300.0 6901.0 1330.0
+large-vehicle 6839.0 1327.0 6901.0 1357.0
+large-vehicle 6835.0 1353.0 6901.0 1385.0
+large-vehicle 6878.0 1640.0 6898.0 1701.0
+plane 8576.0 847.0 8994.0 1280.0
+storage-tank 299.0 1957.0 347.0 1992.0
+large-vehicle 3377.0 1555.0 3393.0 1588.0
+plane 1509.0 936.0 1725.0 1128.0
+large-vehicle 10813.0 1541.0 10878.0 1605.0
+plane 1510.0 1197.0 1727.0 1382.0
+plane 1456.0 1641.0 1756.0 1904.0
+large-vehicle 1350.0 1482.0 1388.0 1499.0
+plane 9794.0 1440.0 10256.0 1917.0
+large-vehicle 9645.0 1150.0 9681.0 1195.0
+plane 10240.0 982.0 10711.0 1464.0
+large-vehicle 10534.0 1035.0 10590.0 1090.0
+large-vehicle 10511.0 1015.0 10567.0 1071.0
+large-vehicle 10500.0 997.0 10555.0 1052.0
+large-vehicle 10899.0 1485.0 10962.0 1544.0
+large-vehicle 12193.0 1010.0 12235.0 1069.0
+large-vehicle 12122.0 1322.0 12178.0 1365.0
+plane 2647.0 873.0 3011.0 1216.0
+plane 2627.0 1253.0 3025.0 1607.0
+plane 2637.0 1649.0 3008.0 1978.0
+plane 3436.0 917.0 3760.0 1249.0
+large-vehicle 5115.0 3301.0 5151.0 3346.0
+small-vehicle 394.0 3324.0 423.0 3354.0 difficult
+small-vehicle 26.0 2336.0 53.0 2346.0 difficult
+small-vehicle 30.0 1911.0 53.0 1925.0 difficult
+small-vehicle 30.0 1925.0 54.0 1939.0 difficult
+small-vehicle 34.0 1952.0 56.0 1965.0 difficult
+small-vehicle 30.0 1965.0 56.0 1978.0 difficult
+small-vehicle 29.0 1979.0 56.0 1992.0 difficult
+small-vehicle 28.0 1992.0 55.0 2005.0 difficult
+small-vehicle 28.0 2003.0 56.0 2017.0 difficult
+small-vehicle 26.0 2018.0 56.0 2037.0 difficult
+small-vehicle 25.0 2111.0 53.0 2124.0 difficult
+small-vehicle 29.0 2124.0 55.0 2138.0 difficult
+small-vehicle 28.0 2138.0 56.0 2150.0 difficult
+small-vehicle 24.0 2148.0 55.0 2162.0 difficult
+small-vehicle 25.0 2162.0 54.0 2176.0 difficult
+small-vehicle 25.0 2176.0 51.0 2190.0 difficult
+small-vehicle 25.0 2203.0 52.0 2215.0 difficult
+small-vehicle 24.0 2216.0 52.0 2230.0 difficult
+small-vehicle 24.0 2230.0 51.0 2243.0 difficult
+small-vehicle 26.0 2244.0 51.0 2256.0 difficult
+small-vehicle 25.0 2256.0 50.0 2269.0 difficult
+small-vehicle 26.0 2268.0 50.0 2282.0 difficult
+small-vehicle 27.0 2282.0 53.0 2294.0 difficult
+small-vehicle 26.0 2295.0 51.0 2308.0 difficult
+small-vehicle 27.0 2308.0 52.0 2320.0 difficult
+small-vehicle 33.0 1899.0 56.0 1911.0 difficult
+small-vehicle 36.0 1888.0 55.0 1899.0 difficult
+small-vehicle 31.0 1873.0 55.0 1887.0 difficult
+small-vehicle 32.0 1691.0 58.0 1703.0 difficult
+small-vehicle 33.0 1560.0 58.0 1572.0 difficult
+small-vehicle 32.0 1574.0 60.0 1586.0 difficult
+small-vehicle 34.0 1587.0 58.0 1601.0 difficult
+small-vehicle 31.0 1600.0 59.0 1611.0 difficult
+small-vehicle 34.0 1612.0 58.0 1624.0 difficult
+small-vehicle 32.0 1625.0 58.0 1638.0 difficult
+small-vehicle 32.0 1638.0 59.0 1651.0 difficult
+small-vehicle 31.0 1652.0 60.0 1665.0 difficult
+small-vehicle 32.0 1664.0 57.0 1678.0 difficult
+small-vehicle 30.0 1679.0 59.0 1691.0 difficult
+small-vehicle 33.0 1703.0 60.0 1717.0 difficult
+small-vehicle 29.0 1859.0 56.0 1873.0 difficult
+small-vehicle 34.0 1717.0 56.0 1729.0 difficult
+small-vehicle 32.0 1729.0 58.0 1743.0 difficult
+small-vehicle 30.0 1743.0 58.0 1756.0 difficult
+small-vehicle 30.0 1756.0 59.0 1770.0 difficult
+small-vehicle 32.0 1769.0 58.0 1782.0 difficult
+small-vehicle 32.0 1781.0 59.0 1797.0 difficult
+small-vehicle 31.0 1796.0 57.0 1811.0 difficult
+small-vehicle 32.0 1809.0 57.0 1823.0 difficult
+small-vehicle 31.0 1823.0 57.0 1834.0 difficult
+small-vehicle 30.0 1846.0 56.0 1859.0 difficult
+small-vehicle 26.0 2322.0 48.0 2334.0 difficult
+small-vehicle 26.0 2346.0 53.0 2360.0 difficult
+large-vehicle 6322.0 2913.0 6364.0 2934.0
+small-vehicle 27.0 2360.0 52.0 2373.0 difficult
+small-vehicle 24.0 2737.0 56.0 2751.0 difficult
+small-vehicle 24.0 2751.0 57.0 2763.0 difficult
+small-vehicle 165.0 2866.0 178.0 2895.0 difficult
+small-vehicle 192.0 2845.0 206.0 2878.0 difficult
+small-vehicle 265.0 2950.0 279.0 2983.0 difficult
+small-vehicle 280.0 2950.0 292.0 2985.0 difficult
+small-vehicle 293.0 2944.0 305.0 2974.0 difficult
+small-vehicle 307.0 2942.0 321.0 2973.0 difficult
+small-vehicle 334.0 2951.0 350.0 2979.0 difficult
+small-vehicle 308.0 2978.0 321.0 3008.0 difficult
+small-vehicle 294.0 2980.0 308.0 3012.0 difficult
+small-vehicle 252.0 2982.0 266.0 3010.0 difficult
+small-vehicle 93.0 3092.0 120.0 3116.0 difficult
+small-vehicle 52.0 3156.0 76.0 3173.0 difficult
+small-vehicle 319.0 3180.0 345.0 3199.0 difficult
+small-vehicle 228.0 3054.0 252.0 3077.0 difficult
+small-vehicle 164.0 3061.0 193.0 3093.0 difficult
+small-vehicle 184.0 3058.0 214.0 3090.0 difficult
+small-vehicle 209.0 3051.0 235.0 3082.0 difficult
+small-vehicle 92.0 3348.0 108.0 3380.0
+small-vehicle 128.0 3349.0 144.0 3383.0
+small-vehicle 368.0 3284.0 397.0 3311.0 difficult
+small-vehicle 374.0 3296.0 404.0 3325.0 difficult
+small-vehicle 24.0 2724.0 54.0 2737.0 difficult
+small-vehicle 27.0 2711.0 55.0 2724.0 difficult
+small-vehicle 24.0 2697.0 53.0 2711.0 difficult
+small-vehicle 26.0 2515.0 52.0 2528.0 difficult
+small-vehicle 24.0 2373.0 52.0 2384.0 difficult
+small-vehicle 25.0 2395.0 52.0 2410.0 difficult
+small-vehicle 23.0 2410.0 50.0 2424.0 difficult
+small-vehicle 26.0 2424.0 52.0 2438.0 difficult
+small-vehicle 28.0 2436.0 53.0 2448.0 difficult
+small-vehicle 26.0 2446.0 53.0 2459.0 difficult
+small-vehicle 25.0 2460.0 53.0 2474.0 difficult
+small-vehicle 24.0 2474.0 52.0 2487.0 difficult
+small-vehicle 25.0 2486.0 54.0 2500.0 difficult
+small-vehicle 22.0 2500.0 50.0 2514.0 difficult
+small-vehicle 24.0 2527.0 54.0 2540.0 difficult
+small-vehicle 25.0 2685.0 52.0 2696.0 difficult
+small-vehicle 25.0 2540.0 53.0 2554.0 difficult
+small-vehicle 26.0 2554.0 53.0 2567.0 difficult
+small-vehicle 24.0 2566.0 52.0 2578.0 difficult
+small-vehicle 21.0 2593.0 54.0 2605.0 difficult
+small-vehicle 24.0 2606.0 54.0 2618.0 difficult
+small-vehicle 24.0 2620.0 52.0 2631.0 difficult
+small-vehicle 26.0 2631.0 51.0 2645.0 difficult
+small-vehicle 25.0 2645.0 53.0 2657.0 difficult
+small-vehicle 24.0 2657.0 53.0 2672.0 difficult
+small-vehicle 25.0 2671.0 50.0 2683.0 difficult
+small-vehicle 32.0 1546.0 60.0 1560.0 difficult
+small-vehicle 36.0 1532.0 59.0 1546.0 difficult
+small-vehicle 36.0 1520.0 60.0 1534.0 difficult
+small-vehicle 31.0 1493.0 57.0 1507.0 difficult
+large-vehicle 10412.0 3967.0 10439.0 4013.0
+plane 11320.0 3692.0 11758.0 4103.0
+plane 12302.0 3689.0 12634.0 4048.0
+plane 12721.0 3689.0 13147.0 4106.0
+large-vehicle 13061.0 3963.0 13120.0 4003.0
+large-vehicle 13020.0 4015.0 13043.0 4080.0
+large-vehicle 2802.0 3939.0 2869.0 3963.0
+large-vehicle 2642.0 3935.0 2691.0 3956.0
+large-vehicle 4710.0 3942.0 4776.0 3972.0
+large-vehicle 5479.0 3986.0 5541.0 4009.0
+plane 6772.0 3669.0 7110.0 4080.0
+plane 8891.0 3600.0 9387.0 4129.0
+large-vehicle 8962.0 3784.0 9014.0 3809.0
+small-vehicle 528.0 670.0 540.0 696.0
+small-vehicle 751.0 670.0 764.0 697.0
+small-vehicle 804.0 542.0 818.0 572.0
+small-vehicle 518.0 668.0 528.0 696.0
+small-vehicle 170.0 729.0 193.0 760.0
+small-vehicle 34.0 904.0 62.0 919.0
+large-vehicle 9537.0 3950.0 9584.0 3987.0
+large-vehicle 6854.0 3510.0 6917.0 3530.0
+large-vehicle 7035.0 3490.0 7074.0 3509.0
+plane 7627.0 3426.0 7979.0 3808.0
+plane 9194.0 3236.0 9666.0 3692.0
+plane 8993.0 2907.0 9423.0 3339.0
+large-vehicle 9300.0 3226.0 9348.0 3284.0
+plane 638.0 3767.0 827.0 3950.0
+large-vehicle 9536.0 3968.0 9604.0 4023.0
+large-vehicle 725.0 4047.0 746.0 4113.0
+large-vehicle 812.0 4115.0 833.0 4181.0
+large-vehicle 790.0 4163.0 813.0 4230.0
+large-vehicle 632.0 4245.0 655.0 4287.0
+large-vehicle 651.0 4140.0 670.0 4184.0
+large-vehicle 630.0 4140.0 652.0 4184.0
+large-vehicle 1294.0 3933.0 1340.0 4006.0
+large-vehicle 1317.0 3832.0 1344.0 3899.0
+small-vehicle 576.0 753.0 602.0 777.0
+small-vehicle 646.0 755.0 672.0 779.0
+small-vehicle 716.0 752.0 751.0 785.0
+small-vehicle 34.0 1336.0 59.0 1349.0 difficult
+small-vehicle 32.0 1193.0 61.0 1207.0 difficult
+small-vehicle 33.0 1207.0 60.0 1219.0 difficult
+small-vehicle 34.0 1220.0 60.0 1234.0 difficult
+small-vehicle 34.0 1234.0 60.0 1246.0 difficult
+small-vehicle 33.0 1246.0 60.0 1259.0 difficult
+small-vehicle 32.0 1259.0 58.0 1271.0 difficult
+small-vehicle 32.0 1282.0 56.0 1295.0 difficult
+small-vehicle 32.0 1295.0 59.0 1309.0 difficult
+small-vehicle 32.0 1309.0 59.0 1323.0 difficult
+small-vehicle 36.0 1323.0 62.0 1337.0 difficult
+small-vehicle 34.0 1349.0 59.0 1365.0 difficult
+small-vehicle 34.0 1167.0 58.0 1179.0 difficult
+small-vehicle 33.0 1364.0 62.0 1378.0 difficult
+small-vehicle 33.0 1376.0 60.0 1390.0 difficult
+small-vehicle 34.0 1390.0 60.0 1402.0 difficult
+small-vehicle 35.0 1403.0 56.0 1416.0 difficult
+small-vehicle 31.0 1417.0 56.0 1431.0 difficult
+small-vehicle 33.0 1430.0 60.0 1444.0 difficult
+small-vehicle 33.0 1444.0 58.0 1454.0 difficult
+small-vehicle 33.0 1456.0 59.0 1468.0 difficult
+small-vehicle 30.0 1469.0 60.0 1481.0 difficult
+small-vehicle 34.0 1482.0 60.0 1495.0 difficult
+small-vehicle 32.0 1180.0 59.0 1193.0 difficult
+small-vehicle 205.0 900.0 218.0 923.0 difficult
+small-vehicle 736.0 754.0 765.0 778.0
+small-vehicle 35.0 1023.0 58.0 1037.0 difficult
+small-vehicle 968.0 826.0 985.0 850.0
+small-vehicle 940.0 830.0 958.0 855.0
+small-vehicle 768.0 821.0 779.0 843.0
+small-vehicle 35.0 929.0 58.0 941.0 difficult
+small-vehicle 35.0 942.0 61.0 957.0 difficult
+small-vehicle 33.0 958.0 61.0 972.0 difficult
+small-vehicle 35.0 972.0 60.0 984.0 difficult
+small-vehicle 34.0 984.0 60.0 997.0 difficult
+small-vehicle 34.0 997.0 62.0 1011.0 difficult
+small-vehicle 32.0 1010.0 62.0 1022.0 difficult
+small-vehicle 31.0 1035.0 58.0 1048.0 difficult
+small-vehicle 32.0 1154.0 60.0 1167.0 difficult
+small-vehicle 85.0 997.0 110.0 1009.0 difficult
+small-vehicle 83.0 1009.0 110.0 1021.0 difficult
+small-vehicle 92.0 1034.0 114.0 1048.0 difficult
+small-vehicle 35.0 1063.0 59.0 1076.0 difficult
+small-vehicle 34.0 1077.0 58.0 1089.0 difficult
+small-vehicle 34.0 1089.0 58.0 1101.0 difficult
+small-vehicle 34.0 1103.0 59.0 1115.0 difficult
+small-vehicle 34.0 1115.0 61.0 1127.0 difficult
+small-vehicle 34.0 1127.0 60.0 1140.0 difficult
+small-vehicle 32.0 1140.0 59.0 1153.0 difficult
+small-vehicle 10269.0 3417.0 10298.0 3432.0
+small-vehicle 9893.0 3174.0 9916.0 3200.0
+small-vehicle 12726.0 3912.0 12750.0 3925.0 difficult
+small-vehicle 12754.0 1422.0 12777.0 1448.0 difficult
+small-vehicle 13074.0 1407.0 13101.0 1431.0 difficult
+small-vehicle 13081.0 1418.0 13109.0 1440.0 difficult
+small-vehicle 13088.0 1426.0 13116.0 1450.0 difficult
+small-vehicle 13094.0 1434.0 13122.0 1459.0 difficult
+small-vehicle 13108.0 1455.0 13141.0 1482.0 difficult
+small-vehicle 13125.0 1435.0 13150.0 1465.0 difficult
+small-vehicle 13134.0 1426.0 13159.0 1459.0 difficult
+small-vehicle 13147.0 1417.0 13173.0 1454.0 difficult
+small-vehicle 12969.0 1350.0 12996.0 1373.0 difficult
+small-vehicle 12977.0 1358.0 13003.0 1385.0 difficult
+small-vehicle 12994.0 1382.0 13017.0 1403.0 difficult
+small-vehicle 13003.0 1393.0 13027.0 1415.0 difficult
+small-vehicle 13007.0 1402.0 13034.0 1426.0 difficult
+small-vehicle 13014.0 1415.0 13042.0 1436.0 difficult
+small-vehicle 13020.0 1424.0 13048.0 1448.0 difficult
+small-vehicle 13028.0 1436.0 13054.0 1458.0 difficult
+small-vehicle 13032.0 1447.0 13060.0 1470.0 difficult
+small-vehicle 13041.0 1457.0 13069.0 1480.0 difficult
+small-vehicle 13049.0 1468.0 13074.0 1491.0 difficult
+small-vehicle 13056.0 1479.0 13084.0 1501.0 difficult
+small-vehicle 12797.0 1397.0 12821.0 1422.0 difficult
+small-vehicle 12787.0 1401.0 12806.0 1427.0 difficult
+small-vehicle 12773.0 1408.0 12800.0 1436.0 difficult
+small-vehicle 13065.0 1395.0 13093.0 1421.0 difficult
+small-vehicle 13056.0 1389.0 13081.0 1410.0 difficult
+small-vehicle 13051.0 1374.0 13076.0 1400.0 difficult
+small-vehicle 13100.0 1311.0 13124.0 1334.0 difficult
+small-vehicle 13162.0 1312.0 13188.0 1338.0 difficult
+small-vehicle 13156.0 1303.0 13182.0 1325.0 difficult
+small-vehicle 13149.0 1293.0 13175.0 1313.0 difficult
+small-vehicle 13144.0 1285.0 13167.0 1304.0 difficult
+small-vehicle 13134.0 1272.0 13161.0 1299.0 difficult
+small-vehicle 13125.0 1264.0 13151.0 1286.0 difficult
+small-vehicle 13119.0 1247.0 13147.0 1275.0 difficult
+small-vehicle 13068.0 1270.0 13094.0 1293.0 difficult
+small-vehicle 13075.0 1280.0 13103.0 1303.0 difficult
+small-vehicle 13083.0 1287.0 13111.0 1312.0 difficult
+small-vehicle 13107.0 1322.0 13132.0 1344.0 difficult
+small-vehicle 13037.0 1354.0 13066.0 1380.0 difficult
+small-vehicle 13110.0 1331.0 13141.0 1354.0 difficult
+small-vehicle 13123.0 1344.0 13143.0 1365.0 difficult
+small-vehicle 13126.0 1352.0 13153.0 1376.0 difficult
+small-vehicle 13132.0 1364.0 13161.0 1387.0 difficult
+small-vehicle 13147.0 1382.0 13175.0 1406.0 difficult
+small-vehicle 13152.0 1395.0 13183.0 1419.0 difficult
+small-vehicle 13161.0 1408.0 13185.0 1429.0 difficult
+small-vehicle 13168.0 1416.0 13193.0 1440.0 difficult
+small-vehicle 13021.0 1334.0 13051.0 1358.0 difficult
+small-vehicle 13031.0 1345.0 13058.0 1367.0 difficult
+small-vehicle 12765.0 1413.0 12789.0 1442.0 difficult
+small-vehicle 12746.0 1429.0 12768.0 1458.0 difficult
+small-vehicle 13184.0 1347.0 13210.0 1369.0 difficult
+small-vehicle 12733.0 1434.0 12757.0 1463.0 difficult
+small-vehicle 12911.0 1404.0 12939.0 1428.0 difficult
+small-vehicle 12916.0 1418.0 12945.0 1443.0 difficult
+small-vehicle 12923.0 1427.0 12951.0 1452.0 difficult
+small-vehicle 12933.0 1438.0 12959.0 1462.0 difficult
+small-vehicle 12939.0 1448.0 12967.0 1471.0 difficult
+small-vehicle 12946.0 1459.0 12974.0 1484.0 difficult
+small-vehicle 12952.0 1469.0 12983.0 1495.0 difficult
+small-vehicle 12960.0 1482.0 12988.0 1506.0 difficult
+small-vehicle 12967.0 1492.0 12991.0 1515.0 difficult
+small-vehicle 12976.0 1500.0 13001.0 1525.0 difficult
+small-vehicle 12998.0 1485.0 13023.0 1509.0 difficult
+small-vehicle 12981.0 1513.0 13006.0 1535.0 difficult
+small-vehicle 12986.0 1522.0 13017.0 1550.0 difficult
+small-vehicle 12995.0 1536.0 13021.0 1559.0 difficult
+small-vehicle 11716.0 1210.0 11742.0 1243.0 difficult
+small-vehicle 11732.0 1198.0 11761.0 1230.0 difficult
+small-vehicle 12974.0 1549.0 13000.0 1574.0 difficult
+small-vehicle 12966.0 1540.0 12992.0 1564.0 difficult
+small-vehicle 12960.0 1530.0 12987.0 1553.0 difficult
+small-vehicle 12953.0 1515.0 12982.0 1540.0 difficult
+small-vehicle 12945.0 1510.0 12971.0 1531.0 difficult
+small-vehicle 12935.0 1498.0 12965.0 1522.0 difficult
+small-vehicle 12931.0 1489.0 12959.0 1512.0 difficult
+small-vehicle 12900.0 1396.0 12929.0 1419.0 difficult
+small-vehicle 12894.0 1383.0 12922.0 1410.0 difficult
+small-vehicle 12946.0 1368.0 12974.0 1390.0 difficult
+small-vehicle 12608.0 1520.0 12632.0 1549.0 difficult
+small-vehicle 12725.0 1444.0 12744.0 1471.0 difficult
+small-vehicle 12712.0 1450.0 12736.0 1476.0 difficult
+small-vehicle 12704.0 1459.0 12727.0 1484.0 difficult
+small-vehicle 12695.0 1464.0 12716.0 1489.0 difficult
+small-vehicle 12672.0 1477.0 12695.0 1504.0 difficult
+small-vehicle 12661.0 1486.0 12683.0 1511.0 difficult
+small-vehicle 12652.0 1491.0 12675.0 1520.0 difficult
+small-vehicle 12639.0 1498.0 12664.0 1528.0 difficult
+small-vehicle 12630.0 1504.0 12653.0 1534.0 difficult
+small-vehicle 12620.0 1511.0 12644.0 1542.0 difficult
+small-vehicle 12598.0 1526.0 12625.0 1556.0 difficult
+small-vehicle 12952.0 1377.0 12983.0 1403.0 difficult
+small-vehicle 12588.0 1534.0 12610.0 1562.0 difficult
+small-vehicle 13034.0 1492.0 13062.0 1520.0 difficult
+small-vehicle 13024.0 1482.0 13055.0 1507.0 difficult
+small-vehicle 13008.0 1462.0 13041.0 1487.0 difficult
+small-vehicle 13004.0 1452.0 13035.0 1473.0 difficult
+small-vehicle 12997.0 1441.0 13026.0 1465.0 difficult
+small-vehicle 12993.0 1431.0 13021.0 1452.0 difficult
+small-vehicle 12982.0 1420.0 13012.0 1444.0 difficult
+small-vehicle 12973.0 1408.0 13005.0 1434.0 difficult
+small-vehicle 12971.0 1395.0 12998.0 1420.0 difficult
+small-vehicle 13177.0 1333.0 13204.0 1357.0 difficult
+small-vehicle 13190.0 1358.0 13217.0 1379.0 difficult
+small-vehicle 9868.0 3153.0 9893.0 3171.0
+small-vehicle 13225.0 1265.0 13254.0 1288.0 difficult
+small-vehicle 12951.0 1290.0 12974.0 1314.0 difficult
+small-vehicle 12942.0 1296.0 12962.0 1320.0 difficult
+small-vehicle 12929.0 1302.0 12952.0 1330.0 difficult
+small-vehicle 12922.0 1309.0 12943.0 1338.0 difficult
+small-vehicle 12910.0 1316.0 12934.0 1344.0 difficult
+small-vehicle 12899.0 1324.0 12920.0 1351.0 difficult
+small-vehicle 12878.0 1338.0 12900.0 1367.0 difficult
+small-vehicle 12857.0 1351.0 12878.0 1378.0 difficult
+small-vehicle 12850.0 1359.0 12872.0 1390.0 difficult
+small-vehicle 12838.0 1366.0 12860.0 1394.0 difficult
+small-vehicle 12831.0 1376.0 12849.0 1401.0 difficult
+small-vehicle 12818.0 1380.0 12837.0 1409.0 difficult
+small-vehicle 12806.0 1386.0 12830.0 1414.0 difficult
+small-vehicle 12636.0 1067.0 12657.0 1088.0 difficult
+small-vehicle 12710.0 1173.0 12737.0 1197.0 difficult
+small-vehicle 12632.0 1051.0 12656.0 1071.0 difficult
+small-vehicle 12647.0 1208.0 12672.0 1228.0 difficult
+small-vehicle 13162.0 1163.0 13185.0 1190.0 difficult
+small-vehicle 13165.0 1180.0 13194.0 1204.0 difficult
+small-vehicle 13186.0 1199.0 13215.0 1223.0 difficult
+small-vehicle 13190.0 1211.0 13218.0 1235.0 difficult
+small-vehicle 13195.0 1219.0 13226.0 1243.0 difficult
+small-vehicle 13210.0 1242.0 13240.0 1266.0 difficult
+small-vehicle 12960.0 1280.0 12983.0 1311.0 difficult
+small-vehicle 12974.0 1274.0 12993.0 1302.0 difficult
+small-vehicle 12984.0 1267.0 13003.0 1293.0 difficult
+small-vehicle 13056.0 669.0 13074.0 697.0 difficult
+small-vehicle 13009.0 738.0 13029.0 762.0 difficult
+small-vehicle 13019.0 732.0 13039.0 755.0 difficult
+small-vehicle 13030.0 726.0 13051.0 751.0 difficult
+small-vehicle 13040.0 715.0 13064.0 745.0 difficult
+small-vehicle 13054.0 708.0 13074.0 736.0 difficult
+small-vehicle 13104.0 686.0 13126.0 704.0 difficult
+small-vehicle 13092.0 659.0 13114.0 682.0 difficult
+small-vehicle 13078.0 637.0 13101.0 661.0 difficult
+small-vehicle 13073.0 626.0 13095.0 647.0 difficult
+small-vehicle 12971.0 641.0 13001.0 660.0 difficult
+small-vehicle 13115.0 739.0 13137.0 753.0 difficult
+small-vehicle 12993.0 1260.0 13014.0 1288.0 difficult
+small-vehicle 13137.0 730.0 13164.0 746.0 difficult
+small-vehicle 13165.0 719.0 13193.0 738.0 difficult
+small-vehicle 13315.0 500.0 13327.0 526.0 difficult
+small-vehicle 13092.0 760.0 13129.0 800.0 difficult
+small-vehicle 13055.0 901.0 13083.0 923.0 difficult
+small-vehicle 13080.0 1200.0 13101.0 1231.0 difficult
+small-vehicle 13067.0 1209.0 13089.0 1239.0 difficult
+small-vehicle 13047.0 1224.0 13067.0 1252.0 difficult
+small-vehicle 13035.0 1232.0 13057.0 1261.0 difficult
+small-vehicle 13002.0 1252.0 13026.0 1281.0 difficult
+small-vehicle 13219.0 1254.0 13246.0 1278.0 difficult
+small-vehicle 13230.0 1275.0 13259.0 1296.0 difficult
+small-vehicle 13198.0 1368.0 13225.0 1391.0 difficult
+small-vehicle 13239.0 1283.0 13268.0 1310.0 difficult
+small-vehicle 13002.0 1589.0 13022.0 1616.0 difficult
+small-vehicle 12990.0 1597.0 13012.0 1621.0 difficult
+small-vehicle 12979.0 1599.0 13003.0 1630.0 difficult
+small-vehicle 12969.0 1609.0 12993.0 1639.0 difficult
+small-vehicle 12960.0 1618.0 12981.0 1643.0 difficult
+small-vehicle 12950.0 1625.0 12971.0 1650.0 difficult
+small-vehicle 12938.0 1633.0 12961.0 1658.0 difficult
+small-vehicle 12930.0 1641.0 12950.0 1664.0 difficult
+small-vehicle 12917.0 1643.0 12942.0 1674.0 difficult
+small-vehicle 12905.0 1650.0 12929.0 1683.0 difficult
+small-vehicle 13142.0 1234.0 13170.0 1261.0 difficult
+small-vehicle 13151.0 1243.0 13177.0 1270.0 difficult
+small-vehicle 13155.0 1258.0 13185.0 1279.0 difficult
+small-vehicle 13164.0 1268.0 13191.0 1288.0 difficult
+small-vehicle 13171.0 1276.0 13198.0 1302.0 difficult
+small-vehicle 13180.0 1290.0 13205.0 1309.0 difficult
+small-vehicle 13187.0 1300.0 13213.0 1323.0 difficult
+small-vehicle 13191.0 1309.0 13220.0 1331.0 difficult
+small-vehicle 13197.0 1319.0 13226.0 1344.0 difficult
+small-vehicle 13206.0 1329.0 13234.0 1352.0 difficult
+small-vehicle 13221.0 1350.0 13251.0 1375.0 difficult
+small-vehicle 13227.0 1363.0 13257.0 1387.0 difficult
+small-vehicle 13208.0 1379.0 13233.0 1399.0 difficult
+small-vehicle 13011.0 1584.0 13034.0 1610.0 difficult
+small-vehicle 13019.0 1572.0 13045.0 1605.0 difficult
+small-vehicle 13033.0 1568.0 13057.0 1596.0 difficult
+small-vehicle 13252.0 1419.0 13274.0 1442.0 difficult
+small-vehicle 13247.0 1296.0 13275.0 1323.0 difficult
+small-vehicle 13253.0 1305.0 13280.0 1331.0 difficult
+small-vehicle 13259.0 1315.0 13285.0 1338.0 difficult
+small-vehicle 13265.0 1325.0 13291.0 1349.0 difficult
+small-vehicle 13274.0 1337.0 13303.0 1363.0 difficult
+small-vehicle 13284.0 1356.0 13319.0 1382.0 difficult
+small-vehicle 13299.0 1370.0 13324.0 1392.0 difficult
+small-vehicle 13282.0 1399.0 13307.0 1425.0 difficult
+small-vehicle 13275.0 1407.0 13300.0 1435.0 difficult
+small-vehicle 13264.0 1408.0 13287.0 1439.0 difficult
+small-vehicle 13232.0 1430.0 13256.0 1460.0 difficult
+small-vehicle 13052.0 1551.0 13074.0 1581.0 difficult
+small-vehicle 13221.0 1437.0 13247.0 1467.0 difficult
+small-vehicle 13209.0 1442.0 13236.0 1476.0 difficult
+small-vehicle 13201.0 1454.0 13226.0 1482.0 difficult
+small-vehicle 13136.0 1499.0 13159.0 1528.0 difficult
+small-vehicle 13125.0 1507.0 13148.0 1534.0 difficult
+small-vehicle 13115.0 1513.0 13138.0 1540.0 difficult
+small-vehicle 13107.0 1522.0 13128.0 1546.0 difficult
+small-vehicle 13094.0 1528.0 13118.0 1556.0 difficult
+small-vehicle 13071.0 1540.0 13097.0 1568.0 difficult
+small-vehicle 13063.0 1548.0 13085.0 1576.0 difficult
+small-vehicle 12920.0 1475.0 12951.0 1501.0 difficult
+small-vehicle 12917.0 1464.0 12946.0 1490.0 difficult
+small-vehicle 12907.0 1452.0 12936.0 1480.0 difficult
+small-vehicle 12592.0 2361.0 12618.0 2381.0 difficult
+small-vehicle 12642.0 2242.0 12673.0 2268.0 difficult
+small-vehicle 12651.0 2251.0 12680.0 2278.0 difficult
+small-vehicle 12747.0 2297.0 12778.0 2322.0 difficult
+small-vehicle 12755.0 1925.0 12791.0 1955.0 difficult
+small-vehicle 12782.0 1921.0 12815.0 1943.0 difficult
+small-vehicle 12947.0 2303.0 12957.0 2335.0 difficult
+small-vehicle 12962.0 2310.0 12976.0 2339.0 difficult
+small-vehicle 12978.0 2310.0 12988.0 2336.0 difficult
+small-vehicle 12980.0 2348.0 12995.0 2378.0 difficult
+small-vehicle 12959.0 2345.0 12975.0 2374.0 difficult
+small-vehicle 12944.0 2345.0 12957.0 2373.0 difficult
+small-vehicle 12964.0 2388.0 12979.0 2417.0 difficult
+small-vehicle 12972.0 2422.0 12984.0 2452.0 difficult
+small-vehicle 13082.0 2589.0 13095.0 2619.0 difficult
+small-vehicle 12710.0 2339.0 12745.0 2367.0 difficult
+small-vehicle 12702.0 2326.0 12732.0 2352.0 difficult
+small-vehicle 12658.0 2313.0 12686.0 2337.0 difficult
+small-vehicle 12588.0 2311.0 12615.0 2335.0 difficult
+small-vehicle 12607.0 2332.0 12633.0 2355.0 difficult
+small-vehicle 12613.0 2343.0 12640.0 2366.0 difficult
+small-vehicle 12621.0 2356.0 12646.0 2377.0 difficult
+small-vehicle 12646.0 2392.0 12666.0 2409.0 difficult
+small-vehicle 12622.0 2402.0 12648.0 2427.0 difficult
+small-vehicle 12771.0 2190.0 12800.0 2211.0 difficult
+small-vehicle 12615.0 2200.0 12642.0 2225.0 difficult
+small-vehicle 12608.0 2186.0 12635.0 2211.0 difficult
+small-vehicle 13287.0 1876.0 13319.0 1890.0 difficult
+small-vehicle 12696.0 1661.0 12724.0 1685.0 difficult
+small-vehicle 12712.0 1680.0 12739.0 1704.0 difficult
+small-vehicle 12720.0 1690.0 12744.0 1712.0 difficult
+small-vehicle 12726.0 1701.0 12751.0 1724.0 difficult
+small-vehicle 13351.0 1532.0 13377.0 1559.0 difficult
+small-vehicle 13341.0 1593.0 13364.0 1621.0 difficult
+small-vehicle 13324.0 1581.0 13349.0 1607.0 difficult
+small-vehicle 13255.0 1696.0 13283.0 1724.0 difficult
+small-vehicle 13187.0 1749.0 13214.0 1778.0 difficult
+small-vehicle 13119.0 1822.0 13148.0 1851.0 difficult
+small-vehicle 13293.0 1862.0 13324.0 1881.0 difficult
+small-vehicle 12603.0 2175.0 12630.0 2201.0 difficult
+small-vehicle 13301.0 1848.0 13333.0 1869.0 difficult
+small-vehicle 13312.0 1839.0 13344.0 1864.0 difficult
+small-vehicle 12799.0 1994.0 12825.0 2009.0 difficult
+small-vehicle 12699.0 1930.0 12730.0 1958.0 difficult
+small-vehicle 12582.0 1999.0 12610.0 2026.0 difficult
+small-vehicle 12600.0 2022.0 12628.0 2046.0 difficult
+small-vehicle 12602.0 2035.0 12629.0 2059.0 difficult
+small-vehicle 12590.0 2068.0 12618.0 2092.0 difficult
+small-vehicle 12577.0 2142.0 12608.0 2169.0 difficult
+small-vehicle 12585.0 2156.0 12617.0 2180.0 difficult
+small-vehicle 12597.0 2370.0 12625.0 2394.0 difficult
+small-vehicle 12976.0 2456.0 12987.0 2483.0 difficult
+small-vehicle 12903.0 1443.0 12930.0 1467.0 difficult
+small-vehicle 12958.0 2478.0 12971.0 2507.0 difficult
+small-vehicle 13162.0 3510.0 13191.0 3534.0 difficult
+small-vehicle 13229.0 3555.0 13252.0 3567.0 difficult
+small-vehicle 13332.0 3602.0 13345.0 3632.0 difficult
+small-vehicle 12853.0 3559.0 12882.0 3585.0 difficult
+small-vehicle 12871.0 3555.0 12906.0 3587.0 difficult
+small-vehicle 12799.0 3534.0 12814.0 3560.0 difficult
+small-vehicle 12713.0 3470.0 12735.0 3482.0 difficult
+small-vehicle 12691.0 3426.0 12709.0 3436.0 difficult
+small-vehicle 12787.0 3373.0 12812.0 3387.0 difficult
+small-vehicle 12821.0 3354.0 12843.0 3378.0 difficult
+small-vehicle 12602.0 3461.0 12613.0 3477.0 difficult
+small-vehicle 12616.0 3460.0 12626.0 3478.0 difficult
+small-vehicle 12627.0 3459.0 12638.0 3481.0 difficult
+small-vehicle 12640.0 3462.0 12652.0 3483.0 difficult
+small-vehicle 12654.0 3462.0 12665.0 3483.0 difficult
+small-vehicle 12669.0 3461.0 12680.0 3482.0 difficult
+small-vehicle 12683.0 3464.0 12692.0 3480.0 difficult
+small-vehicle 12693.0 3453.0 12707.0 3485.0 difficult
+small-vehicle 12633.0 3407.0 12643.0 3426.0 difficult
+small-vehicle 12617.0 3400.0 12628.0 3430.0 difficult
+small-vehicle 12601.0 3401.0 12610.0 3423.0 difficult
+small-vehicle 12729.0 3831.0 12752.0 3843.0 difficult
+small-vehicle 12723.0 3883.0 12748.0 3896.0 difficult
+small-vehicle 13073.0 3411.0 13098.0 3436.0 difficult
+small-vehicle 13062.0 3417.0 13085.0 3440.0 difficult
+small-vehicle 13339.0 3411.0 13367.0 3431.0 difficult
+small-vehicle 13010.0 2706.0 13023.0 2733.0 difficult
+small-vehicle 12983.0 2506.0 12996.0 2535.0 difficult
+small-vehicle 12986.0 2536.0 13006.0 2569.0 difficult
+small-vehicle 12988.0 2577.0 12998.0 2606.0 difficult
+small-vehicle 12964.0 2529.0 12975.0 2554.0 difficult
+small-vehicle 12678.0 2474.0 12704.0 2497.0 difficult
+small-vehicle 12657.0 2488.0 12684.0 2514.0 difficult
+small-vehicle 12589.0 2454.0 12617.0 2479.0 difficult
+small-vehicle 13321.0 2700.0 13346.0 2735.0 difficult
+small-vehicle 13089.0 2684.0 13107.0 2714.0 difficult
+small-vehicle 13104.0 2781.0 13123.0 2818.0 difficult
+small-vehicle 12975.0 2854.0 12990.0 2887.0 difficult
+small-vehicle 13298.0 3409.0 13328.0 3435.0 difficult
+small-vehicle 13031.0 2875.0 13046.0 2899.0 difficult
+small-vehicle 13054.0 2913.0 13069.0 2941.0 difficult
+small-vehicle 13037.0 2937.0 13055.0 2964.0 difficult
+small-vehicle 12655.0 2794.0 12679.0 2823.0 difficult
+small-vehicle 12627.0 3141.0 12659.0 3166.0 difficult
+large-vehicle 12789.0 3084.0 12815.0 3125.0
+large-vehicle 12847.0 3059.0 12869.0 3101.0
+large-vehicle 12859.0 3109.0 12884.0 3148.0
+small-vehicle 13060.0 3110.0 13081.0 3141.0 difficult
+small-vehicle 13132.0 3284.0 13161.0 3313.0 difficult
+small-vehicle 12689.0 1652.0 12714.0 1670.0 difficult
+small-vehicle 12684.0 1638.0 12711.0 1661.0 difficult
+small-vehicle 12668.0 1616.0 12695.0 1639.0 difficult
+small-vehicle 12660.0 1605.0 12688.0 1632.0 difficult
+small-vehicle 12833.0 1489.0 12862.0 1511.0 difficult
+small-vehicle 12828.0 1479.0 12855.0 1502.0 difficult
+small-vehicle 12822.0 1470.0 12845.0 1490.0 difficult
+small-vehicle 12810.0 1455.0 12839.0 1480.0 difficult
+small-vehicle 12774.0 1499.0 12802.0 1525.0 difficult
+small-vehicle 12779.0 1510.0 12810.0 1534.0 difficult
+small-vehicle 12793.0 1531.0 12826.0 1561.0 difficult
+small-vehicle 12801.0 1542.0 12830.0 1567.0 difficult
+small-vehicle 12810.0 1550.0 12839.0 1580.0 difficult
+small-vehicle 12819.0 1563.0 12844.0 1585.0 difficult
+small-vehicle 12826.0 1572.0 12854.0 1598.0 difficult
+small-vehicle 12833.0 1585.0 12861.0 1607.0 difficult
+small-vehicle 12838.0 1592.0 12869.0 1617.0 difficult
+small-vehicle 12844.0 1604.0 12872.0 1626.0 difficult
+small-vehicle 12850.0 1616.0 12878.0 1640.0 difficult
+small-vehicle 12859.0 1624.0 12884.0 1650.0 difficult
+small-vehicle 12836.0 1630.0 12861.0 1659.0 difficult
+small-vehicle 12883.0 1662.0 12910.0 1693.0 difficult
+small-vehicle 12837.0 1701.0 12860.0 1727.0 difficult
+small-vehicle 12827.0 1710.0 12849.0 1733.0 difficult
+small-vehicle 12816.0 1711.0 12840.0 1742.0 difficult
+small-vehicle 12829.0 1634.0 12849.0 1666.0 difficult
+small-vehicle 12804.0 1716.0 12830.0 1751.0 difficult
+small-vehicle 12840.0 1498.0 12870.0 1522.0 difficult
+small-vehicle 12847.0 1511.0 12875.0 1537.0 difficult
+small-vehicle 12853.0 1522.0 12881.0 1547.0 difficult
+small-vehicle 12878.0 1507.0 12904.0 1531.0 difficult
+small-vehicle 12894.0 1431.0 12922.0 1456.0 difficult
+small-vehicle 12888.0 1422.0 12915.0 1445.0 difficult
+small-vehicle 12880.0 1412.0 12908.0 1436.0 difficult
+small-vehicle 12871.0 1399.0 12899.0 1424.0 difficult
+small-vehicle 12832.0 1441.0 12860.0 1467.0 difficult
+small-vehicle 12840.0 1453.0 12871.0 1478.0 difficult
+small-vehicle 12850.0 1465.0 12877.0 1486.0 difficult
+small-vehicle 12856.0 1475.0 12882.0 1497.0 difficult
+small-vehicle 12863.0 1481.0 12888.0 1506.0 difficult
+small-vehicle 12869.0 1494.0 12897.0 1517.0 difficult
+small-vehicle 12883.0 1517.0 12912.0 1539.0 difficult
+small-vehicle 12861.0 1533.0 12891.0 1559.0 difficult
+small-vehicle 12888.0 1525.0 12918.0 1553.0 difficult
+small-vehicle 12898.0 1537.0 12925.0 1561.0 difficult
+small-vehicle 12909.0 1547.0 12933.0 1571.0 difficult
+small-vehicle 12914.0 1559.0 12940.0 1582.0 difficult
+small-vehicle 12918.0 1568.0 12950.0 1598.0 difficult
+small-vehicle 12897.0 1588.0 12923.0 1612.0 difficult
+small-vehicle 12890.0 1575.0 12918.0 1600.0 difficult
+small-vehicle 12883.0 1563.0 12913.0 1585.0 difficult
+small-vehicle 12875.0 1553.0 12904.0 1578.0 difficult
+small-vehicle 12868.0 1544.0 12893.0 1567.0 difficult
+small-vehicle 12794.0 1724.0 12818.0 1755.0 difficult
+small-vehicle 12785.0 1735.0 12806.0 1761.0 difficult
+small-vehicle 12772.0 1740.0 12796.0 1768.0 difficult
+small-vehicle 12784.0 1641.0 12813.0 1667.0 difficult
+small-vehicle 12702.0 1615.0 12725.0 1633.0 difficult
+small-vehicle 12704.0 1624.0 12731.0 1646.0 difficult
+small-vehicle 12712.0 1635.0 12738.0 1657.0 difficult
+small-vehicle 12718.0 1644.0 12746.0 1666.0 difficult
+small-vehicle 12733.0 1663.0 12762.0 1686.0 difficult
+small-vehicle 12740.0 1678.0 12767.0 1698.0 difficult
+small-vehicle 12747.0 1688.0 12775.0 1711.0 difficult
+small-vehicle 12814.0 1643.0 12840.0 1678.0 difficult
+small-vehicle 12799.0 1666.0 12829.0 1689.0 difficult
+small-vehicle 12795.0 1657.0 12819.0 1677.0 difficult
+small-vehicle 12778.0 1635.0 12803.0 1653.0 difficult
+small-vehicle 12684.0 1591.0 12711.0 1614.0 difficult
+small-vehicle 12776.0 1627.0 12797.0 1645.0 difficult
+small-vehicle 12765.0 1613.0 12791.0 1635.0 difficult
+small-vehicle 12755.0 1602.0 12784.0 1625.0 difficult
+small-vehicle 12749.0 1592.0 12775.0 1618.0 difficult
+small-vehicle 12742.0 1581.0 12770.0 1604.0 difficult
+small-vehicle 12736.0 1573.0 12762.0 1593.0 difficult
+small-vehicle 12729.0 1562.0 12756.0 1582.0 difficult
+small-vehicle 12721.0 1551.0 12749.0 1573.0 difficult
+small-vehicle 12715.0 1542.0 12741.0 1563.0 difficult
+small-vehicle 12708.0 1530.0 12734.0 1551.0 difficult
+small-vehicle 12694.0 1604.0 12718.0 1625.0 difficult
+small-vehicle 12677.0 1579.0 12701.0 1602.0 difficult
+small-vehicle 12763.0 1750.0 12787.0 1778.0 difficult
+small-vehicle 12639.0 1661.0 12665.0 1682.0 difficult
+small-vehicle 12754.0 1756.0 12775.0 1786.0 difficult
+small-vehicle 12739.0 1762.0 12767.0 1791.0 difficult
+small-vehicle 12577.0 1578.0 12604.0 1600.0 difficult
+small-vehicle 12584.0 1586.0 12616.0 1610.0 difficult
+small-vehicle 12594.0 1598.0 12619.0 1621.0 difficult
+small-vehicle 12599.0 1604.0 12630.0 1632.0 difficult
+small-vehicle 12605.0 1619.0 12638.0 1643.0 difficult
+small-vehicle 12616.0 1629.0 12642.0 1651.0 difficult
+small-vehicle 12621.0 1637.0 12651.0 1663.0 difficult
+small-vehicle 12628.0 1650.0 12655.0 1674.0 difficult
+small-vehicle 12643.0 1671.0 12671.0 1695.0 difficult
+small-vehicle 12669.0 1567.0 12697.0 1593.0 difficult
+small-vehicle 12653.0 1682.0 12677.0 1704.0 difficult
+small-vehicle 12660.0 1692.0 12688.0 1716.0 difficult
+small-vehicle 12665.0 1704.0 12691.0 1726.0 difficult
+small-vehicle 12670.0 1715.0 12698.0 1738.0 difficult
+small-vehicle 12684.0 1730.0 12715.0 1760.0 difficult
+small-vehicle 12692.0 1746.0 12721.0 1770.0 difficult
+small-vehicle 12698.0 1756.0 12727.0 1783.0 difficult
+small-vehicle 12705.0 1767.0 12735.0 1795.0 difficult
+small-vehicle 12635.0 1576.0 12664.0 1599.0 difficult
+small-vehicle 12662.0 1558.0 12688.0 1583.0 difficult
+small-vehicle 13040.0 744.0 13064.0 769.0 difficult
+small-vehicle 13012.0 758.0 13047.0 784.0 difficult
+large-vehicle 13022.0 536.0 13073.0 551.0
+small-vehicle 11630.0 431.0 11664.0 449.0
+small-vehicle 11798.0 1181.0 11820.0 1209.0
+small-vehicle 11822.0 1166.0 11845.0 1192.0
+small-vehicle 11474.0 717.0 11497.0 732.0
+small-vehicle 11557.0 664.0 11593.0 693.0
+small-vehicle 11561.0 724.0 11582.0 749.0
+small-vehicle 11654.0 729.0 11665.0 756.0
+small-vehicle 11700.0 721.0 11714.0 757.0
+small-vehicle 11717.0 725.0 11729.0 764.0
+small-vehicle 11731.0 727.0 11745.0 761.0
+small-vehicle 11748.0 760.0 11774.0 785.0
+small-vehicle 11804.0 719.0 11835.0 754.0
+small-vehicle 11709.0 615.0 11740.0 651.0
+small-vehicle 11424.0 628.0 11437.0 653.0
+small-vehicle 11842.0 1143.0 11867.0 1174.0
+small-vehicle 11866.0 1129.0 11886.0 1154.0
+small-vehicle 11919.0 1092.0 11939.0 1118.0
+small-vehicle 11514.0 577.0 11540.0 592.0
+small-vehicle 11495.0 589.0 11514.0 613.0
+small-vehicle 11438.0 261.0 11451.0 283.0
+small-vehicle 11410.0 240.0 11432.0 277.0
+small-vehicle 10944.0 303.0 10966.0 324.0
+large-vehicle 10986.0 219.0 11020.0 263.0
+large-vehicle 10943.0 300.0 10995.0 346.0
+small-vehicle 11788.0 1193.0 11810.0 1216.0
+small-vehicle 11138.0 1296.0 11163.0 1324.0
+small-vehicle 11151.0 1290.0 11174.0 1315.0
+small-vehicle 11281.0 3279.0 11317.0 3309.0
+large-vehicle 11776.0 3830.0 11794.0 3901.0
+small-vehicle 11817.0 3841.0 11840.0 3854.0
+small-vehicle 11333.0 3813.0 11353.0 3821.0
+small-vehicle 11332.0 3798.0 11360.0 3811.0
+small-vehicle 11331.0 3785.0 11355.0 3798.0
+small-vehicle 11331.0 3772.0 11355.0 3785.0
+small-vehicle 11672.0 3667.0 11680.0 3686.0
+small-vehicle 11684.0 3617.0 11711.0 3629.0
+small-vehicle 11260.0 3691.0 11288.0 3713.0
+large-vehicle 11545.0 3619.0 11602.0 3634.0
+small-vehicle 11196.0 3249.0 11218.0 3277.0
+small-vehicle 11171.0 1275.0 11193.0 1299.0
+small-vehicle 11137.0 3284.0 11160.0 3302.0
+small-vehicle 11077.0 3141.0 11102.0 3166.0
+large-vehicle 10779.0 2634.0 10820.0 2688.0
+small-vehicle 10672.0 1970.0 10693.0 1995.0
+large-vehicle 10883.0 1378.0 10944.0 1417.0
+large-vehicle 10794.0 1359.0 10854.0 1399.0
+large-vehicle 10852.0 1388.0 10913.0 1425.0
+large-vehicle 10914.0 1418.0 10975.0 1455.0
+small-vehicle 11244.0 1230.0 11262.0 1251.0
+small-vehicle 11195.0 1258.0 11217.0 1283.0
+small-vehicle 11633.0 420.0 11656.0 433.0
+small-vehicle 11656.0 451.0 11667.0 476.0
+small-vehicle 12248.0 1261.0 12282.0 1295.0
+small-vehicle 11800.0 586.0 11835.0 621.0
+small-vehicle 12074.0 670.0 12095.0 690.0
+small-vehicle 12088.0 683.0 12119.0 710.0
+small-vehicle 12092.0 699.0 12124.0 724.0
+small-vehicle 12105.0 709.0 12134.0 738.0
+small-vehicle 12119.0 737.0 12141.0 757.0
+small-vehicle 12127.0 747.0 12150.0 767.0
+small-vehicle 12166.0 728.0 12189.0 756.0
+small-vehicle 12040.0 846.0 12061.0 874.0
+small-vehicle 11979.0 910.0 12002.0 939.0
+small-vehicle 11954.0 923.0 11982.0 953.0
+small-vehicle 11922.0 928.0 11944.0 956.0
+small-vehicle 11966.0 1048.0 11994.0 1078.0
+small-vehicle 12006.0 1002.0 12036.0 1026.0
+small-vehicle 11988.0 1049.0 12018.0 1083.0
+small-vehicle 11962.0 1075.0 11986.0 1105.0
+small-vehicle 12036.0 1038.0 12056.0 1065.0
+large-vehicle 12108.0 992.0 12139.0 1038.0
+large-vehicle 12152.0 981.0 12191.0 1026.0
+small-vehicle 12424.0 1144.0 12445.0 1172.0
+small-vehicle 12443.0 1128.0 12466.0 1156.0
+small-vehicle 12464.0 1114.0 12488.0 1143.0
+small-vehicle 12490.0 1095.0 12514.0 1124.0
+small-vehicle 12461.0 1184.0 12483.0 1210.0
+small-vehicle 12065.0 647.0 12098.0 669.0
+small-vehicle 12270.0 675.0 12292.0 696.0
+small-vehicle 12338.0 700.0 12358.0 723.0
+small-vehicle 12108.0 520.0 12123.0 556.0
+small-vehicle 11817.0 709.0 11844.0 742.0
+small-vehicle 11830.0 699.0 11860.0 733.0
+small-vehicle 12034.0 452.0 12048.0 482.0
+small-vehicle 12048.0 454.0 12058.0 480.0
+small-vehicle 12061.0 450.0 12072.0 480.0
+small-vehicle 12134.0 448.0 12150.0 483.0
+small-vehicle 12183.0 489.0 12206.0 500.0
+small-vehicle 12177.0 511.0 12199.0 525.0
+small-vehicle 12164.0 537.0 12198.0 551.0
+small-vehicle 12133.0 502.0 12152.0 540.0
+small-vehicle 12024.0 515.0 12060.0 535.0
+small-vehicle 12143.0 607.0 12164.0 639.0
+small-vehicle 11967.0 590.0 11999.0 625.0
+small-vehicle 12074.0 595.0 12090.0 618.0
+small-vehicle 12088.0 590.0 12105.0 613.0
+small-vehicle 12113.0 582.0 12131.0 607.0
+small-vehicle 12151.0 573.0 12167.0 597.0
+small-vehicle 12208.0 599.0 12220.0 624.0
+small-vehicle 12249.0 616.0 12268.0 627.0
+small-vehicle 12191.0 601.0 12207.0 626.0
+small-vehicle 12173.0 595.0 12196.0 637.0
+small-vehicle 12159.0 603.0 12178.0 635.0
+large-vehicle 11780.0 4020.0 11840.0 4056.0
+large-vehicle 11735.0 4023.0 11750.0 4063.0
+large-vehicle 11696.0 4027.0 11710.0 4081.0
+large-vehicle 11665.0 4000.0 11684.0 4055.0
+small-vehicle 10325.0 1050.0 10341.0 1080.0
+small-vehicle 9835.0 1042.0 9858.0 1077.0
+small-vehicle 9705.0 985.0 9728.0 999.0
+small-vehicle 9690.0 968.0 9714.0 993.0
+small-vehicle 9676.0 954.0 9698.0 973.0
+small-vehicle 10088.0 781.0 10108.0 809.0
+small-vehicle 10075.0 787.0 10093.0 812.0
+small-vehicle 10051.0 787.0 10067.0 808.0
+small-vehicle 10014.0 819.0 10032.0 839.0
+small-vehicle 9997.0 828.0 10017.0 853.0
+small-vehicle 9911.0 768.0 9935.0 784.0
+small-vehicle 9922.0 754.0 9946.0 769.0
+small-vehicle 9937.0 744.0 9963.0 759.0
+small-vehicle 9849.0 681.0 9875.0 703.0
+small-vehicle 9839.0 762.0 9861.0 785.0
+small-vehicle 9777.0 677.0 9799.0 701.0
+small-vehicle 9483.0 590.0 9499.0 611.0
+small-vehicle 9552.0 581.0 9565.0 603.0
+small-vehicle 9881.0 511.0 9906.0 531.0
+small-vehicle 9587.0 384.0 9622.0 418.0
+small-vehicle 9585.0 506.0 9613.0 533.0
+small-vehicle 10602.0 190.0 10637.0 229.0
+small-vehicle 10691.0 354.0 10727.0 392.0
+large-vehicle 9739.0 1064.0 9762.0 1111.0
+large-vehicle 9791.0 1048.0 9805.0 1086.0
+large-vehicle 9711.0 1053.0 9733.0 1088.0
+small-vehicle 9895.0 1530.0 9923.0 1555.0
+small-vehicle 9709.0 3174.0 9730.0 3199.0
+small-vehicle 9689.0 3152.0 9716.0 3175.0
+small-vehicle 9145.0 2982.0 9167.0 3006.0
+small-vehicle 9617.0 2802.0 9645.0 2821.0
+small-vehicle 9670.0 2831.0 9695.0 2861.0
+small-vehicle 9605.0 2817.0 9631.0 2832.0
+small-vehicle 9471.0 2823.0 9501.0 2851.0
+small-vehicle 9475.0 2503.0 9505.0 2517.0
+small-vehicle 9499.0 2471.0 9518.0 2496.0
+small-vehicle 9467.0 2472.0 9487.0 2487.0
+large-vehicle 9972.0 1222.0 10000.0 1256.0
+small-vehicle 9817.0 1066.0 9840.0 1094.0
+small-vehicle 10192.0 1801.0 10203.0 1823.0
+small-vehicle 10204.0 1787.0 10215.0 1815.0
+small-vehicle 10213.0 1815.0 10227.0 1842.0
+small-vehicle 10215.0 1792.0 10229.0 1815.0
+small-vehicle 10229.0 1789.0 10241.0 1813.0
+small-vehicle 10228.0 1815.0 10239.0 1841.0
+small-vehicle 9929.0 1058.0 9955.0 1084.0
+small-vehicle 9912.0 1032.0 9933.0 1058.0
+small-vehicle 9853.0 1043.0 9871.0 1068.0
+small-vehicle 9831.0 1017.0 9859.0 1036.0
+small-vehicle 10763.0 435.0 10787.0 453.0
+small-vehicle 10871.0 226.0 10894.0 236.0
+small-vehicle 10858.0 1288.0 10875.0 1317.0
+small-vehicle 10421.0 3312.0 10449.0 3327.0
+small-vehicle 10604.0 3077.0 10633.0 3094.0
+small-vehicle 10594.0 3088.0 10621.0 3105.0
+small-vehicle 10584.0 3096.0 10611.0 3113.0
+small-vehicle 10479.0 3161.0 10505.0 3178.0
+small-vehicle 10463.0 3173.0 10492.0 3189.0
+small-vehicle 10433.0 3191.0 10461.0 3206.0
+small-vehicle 10397.0 3218.0 10426.0 3233.0
+small-vehicle 10379.0 3230.0 10407.0 3243.0
+small-vehicle 10366.0 3241.0 10397.0 3255.0
+small-vehicle 10349.0 3248.0 10377.0 3267.0
+small-vehicle 10407.0 3322.0 10432.0 3338.0
+small-vehicle 10630.0 3056.0 10657.0 3068.0
+small-vehicle 10349.0 3362.0 10379.0 3378.0
+small-vehicle 10192.0 3352.0 10225.0 3378.0
+small-vehicle 10694.0 3972.0 10719.0 4014.0
+small-vehicle 10462.0 3958.0 10473.0 3981.0
+small-vehicle 10443.0 3962.0 10459.0 3989.0
+large-vehicle 2758.0 3516.0 2809.0 3537.0
+small-vehicle 11321.0 1242.0 11339.0 1262.0
+small-vehicle 9682.0 1140.0 9703.0 1162.0
+small-vehicle 11452.0 3952.0 11483.0 3985.0
+large-vehicle 11636.0 4002.0 11650.0 4076.0
+small-vehicle 10620.0 3067.0 10648.0 3083.0
+small-vehicle 10651.0 3031.0 10677.0 3046.0
+small-vehicle 10738.0 1328.0 10775.0 1351.0
+small-vehicle 10429.0 2072.0 10456.0 2096.0
+small-vehicle 10541.0 1349.0 10561.0 1374.0
+small-vehicle 10525.0 1347.0 10544.0 1370.0
+small-vehicle 10475.0 1381.0 10493.0 1409.0
+small-vehicle 10599.0 1786.0 10625.0 1821.0
+small-vehicle 10585.0 1832.0 10618.0 1873.0
+small-vehicle 10624.0 1894.0 10650.0 1925.0
+small-vehicle 10425.0 2014.0 10453.0 2038.0
+small-vehicle 10399.0 2123.0 10414.0 2147.0
+small-vehicle 10371.0 2145.0 10407.0 2165.0
+small-vehicle 10425.0 2105.0 10445.0 2130.0
+small-vehicle 10623.0 2327.0 10646.0 2340.0
+small-vehicle 10651.0 3018.0 10679.0 3033.0
+small-vehicle 10657.0 2342.0 10684.0 2366.0
+small-vehicle 10403.0 2466.0 10435.0 2490.0
+small-vehicle 10426.0 2486.0 10451.0 2510.0
+small-vehicle 10659.0 2416.0 10685.0 2441.0
+small-vehicle 10814.0 2723.0 10835.0 2746.0
+small-vehicle 10759.0 2751.0 10787.0 2780.0
+small-vehicle 10728.0 2774.0 10759.0 2802.0
+small-vehicle 10663.0 2815.0 10695.0 2844.0
+small-vehicle 10626.0 2840.0 10658.0 2869.0
+small-vehicle 10657.0 3007.0 10682.0 3018.0
+small-vehicle 12441.0 1199.0 12464.0 1226.0
+small-vehicle 11950.0 1236.0 11989.0 1263.0
+small-vehicle 13086.0 1193.0 13110.0 1221.0 difficult
+small-vehicle 12364.0 2433.0 12386.0 2457.0 difficult
+small-vehicle 12275.0 1989.0 12302.0 2012.0 difficult
+small-vehicle 12282.0 1998.0 12308.0 2023.0 difficult
+small-vehicle 12328.0 2062.0 12353.0 2087.0 difficult
+small-vehicle 12335.0 2075.0 12362.0 2098.0 difficult
+small-vehicle 12341.0 2087.0 12367.0 2108.0 difficult
+small-vehicle 12352.0 2096.0 12375.0 2118.0 difficult
+small-vehicle 12356.0 2107.0 12382.0 2131.0 difficult
+small-vehicle 12364.0 2120.0 12390.0 2141.0 difficult
+small-vehicle 12371.0 2128.0 12398.0 2152.0 difficult
+small-vehicle 12381.0 2139.0 12404.0 2159.0 difficult
+small-vehicle 12385.0 2148.0 12413.0 2173.0 difficult
+small-vehicle 12395.0 2161.0 12422.0 2186.0 difficult
+small-vehicle 12404.0 2174.0 12423.0 2196.0 difficult
+small-vehicle 12414.0 2192.0 12442.0 2216.0 difficult
+small-vehicle 12422.0 2206.0 12448.0 2229.0 difficult
+small-vehicle 12431.0 2214.0 12458.0 2239.0 difficult
+small-vehicle 12446.0 2235.0 12474.0 2259.0 difficult
+small-vehicle 12462.0 2263.0 12484.0 2281.0 difficult
+small-vehicle 12468.0 2271.0 12493.0 2291.0 difficult
+small-vehicle 12515.0 2342.0 12543.0 2369.0 difficult
+small-vehicle 12528.0 2365.0 12559.0 2392.0 difficult
+small-vehicle 12422.0 2298.0 12444.0 2326.0 difficult
+small-vehicle 12310.0 2351.0 12330.0 2378.0 difficult
+small-vehicle 12269.0 1980.0 12296.0 2002.0 difficult
+small-vehicle 12244.0 1945.0 12272.0 1968.0 difficult
+small-vehicle 12238.0 1933.0 12266.0 1955.0 difficult
+small-vehicle 12365.0 2026.0 12391.0 2045.0 difficult
+small-vehicle 12445.0 2143.0 12472.0 2165.0 difficult
+small-vehicle 12438.0 2134.0 12463.0 2155.0 difficult
+small-vehicle 12432.0 2124.0 12458.0 2144.0 difficult
+small-vehicle 12423.0 2110.0 12450.0 2132.0 difficult
+small-vehicle 12416.0 2102.0 12441.0 2121.0 difficult
+small-vehicle 12409.0 2086.0 12437.0 2111.0 difficult
+small-vehicle 12401.0 2078.0 12428.0 2100.0 difficult
+small-vehicle 12394.0 2065.0 12424.0 2092.0 difficult
+small-vehicle 12385.0 2057.0 12412.0 2082.0 difficult
+small-vehicle 12380.0 2048.0 12405.0 2070.0 difficult
+small-vehicle 12358.0 2012.0 12384.0 2038.0 difficult
+small-vehicle 12232.0 1920.0 12261.0 1946.0 difficult
+small-vehicle 12351.0 2004.0 12377.0 2025.0 difficult
+small-vehicle 12344.0 1991.0 12371.0 2015.0 difficult
+small-vehicle 12338.0 1980.0 12365.0 2001.0 difficult
+small-vehicle 12326.0 1972.0 12352.0 1995.0 difficult
+small-vehicle 12323.0 1959.0 12350.0 1981.0 difficult
+small-vehicle 12314.0 1948.0 12338.0 1968.0 difficult
+small-vehicle 12306.0 1937.0 12332.0 1958.0 difficult
+small-vehicle 12290.0 1918.0 12318.0 1942.0 difficult
+small-vehicle 12284.0 1905.0 12310.0 1926.0 difficult
+small-vehicle 12223.0 1910.0 12252.0 1935.0 difficult
+small-vehicle 12325.0 2378.0 12348.0 2403.0 difficult
+small-vehicle 12439.0 2436.0 12456.0 2465.0 difficult
+small-vehicle 11889.0 1276.0 11923.0 1304.0
+small-vehicle 12192.0 2465.0 12217.0 2495.0 difficult
+small-vehicle 12558.0 3093.0 12589.0 3106.0 difficult
+small-vehicle 12405.0 3285.0 12433.0 3302.0 difficult
+small-vehicle 12574.0 3407.0 12584.0 3428.0 difficult
+small-vehicle 12587.0 3403.0 12597.0 3428.0 difficult
+small-vehicle 12558.0 3455.0 12571.0 3485.0 difficult
+small-vehicle 12588.0 3460.0 12602.0 3488.0 difficult
+small-vehicle 12428.0 3452.0 12445.0 3485.0 difficult
+small-vehicle 12393.0 3455.0 12408.0 3484.0 difficult
+small-vehicle 12202.0 3432.0 12225.0 3456.0 difficult
+small-vehicle 12022.0 3401.0 12047.0 3430.0 difficult
+small-vehicle 11952.0 3404.0 11978.0 3422.0 difficult
+small-vehicle 11935.0 3415.0 11968.0 3432.0 difficult
+small-vehicle 11968.0 3454.0 11981.0 3478.0 difficult
+small-vehicle 11981.0 3451.0 11995.0 3481.0 difficult
+small-vehicle 12003.0 3602.0 12032.0 3617.0 difficult
+small-vehicle 12081.0 3652.0 12091.0 3671.0 difficult
+small-vehicle 12118.0 3710.0 12145.0 3725.0 difficult
+small-vehicle 12531.0 3656.0 12542.0 3676.0 difficult
+small-vehicle 12557.0 3656.0 12569.0 3681.0 difficult
+small-vehicle 11865.0 2025.0 11886.0 2051.0 difficult
+small-vehicle 12571.0 1567.0 12598.0 1589.0 difficult
+small-vehicle 13130.0 1166.0 13153.0 1193.0 difficult
+small-vehicle 13108.0 1181.0 13128.0 1207.0 difficult
+small-vehicle 12566.0 2780.0 12593.0 2803.0 difficult
+large-vehicle 12202.0 2574.0 12263.0 2604.0 difficult
+small-vehicle 12500.0 2688.0 12536.0 2720.0 difficult
+small-vehicle 11975.0 2264.0 11996.0 2290.0 difficult
+small-vehicle 12129.0 2369.0 12151.0 2401.0 difficult
+small-vehicle 12105.0 2337.0 12124.0 2362.0 difficult
+small-vehicle 12066.0 2370.0 12088.0 2398.0 difficult
+small-vehicle 12055.0 2383.0 12077.0 2410.0 difficult
+small-vehicle 12087.0 2403.0 12112.0 2433.0 difficult
+small-vehicle 12022.0 2383.0 12046.0 2413.0 difficult
+small-vehicle 12040.0 2161.0 12068.0 2192.0 difficult
+small-vehicle 11982.0 2158.0 12012.0 2193.0 difficult
+small-vehicle 12018.0 2206.0 12041.0 2235.0 difficult
+small-vehicle 11885.0 2180.0 11911.0 2212.0 difficult
+small-vehicle 11962.0 2292.0 11988.0 2322.0 difficult
+small-vehicle 11945.0 2521.0 11976.0 2564.0 difficult
+small-vehicle 11854.0 2263.0 11888.0 2303.0 difficult
+small-vehicle 11819.0 2211.0 11858.0 2257.0 difficult
+small-vehicle 11802.0 2306.0 11825.0 2338.0 difficult
+small-vehicle 11846.0 2331.0 11868.0 2358.0 difficult
+small-vehicle 12050.0 2419.0 12073.0 2451.0 difficult
+small-vehicle 12069.0 2453.0 12093.0 2482.0 difficult
+small-vehicle 12132.0 2471.0 12159.0 2504.0 difficult
+small-vehicle 12088.0 2483.0 12114.0 2514.0 difficult
+small-vehicle 11991.0 2424.0 12020.0 2464.0 difficult
+small-vehicle 11988.0 2461.0 12017.0 2498.0 difficult
+small-vehicle 12453.0 2155.0 12480.0 2176.0 difficult
+small-vehicle 12458.0 2165.0 12489.0 2189.0 difficult
+small-vehicle 12466.0 2176.0 12492.0 2200.0 difficult
+small-vehicle 12486.0 2205.0 12515.0 2233.0 difficult
+small-vehicle 12493.0 1874.0 12519.0 1895.0 difficult
+small-vehicle 12478.0 1901.0 12505.0 1921.0 difficult
+small-vehicle 12464.0 1877.0 12493.0 1902.0 difficult
+small-vehicle 12457.0 1867.0 12484.0 1892.0 difficult
+small-vehicle 12474.0 1841.0 12499.0 1861.0 difficult
+small-vehicle 12443.0 1842.0 12471.0 1868.0 difficult
+small-vehicle 12448.0 1807.0 12476.0 1833.0 difficult
+small-vehicle 12427.0 1822.0 12453.0 1847.0 difficult
+small-vehicle 12419.0 1812.0 12448.0 1832.0 difficult
+small-vehicle 12230.0 1784.0 12258.0 1809.0 difficult
+small-vehicle 12377.0 1842.0 12404.0 1863.0 difficult
+small-vehicle 12383.0 1854.0 12410.0 1877.0 difficult
+small-vehicle 12400.0 1875.0 12424.0 1899.0 difficult
+small-vehicle 12408.0 1883.0 12433.0 1906.0 difficult
+small-vehicle 12429.0 1918.0 12452.0 1940.0 difficult
+small-vehicle 12448.0 1951.0 12477.0 1973.0 difficult
+small-vehicle 12352.0 1858.0 12375.0 1877.0 difficult
+small-vehicle 12361.0 1869.0 12386.0 1892.0 difficult
+small-vehicle 12374.0 1891.0 12402.0 1915.0 difficult
+small-vehicle 12383.0 1901.0 12408.0 1925.0 difficult
+small-vehicle 12392.0 1912.0 12415.0 1933.0 difficult
+small-vehicle 12398.0 1922.0 12423.0 1946.0 difficult
+small-vehicle 12408.0 1934.0 12432.0 1953.0 difficult
+small-vehicle 12502.0 1883.0 12528.0 1908.0 difficult
+small-vehicle 12512.0 1894.0 12538.0 1916.0 difficult
+small-vehicle 12518.0 1905.0 12544.0 1926.0 difficult
+small-vehicle 12558.0 1759.0 12584.0 1788.0 difficult
+large-vehicle 11992.0 1213.0 12048.0 1240.0
+large-vehicle 12101.0 1416.0 12162.0 1445.0 difficult
+large-vehicle 12088.0 1397.0 12145.0 1421.0 difficult
+large-vehicle 12069.0 1367.0 12131.0 1394.0 difficult
+small-vehicle 12361.0 1705.0 12390.0 1731.0
+small-vehicle 12474.0 1739.0 12498.0 1763.0 difficult
+small-vehicle 12482.0 1755.0 12508.0 1776.0 difficult
+small-vehicle 12492.0 1768.0 12515.0 1788.0 difficult
+small-vehicle 12498.0 1776.0 12524.0 1800.0 difficult
+small-vehicle 12510.0 1798.0 12538.0 1821.0 difficult
+small-vehicle 12515.0 1809.0 12544.0 1832.0 difficult
+small-vehicle 12532.0 1926.0 12557.0 1949.0 difficult
+small-vehicle 12523.0 1818.0 12552.0 1842.0 difficult
+small-vehicle 12530.0 1827.0 12558.0 1853.0 difficult
+small-vehicle 12538.0 1840.0 12567.0 1865.0 difficult
+small-vehicle 12550.0 1854.0 12574.0 1877.0 difficult
+small-vehicle 12556.0 1864.0 12582.0 1887.0 difficult
+small-vehicle 12561.0 1875.0 12589.0 1898.0 difficult
+small-vehicle 12539.0 1986.0 12565.0 2009.0 difficult
+small-vehicle 12552.0 1958.0 12581.0 1982.0 difficult
+small-vehicle 12546.0 1948.0 12574.0 1972.0 difficult
+small-vehicle 12542.0 1939.0 12566.0 1961.0 difficult
+small-vehicle 12413.0 1945.0 12438.0 1966.0 difficult
+small-vehicle 12419.0 1956.0 12445.0 1977.0 difficult
+small-vehicle 12426.0 1966.0 12454.0 1989.0 difficult
+small-vehicle 12505.0 2179.0 12531.0 2202.0 difficult
+small-vehicle 12391.0 2008.0 12416.0 2029.0 difficult
+small-vehicle 12396.0 2020.0 12422.0 2043.0 difficult
+small-vehicle 12402.0 2026.0 12430.0 2052.0 difficult
+small-vehicle 12410.0 2041.0 12436.0 2063.0 difficult
+small-vehicle 12426.0 2061.0 12448.0 2082.0 difficult
+small-vehicle 12436.0 2082.0 12463.0 2109.0 difficult
+small-vehicle 12447.0 2094.0 12472.0 2119.0 difficult
+small-vehicle 12455.0 2104.0 12481.0 2130.0 difficult
+small-vehicle 12474.0 2137.0 12500.0 2161.0 difficult
+small-vehicle 12486.0 2157.0 12518.0 2186.0 difficult
+small-vehicle 12578.0 2198.0 12602.0 2218.0 difficult
+small-vehicle 12375.0 1984.0 12401.0 2006.0 difficult
+small-vehicle 12511.0 2190.0 12538.0 2215.0 difficult
+small-vehicle 12533.0 2225.0 12560.0 2246.0 difficult
+small-vehicle 12547.0 2245.0 12575.0 2268.0 difficult
+small-vehicle 12563.0 2316.0 12589.0 2338.0 difficult
+small-vehicle 12556.0 2302.0 12584.0 2328.0 difficult
+small-vehicle 12550.0 2295.0 12575.0 2318.0 difficult
+small-vehicle 12538.0 2283.0 12568.0 2309.0 difficult
+small-vehicle 12533.0 2272.0 12559.0 2295.0 difficult
+small-vehicle 12516.0 2250.0 12545.0 2273.0 difficult
+small-vehicle 12505.0 2225.0 12532.0 2252.0 difficult
+small-vehicle 12380.0 1997.0 12406.0 2017.0 difficult
+small-vehicle 12368.0 1976.0 12392.0 1997.0 difficult
+small-vehicle 12463.0 1973.0 12490.0 1996.0 difficult
+small-vehicle 12567.0 2124.0 12592.0 2150.0 difficult
+small-vehicle 12479.0 1994.0 12506.0 2018.0 difficult
+small-vehicle 12438.0 1987.0 12468.0 2012.0 difficult
+small-vehicle 12448.0 1999.0 12474.0 2025.0 difficult
+small-vehicle 12460.0 2016.0 12487.0 2044.0 difficult
+small-vehicle 12468.0 2029.0 12495.0 2056.0 difficult
+small-vehicle 12478.0 2039.0 12503.0 2068.0 difficult
+small-vehicle 12516.0 2047.0 12544.0 2072.0 difficult
+small-vehicle 12541.0 2089.0 12570.0 2114.0 difficult
+small-vehicle 12552.0 2101.0 12577.0 2125.0 difficult
+small-vehicle 12558.0 2111.0 12586.0 2139.0 difficult
+small-vehicle 12572.0 2135.0 12599.0 2159.0 difficult
+small-vehicle 12364.0 1960.0 12387.0 1985.0 difficult
+small-vehicle 12498.0 2069.0 12525.0 2097.0 difficult
+small-vehicle 12506.0 2082.0 12536.0 2109.0 difficult
+small-vehicle 12512.0 2096.0 12538.0 2119.0 difficult
+small-vehicle 12445.0 2039.0 12468.0 2068.0 difficult
+small-vehicle 12308.0 1887.0 12335.0 1910.0 difficult
+small-vehicle 12315.0 1897.0 12338.0 1922.0 difficult
+small-vehicle 12329.0 1916.0 12357.0 1943.0 difficult
+small-vehicle 12337.0 1929.0 12365.0 1955.0 difficult
+small-vehicle 12345.0 1942.0 12370.0 1965.0 difficult
+small-vehicle 12354.0 1956.0 12375.0 1975.0 difficult
+plane 173.0 316.0 364.0 507.0

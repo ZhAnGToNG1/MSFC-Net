@@ -1,0 +1,7 @@
+trainstation 403.0 157.0 559.0 641.0
+tenniscourt 159.0 615.0 197.0 658.0
+tenniscourt 147.0 631.0 192.0 674.0
+tenniscourt 137.0 652.0 179.0 686.0
+tenniscourt 127.0 666.0 164.0 702.0
+tenniscourt 119.0 681.0 155.0 714.0
+overpass 621.0 197.0 708.0 293.0

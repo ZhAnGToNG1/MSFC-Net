@@ -28,6 +28,57 @@
 Please refer to [INSTALL.md](readme/INSTALL.md) for installation.
 
 ## How to use
+### Prepare dataset
+
+inital data structure:
+```
+data/dota
+├── train
+│   ├── images
+│   └── labelTxt
+└── val
+    ├── images
+    └── labelTxt
+
+```
+
+
+1. Split the original images
+```
+python dota_devkit/ImgSplit_multi_process.py
+(Manually enter the basepath and outpath)
+Then, you should get data in following structure.
+```
+```
+data/dota_split
+├── train
+│   ├── images
+│   └── labelTxt
+└──  val
+    ├── images
+    └── labelTxt
+```
+2. Create COCO format json
+```
+python dota_devkit/DOTA2COCO.py
+(Manually enter the srcpath and destfile)
+```
+
+```
+data/dota_split
+├── train
+│   ├── images
+│   ├── labelTxt
+│   └── train.json
+│
+└── val
+    ├── images
+    ├── labelTxt
+    └── val.json
+```
+(The purpose of splitting val dataset is to find the optimal model, not for testing.)
+
+
 ### Test
 
 For finishing the test, firstly, you only need to download the DOTA validation and DIOR test images, the ground truth have been provided in `MSFC-Net_ROOT/exp/mAP/DOTA(DIOR)/input/ground-truth/`. Secondly, please download above the model networks. Finally, you can test as follow:

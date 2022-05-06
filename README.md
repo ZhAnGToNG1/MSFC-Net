@@ -1,6 +1,6 @@
 # Multi-Scale Semantic Fusion-Guided Fractal Convolutional Object Detection Network for Optical Remote Sensing Imagery
 
-> The project contains the code for implementing the MSFC-Net algorithm for optiacal remote sensing object detection.
+> The project contains the code for implementing the [MSFC-Net](https://ieeexplore.ieee.org/abstract/document/9535169) for optiacal remote sensing object detection.
 
 ## Main results
 

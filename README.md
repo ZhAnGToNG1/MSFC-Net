@@ -129,3 +129,16 @@ Contact: bit_zhangtong@163.com. If you have any questions.
 
 The code is modified based on [CenterNet](https://github.com/xingyizhou/CenterNet).
 
+### Citation
+```bash
+@ARTICLE{msfc2021zhang,  
+ author={Zhang, Tong and Zhuang, Yin and Wang, Guanqun and Dong, Shan and Chen, He and Li, Lianlin},  
+ journal={IEEE Transactions on Geoscience and Remote Sensing},   
+ title={Multiscale Semantic Fusion-Guided Fractal Convolutional Object Detection Network for Optical Remote Sensing Imagery},   
+ year={2022},  
+ volume={60},  
+ number={},  
+ pages={1-20},  
+ doi={10.1109/TGRS.2021.3108476}}
+```
+

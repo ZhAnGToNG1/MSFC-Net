@@ -104,7 +104,7 @@ python train.py ctdet --exp_id msfcnet --batch_size 10 --dataset DOTA --arch msf
 
 ### Evaluation
 
-After testing the images, the results would be save in `MSFC-Net_ROOT/exp/mAP/DOTA(DIOR)/input/detection-results/`.
+After testing the images, the results would be saved in `MSFC-Net_ROOT/exp/mAP/DOTA(DIOR)/input/detection-results/`.
 
 The mAP is calculated by the https://github.com/Cartucho/mAP, for convenience, the code have been downloaded into the project `MSFC-Net_ROOT/exp/mAP/DOTA` and `MSFC-Net_ROOT/exp/mAP/DIOR`. 
 
